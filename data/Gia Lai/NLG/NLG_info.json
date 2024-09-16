@@ -1,0 +1,14 @@
+{
+    "name": "Phân hiệu Đại học Nông Lâm TP HCM tại Gia Lai",
+    "id": "NLG",
+    "region": "Gia Lai",
+    "contact_details": {
+        "location": "Đường Trần Nhật Duật, Thôn 1, Xã Diên Phú, TP Pleiku, Gia Lai",
+        "phone": [
+            "0269.3877.665"
+        ],
+        "website": "www.phgl.hcmuaf.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

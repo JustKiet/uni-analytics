@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Kiên Giang",
+    "id": "TKG",
+    "region": "Kiên Giang",
+    "contact_details": {
+        "location": "320A Quốc lộ 61, thị trấn Minh Lương, Châu Thành, Kiên Giang",
+        "phone": [
+            "0297 3.628 777",
+            "0297 3.96 8888"
+        ],
+        "website": "http://tuyensinh.vnkgu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

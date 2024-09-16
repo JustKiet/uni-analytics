@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Tôn Đức Thắng",
+    "id": "DTT",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 19 đường Nguyễn Hữu Thọ, Phường Tân Phong, Quận 7",
+        "phone": [
+            "19002024"
+        ],
+        "website": "https://admission.tdtu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

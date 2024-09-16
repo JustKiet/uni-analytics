@@ -1,0 +1,6 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Điều dưỡng 7720301,18.0,,,"Điều kiện phụ: TO >= 6, SI >= 4, HO >= 5.25, TTNV <= 2"
+2.0,Dược học (tổ hợp B00) 7720201B,22.75,,,"Điều kiện phụ: TO >= 8, SI >= 7.25, HO >= 7.25, TTNV <= 3"
+3.0,Dược học (tổ hợp A00) 7720201A,22.55,,,"Điều kiện phụ: TO >= 7.8, SI >= 6.5, LI >= 8.25, TTNV <= 2"
+4.0,Răng- Hàm -Mặt 7720501,23.65,,,"Điều kiện phụ: TO >= 7.4, SI >= 7.5, HO >= 8, TTNV <= 4"
+5.0,Y khoa 7720101,23.8,,,"Điều kiện phụ: TO >= 7.8, SI >= 7.75, HO >= 7.5, TTNV <= 3"

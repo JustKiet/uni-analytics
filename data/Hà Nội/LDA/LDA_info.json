@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Công đoàn",
+    "id": "LDA",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "169 - Tây Sơn - Đống Đa - Hà Nội",
+        "phone": [
+            "024. 3857.3204"
+        ],
+        "website": "http://www.dhcd.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

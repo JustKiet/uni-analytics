@@ -1,0 +1,24 @@
+{
+    "name": "Đại học An Giang - Đại học Quốc gia TP HCM",
+    "id": "QSA",
+    "region": "An Giang",
+    "contact_details": {
+        "location": "Số 18 Ung Văn Khiêm, phường Đông Xuyên, TP Long Xuyên, An Giang",
+        "phone": [
+            "0794222245"
+        ],
+        "website": "https://www.agu.edu.vn/tuyensinh",
+        "email": [
+            "tuyensinh@agu.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2660,
+        "methods": [
+            "Xét tuyển thẳng và ưu tiên xét tuyển thẳng",
+            "Ưu tiên xét tuyển theo quy định của Đại học Quốc gia TP HCM",
+            "Xét tuyển dựa trên kết quả thi tốt nghiệp THPT 2024"
+        ]
+    }
+}

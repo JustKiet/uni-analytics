@@ -1,0 +1,16 @@
+{
+    "name": "Đại học Xây dựng Miền Trung",
+    "id": "XDT",
+    "region": "Phú Yên",
+    "contact_details": {
+        "location": "Đường Hà Huy Tập, Phường Bình Kiến, TP Tuy Hoà, Phú Yên",
+        "phone": [
+            "094 2000 749",
+            "0917 688 903",
+            "0935 484 235"
+        ],
+        "website": "http://tuyensinh.muce.edu.vn/home/noidung",
+        "email": "null"
+    },
+    "admission_details": null
+}

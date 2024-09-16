@@ -1,0 +1,14 @@
+{
+    "name": "Đại Học Thủy Lợi ( Cơ sở 2 )",
+    "id": "TLS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 2 Trường Sa, P.17, Q.Bình Thạnh, Tp.Hồ Chí Minh",
+        "phone": [
+            "0243.563.1537"
+        ],
+        "website": "https://www.tlu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

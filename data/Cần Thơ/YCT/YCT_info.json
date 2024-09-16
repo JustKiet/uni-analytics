@@ -1,0 +1,23 @@
+{
+    "name": "Đại học Y Dược Cần Thơ",
+    "id": "YCT",
+    "region": "Cần Thơ",
+    "contact_details": {
+        "location": "Số 179, đường Nguyễn Văn Cừ, Phường An Khánh, Quận Ninh Kiều, TP Cần Thơ",
+        "phone": [
+            "0907250077",
+            "0902903844"
+        ],
+        "website": "http://www.ctump.edu.vn/Default.aspx?tabid=1033",
+        "email": [
+            "daotao@ctump.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2260,
+        "methods": [
+            "Xét tuyển điểm thi THPT 2024"
+        ]
+    }
+}

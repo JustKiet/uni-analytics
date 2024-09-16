@@ -1,0 +1,85 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Chính trị học (chuyên ngành Chính sách công) 7310201A,16.6,,,Thang điểm 30
+2.0,Chính trị học (SP Triết học) 7310201D,17.35,,,Thang điểm 30
+3.0,Chính trị học (Sư phạm Triết học) 7310201B,16.65,,,Thang điểm 30
+4.0,Công tác xã hội 7760101C,16.0,,,Thang điểm 30
+5.0,Công nghệ thông tin 7480201A,16.05,,,Thang điểm 30
+6.0,Công tác xã hội 7760101D,16.0,,,Thang điểm 30
+7.0,Công tác xã hội 7760101B,16.75,,,Thang điểm 30
+8.0,Công nghệ thông tin 7480201B,16.05,,,Thang điểm 30
+9.0,Giáo dục Mầm non 7140201C,19.03,,,Thang điểm 30
+10.0,Giáo dục Tiểu học 7140202C,20.05,,,Thang điểm 30
+11.0,Giáo dục công dân 7140204A,21.05,,,Thang điểm 30
+12.0,Giáo dục Tiểu học 7140202B,21.15,,,Thang điểm 30
+13.0,Giáo dục Đặc biệt 7140203B,19.5,,,Thang điểm 30
+14.0,Giáo dục công dân 7140204D,17.1,,,Thang điểm 30
+15.0,Giáo dục Tiểu học 7140202A,22.15,,,Thang điểm 30
+16.0,Giáo dục công dân 7140204B,17.25,,,Thang điểm 30
+17.0,Giáo dục Mầm non 7140201B,19.45,,,Thang điểm 30
+18.0,Giáo dục Đặc biệt 7140203D,19.1,,,Thang điểm 30
+19.0,Giáo dục chính trị 7140205B,17.5,,,Thang điểm 30
+20.0,Giáo dục Mầm non 7140201A,21.15,,,Thang điểm 30
+21.0,Giáo dục Đặc biệt 7140203C,21.75,,,Thang điểm 30
+22.0,Giáo dục chính trị 7140205A,17.0,,,Thang điểm 30
+23.0,Giáo dục chính trị 7140205D,17.85,,,Thang điểm 30
+24.0,Hóa học 7440112,16.85,,,Thang điểm 30
+25.0,Ngôn ngữ Anh 7220201,21.0,,,Thang điểm 30
+26.0,Quản lý giáo dục 7140114A,17.1,,,Thang điểm 30
+27.0,Quản lí giáo dục 7140114D,17.4,,,Thang điểm 30
+28.0,Quản lý giáo dục 7140114C,20.75,,,Thang điểm 30
+29.0,Sinh học 7420101A,19.2,,,Thang điểm 30
+30.0,Sinh học 7420101C,16.0,,,Thang điểm 30
+31.0,Sinh học 7420101B,17.05,,,Thang điểm 30
+32.0,SP Vật lý (dạy Vật lý bằng tiếng Anh) 7140211G,20.75,,,Thang điểm 30
+33.0,SP Sinh học (dạy Sinh bằng tiếng Anh) 7140213C,20.45,,,Thang điểm 30
+34.0,SP Sinh học (dạy Sinh bằng tiếng Anh) 7140213E,18.4,,,Thang điểm 30
+35.0,SP Tin học (dạy Tin bằng tiếng Anh) 7140210C,22.85,,,Thang điểm 30
+36.0,SP Sinh học (dạy Sinh bằng tiếng Anh) 7140213F,17.8,,,Thang điểm 30
+37.0,SP Toán học (dạy Toán bằng tiếng Anh) 7140209C,23.35,,,Thang điểm 30
+38.0,SP Tin học (dạy Tin bằng tiếng Anh) 7140210D,22.15,,,Thang điểm 30
+39.0,SP Vật lý (dạy Vật lý bằng tiếng Anh) 7140211E,18.35,,,Thang điểm 30
+40.0,SP Vật lý 7140211D,18.05,,,Thang điểm 30
+41.0,Sư phạm Lịch sử 7140218D,18.05,,,Thang điểm 30
+42.0,Sư phạm Công nghệ 7140246A,21.45,,,Thang điểm 30
+43.0,Sư phạm Toán học 7140209B,23.3,,,Thang điểm 30
+44.0,Sư phạm Vật lý 7140211C,21.4,,,Thang điểm 30
+45.0,Sư phạm Hóa học (đào tạo GV THCS) 7140212B,18.75,,,Thang điểm 30
+46.0,Sư phạm Ngữ văn 7140217C,24.0,,,Thang điểm 30
+47.0,Sư phạm Địa lý 7140219B,21.55,,,Thang điểm 30
+48.0,Sư phạm Tiếng Anh 7140231,22.6,,,Thang điểm 30
+49.0,Sư phạm Công nghệ 7140246C,20.4,,,Thang điểm 30
+50.0,Sư phạm Toán học (dạy Toán bằng tiếng Anh) 7140209D,24.8,,,Thang điểm 30
+51.0,Sư phạm Vật lý (đào tạo GV THPT) 7140211A,18.55,,,Thang điểm 30
+52.0,Sư phạm Vật lý (đào tạo GV THCS) 7140211B,18.0,,,Thang điểm 30
+53.0,Sư phạm Hóa học (đào tạo GV THPT) 7140212A,18.6,,,Thang điểm 30
+54.0,Sư phạm Địa lí 7140219A,17.75,,,Thang điểm 30
+55.0,Sư phạm Công nghệ 7140246B,20.1,,,Thang điểm 30
+56.0,Sư phạm tiểu học (sư phạm Tiếng Anh) 7140202D,21.95,,,Thang điểm 30
+57.0,Sư phạm Sinh học (đào tạo GV THCS) 7140213B,19.35,,,Thang điểm 30
+58.0,Sư phạm Sinh học (dạy Sinh bằng tiếng Anh) 7140213D,17.55,,,Thang điểm 30
+59.0,Sư phạm Lịch sử 7140218C,22.0,,,Thang điểm 30
+60.0,Sư phạm Tiếng Pháp 7140233D,18.6,,,Thang điểm 30
+61.0,Sư phạm Toán học 7140209A,21.5,,,Thang điểm 30
+62.0,Sư phạm Tin học 7140210B,17.0,,,Thang điểm 30
+63.0,Sư phạm Sinh học (đào tạo GV THPT) 7140213A,17.9,,,Thang điểm 30
+64.0,Sư phạm Ngữ văn 7140217D,21.1,,,Thang điểm 30
+65.0,Sư phạm Địa lý 7140219C,22.25,,,Thang điểm 30
+66.0,Sư phạm Tiếng Pháp 7140233C,18.65,,,Thang điểm 30
+67.0,Sư phạm Tin học (đào tạo giáo viên dạy Tin học bằng tiếng Anh) 7140210A,17.15,,,Thang điểm 30
+68.0,Tâm lí học 7310401A,16.1,,,Thang điểm 30
+69.0,Tâm lý học 7310401D,16.05,,,Thang điểm 30
+70.0,Tâm lý học 7310401C,16.0,,,Thang điểm 30
+71.0,Tâm lý học giáo dục 7310403C,16.0,,,Thang điểm 30
+72.0,Tâm lý học - Giáo dục 7310403A,16.4,,,Thang điểm 30
+73.0,Tâm lý học giáo dục 7310403D,16.05,,,Thang điểm 30
+74.0,Toán học 7460101C,16.3,,,Thang điểm 30
+75.0,Toán học 7460101B,16.1,,,Thang điểm 30
+76.0,Toán học 7460101D,16.1,,,Thang điểm 30
+77.0,Triết học 7229001C,16.5,,,Thang điểm 30
+78.0,Triết học 7229001D,16.0,,,Thang điểm 30
+79.0,Triết học 7229001B,16.75,,,Thang điểm 30
+80.0,Văn học 7229030C,16.0,,,Thang điểm 30
+81.0,Văn học 7229030D,16.0,,,Thang điểm 30
+82.0,Việt Nam học 7310630C,16.0,,,Thang điểm 30
+83.0,Việt Nam học 7310630D,16.45,,,Thang điểm 30
+84.0,Việt Nam học 7310630B,16.4,,,Thang điểm 30

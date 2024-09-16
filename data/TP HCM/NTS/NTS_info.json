@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Ngoại thương (phía Nam)",
+    "id": "NTS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 5, đường D5, phường 25, quận Bình Thạnh, TP HCM",
+        "phone": [
+            "028.3512.7254"
+        ],
+        "website": "https://www.ftu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

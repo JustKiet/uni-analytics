@@ -1,0 +1,14 @@
+{
+    "name": "Học Viện Âm Nhạc Huế",
+    "id": "HVA",
+    "region": "Huế",
+    "contact_details": {
+        "location": "Số 1, Lê Lợi, Thành phố Huế",
+        "phone": [
+            "https://hocvienamnhachue.edu.vn"
+        ],
+        "website": "https://hocvienamnhachue.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

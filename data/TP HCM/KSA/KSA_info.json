@@ -1,0 +1,29 @@
+{
+    "name": "Đại học Kinh tế TP HCM",
+    "id": "KSA",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 59C Nguyễn Đình Chiểu, Quận 3",
+        "phone": [
+            "0902 230 082",
+            "0941 230 082",
+            "0899 002 939"
+        ],
+        "website": "https://tuyensinh.ueh.edu.vn/",
+        "email": [
+            "tuyensinh@ueh.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 7900,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ",
+            "Xét học sinh giỏi",
+            "Xét điểm thi ĐGNL của ĐHQG TP.HCM",
+            "Xét học sinh tốt nghiệp chương trình THPT nước ngoài có chứng chỉ quốc tế"
+        ]
+    }
+}

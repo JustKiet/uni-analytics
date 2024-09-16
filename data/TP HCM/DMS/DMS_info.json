@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Tài chính Marketing",
+    "id": "DMS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 778 Nguyễn Kiệm, Phường 4, Quận Phú Nhuận",
+        "phone": [
+            "028. 37720406"
+        ],
+        "website": "https://tuyensinh.ufm.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

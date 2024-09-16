@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Dân Lập Phú Xuân",
+    "id": "DPX",
+    "region": "Huế",
+    "contact_details": {
+        "location": "176 Trần Phú, Phước Vĩnh, TP. Huế, tỉnh Thừa Thiên Huế",
+        "phone": [
+            "0234.7306.888",
+            "0905.984.286"
+        ],
+        "website": "https://phuxuan.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

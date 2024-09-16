@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Sư Phạm - Đại học Đà Nẵng",
+    "id": "DDS",
+    "region": "Đà Nẵng",
+    "contact_details": {
+        "location": "Số 459 đường Tôn Đức Thắng, Liên Chiểu, Đà Nẵng",
+        "phone": [
+            "0898.204.204"
+        ],
+        "website": "https://tuyensinh.ued.udn.vn/",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2800,
+        "methods": [
+            "Xét tuyển dựa trên kết quả kỳ thi tốt nghiệp THPT năm 2024",
+            "Xét tuyển dựa trên kết quả học tập THPT (học bạ)",
+            "Xét điểm thi ĐGNL của ĐHQG TP.HCM",
+            "Xét tuyển thẳng theo quy chế tuyển sinh của Bộ Giáo dục và Đào tạo",
+            "Xét theo đề án riêng của trường: Học sinh giỏi quốc gia, Học sinh giỏi tỉnh/thành phố, học sinh chuyên, học sinh giỏi THPT, có chứng chỉ ngoại ngữ quốc tế",
+            "Xét điểm thi tốt nghiệp THPT kết hợp thi năng khiếu",
+            "Xét học bạ kết hợp thi năng khiếu",
+            "Xét điểm thi ĐGNL của Đại học Sư phạm Hà Nội"
+        ]
+    }
+}

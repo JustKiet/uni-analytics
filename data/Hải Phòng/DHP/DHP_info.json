@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Quản lý và Công nghệ Hải Phòng",
+    "id": "DHP",
+    "region": "Hải Phòng",
+    "contact_details": {
+        "location": "Phường Dư Hàng Kênh, Q.Lê Chân, TP.Hải Phòng",
+        "phone": [
+            "https://www.hpu.edu.vn"
+        ],
+        "website": "https://www.hpu.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

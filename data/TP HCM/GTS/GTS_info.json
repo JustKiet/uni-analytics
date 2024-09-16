@@ -1,0 +1,16 @@
+{
+    "name": "Đại học Giao thông vận tải TP HCM",
+    "id": "GTS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 2, Đường Võ Oanh, Phường 25, Quận Bình Thạnh, TP HCM",
+        "phone": [
+            "028 35 126 902",
+            "028 35 128 360",
+            "036 287 8 287"
+        ],
+        "website": "tuyensinh.ut.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

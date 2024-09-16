@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Công nghiệp Thực phẩm TP HCM",
+    "id": "DCT",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 140 Lê Trọng Tấn, PhườngTây Thạnh, Quận Tân Phong",
+        "phone": [
+            "096 205 1080"
+        ],
+        "website": "https://ts.hufi.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

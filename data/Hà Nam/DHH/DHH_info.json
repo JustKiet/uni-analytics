@@ -1,0 +1,14 @@
+{
+    "name": "Đại Học Hà Hoa Tiên",
+    "id": "DHH",
+    "region": "Hà Nam",
+    "contact_details": {
+        "location": "Xã Hoàng Đông - Huyện Duy Tiên - Tỉnh Hà Nam",
+        "phone": [
+            "http://hahoatien.edu.vn"
+        ],
+        "website": "http://hahoatien.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

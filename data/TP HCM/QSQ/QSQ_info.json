@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Quốc tế - Đại học Quốc gia TP HCM",
+    "id": "QSQ",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Khu phố 6, Phường Linh Trung, TP Thủ Đức",
+        "phone": [
+            "0839 464 270"
+        ],
+        "website": "https://tuyensinh.hcmiu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

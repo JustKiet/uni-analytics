@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Mỹ Thuật TP HCM",
+    "id": "MTS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 5, đường Phan Đăng Lưu, Phường 3, Quận Bình Thạnh, TPHCM",
+        "phone": [
+            "0909 925 954"
+        ],
+        "website": "http://hcmufa.edu.vn/tuyensinh/",
+        "email": "null"
+    },
+    "admission_details": null
+}

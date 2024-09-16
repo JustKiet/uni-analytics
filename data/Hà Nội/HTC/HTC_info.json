@@ -1,0 +1,24 @@
+{
+    "name": "Học viện Tài chính",
+    "id": "HTC",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "58 Lê Văn Hiến, phường Đức Thắng, quận Bắc Từ Liêm",
+        "phone": [
+            "0961.481.086",
+            "0967.684.086"
+        ],
+        "website": "https://hvtc.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 4500,
+        "methods": [
+            "Tuyển thẳng",
+            "Xét tuyển học sinh giỏi bậc THPT",
+            "Xét tuyển kết hợp kết quả thi tốt nghiệp THPT 2024 và chứng chỉ quốc tế",
+            "Xét tuyển dựa vào kết quả thi tốt nghiệp THPT năm 2024."
+        ]
+    }
+}

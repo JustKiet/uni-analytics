@@ -1,0 +1,13 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Điều dưỡng nha khoa 7720301B,20.35,,,"Tiêu chí phụ: Tổng điểm 3 môn chưa tròn >= 19.85, Sinh học >= 6, Hoá học >= 6.25, Toán >= 7.6"
+2.0,Điều dưỡng (B8) 7720301B8,18.0,,,"Tiêu chí phụ: Tổng điểm 3 môn chưa tròn >= 17.5, Sinh học >= 4.5, Toán >= 6.2, Tiếng Anh >= 6.8"
+3.0,Dược học (tổ hợp A00) 7720201A,22.95,,,"Tiêu chí phụ: Tổng điểm 3 môn chưa tròn >= 22.95, Hoá học >= 6.75, Toán >= 8.20, Vật lý >= 8"
+4.0,Dược học (D) 7720201D,20.5,,,"Tiêu chí phụ: Tổng điểm 3 môn chưa tròn >= 19.8, Hoá học >= 7, Toán >= 7.2, Tiếng Anh >= 5.6"
+5.0,Dược học (tổ hợp B00) 7720201B,23.15,,,"Tiêu chí phụ: Tổng điểm 3 môn chưa tròn >= 22.65, Sinh học >= 6.75, Hoá học >= 7.5, Toán >= 8.4"
+6.0,Kỹ thuật xét nghiệm y học 7720601,20.8,,,"Tiêu chí phụ: Tổng điểm 3 môn chưa tròn >= 20.8, Sinh học >= 7, Hoá học >= 7, Toán >= 6.8"
+7.0,Răng- Hàm -Mặt 7720501,23.5,,,"Tiêu chí phụ: Tổng điểm 3 môn chưa tròn >= 23.25, Sinh học >= 8.75, Hoá học >= 6.5, Toán >= 8"
+8.0,Y học dự phòng B00 7720110B,18.05,,,"Tiêu chí phụ: Tổng điểm 3 môn chưa tròn >= 17.8, Sinh học >= 4.5, Hoá học >= 6.5, Toán >= 6.8"
+9.0,Y học dự phòng B08 7720110B8,20.6,,,"Tiêu chí phụ: Tổng điểm 3 môn chưa tròn >= 20.6, Sinh học >= 6, Toán >= 7, Tiếng Anh >= 7.6"
+10.0,Y học cổ truyền 7720115,20.1,,,"Tiêu chí phụ: Tổng điểm 3 môn chưa tròn >= 19.35, Sinh học >= 6, Hoá học >= 5.75, Toán >= 7.6"
+11.0,Y khoa (A) 7720101A,23.2,,,"Tiêu chí phụ: Tổng điểm 3 môn chưa tròn >=22.70, Hoá học >= 7.25, Toán >= 8.20, Vật lý >= 7.25"
+12.0,Y khoa (B) 7720101B,23.85,,,"Tiêu chí phụ: Tổng điểm 3 môn chưa tròn >= 23.6, Sinh học >= 7.25, Hoá học >= 7.75, Toán >= 8.6"

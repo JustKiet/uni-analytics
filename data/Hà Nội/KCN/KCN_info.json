@@ -1,0 +1,21 @@
+{
+    "name": "Đại học Khoa Học Và Công Nghệ Hà Nội",
+    "id": "KCN",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1050,
+        "methods": [
+            "Xét tuyển dựa trên kết quả thi đánh giá năng lực do Trường tổ chức",
+            "Xét tuyển dựa trên kết quả học tập cấp THPT kết hợp phỏng vấn",
+            "Xét tuyển thẳng theo đề án của Trường",
+            "Xét tuyển dựa trên kết quả thi tốt nghiệp THPT"
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "name": "Đại học Hàng hải Việt Nam",
+    "id": "HHA",
+    "region": "Hải Phòng",
+    "contact_details": {
+        "location": "484 Lạch Tray, Lê Chân, Hải Phòng",
+        "phone": [
+            "0225.3735.138",
+            "0225.3729690",
+            "0225.3851657"
+        ],
+        "website": "http://tuyensinh.vimaru.edu.vn/",
+        "email": [
+            "tuyensinh@vimaru.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 4500,
+        "methods": [
+            "Xét tuyển dựa trên kết quả Kỳ thi tốt nghiệp Trung học phổ thông năm 2024",
+            "Xét tuyển theo đề án riêng của Trường Đại học Hàng hải Việt Nam",
+            "Xét học bạ",
+            "Xét tuyển dựa trên điểm thi đánh giá năng lực (ĐGNL) của ĐHQG Hà Nội hoặc của ĐHQG TPHCM hoặc điểm thi đánh giá tư duy (ĐGTD) của Đại học Bách khoa Hà Nội",
+            "Xét tuyển kết hợp chứng chỉ ngoại ngữ quốc tế và học bạ",
+            "Xét tuyển thẳng"
+        ]
+    }
+}

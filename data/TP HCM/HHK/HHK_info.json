@@ -1,0 +1,24 @@
+{
+    "name": "Học viện Hàng không Việt Nam",
+    "id": "HHK",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "104 Nguyễn Văn Trỗi, phường 8, quận Phú Nhuận, TP HCM, Việt Nam.",
+        "phone": [
+            "02838424762",
+            "0911959505"
+        ],
+        "website": "https://vaa.edu.vn/",
+        "email": [
+            "tuyensinh@vaa.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 3350,
+        "methods": [
+            "Xét tuyển sớm (học sinh giỏi, chứng chỉ IELTS, điểm thi ĐGNL của ĐHQG Hà Nội và HCM, học bạ, tuyển thẳng)",
+            "Xét điểm thi tốt nghiệp THPT 2024"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Học viện Công nghệ Bưu chính Viễn thông (phía Bắc)",
+    "id": "BVH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Km10, Đường Nguyễn Trãi, Q.Hà Đông, Hà Nội",
+        "phone": [
+            "0243.352.8122",
+            "0243.351.2252"
+        ],
+        "website": "https://tuyensinh.ptit.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 5060,
+        "methods": [
+            "Xét tuyển tài năng: các thí sinh là thành viên đội tuyển Olympic quốc tế hoặc đoạt giải Quốc gia, Quốc tế; hồ sơ năng lực với học sinh giỏi quốc gia, giải thi HSG thành phố và học sinh tại các trường chuyên",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét kết hợp học bạ và chứng chỉ quốc tế",
+            "Xét điểm thi ĐGNL của ĐHQG Hà Nội và TP. HCM; ĐGTD của Đại học Bách khoa Hà Nội"
+        ]
+    }
+}

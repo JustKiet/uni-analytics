@@ -1,0 +1,22 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Hệ thống thông tin quản lý (Quản trị hệ thống thông tin kinh tế) TM22,19.75,,,DS>=17
+2.0,Kế toán (Kế toán công) TM09,19.5,,,DS>=17
+3.0,Kế toán (Kế toán doanh nghiệp)-Chất lượng cao TM08,19.5,,,DS>=17; N1>=6
+4.0,Kế toán (Kế toán doanh nghiệp) TM07,20.9,,,DS>=17; Tiêu chí phụ: TO; LI#TO; N1#TO; N1: 6.2000; 7.2000; 96
+5.0,Kinh tế (Quản lý kinh tế) TM13,20.3,,,DS>=17; Tiêu chí phụ: TO; LI#TO; N1#TO; N1: 5.8000; 6.0000; 92
+6.0,Kinh tế quốc tế (Kinh tế quốc tế) TM12,21.25,,,DS>=17; Tiêu chí phụ: TO; LI#TO; N1#TO; N1: 6.0000; 6.0000; 98
+7.0,Kinh doanh quốc tế (Thương mại quốc tế) TM11,21.2,,,DS>=17; Tiêu chí phụ: TO; LI#TO; N1#TO; N1: 7.2000; 6.5000; 98
+8.0,Luật kinh tế (Luật kinh tế) TM19,19.95,,,DS>=17; Tiêu chí phụ: TO; LI#TO; N1#TO; N1: 7.2000; 6.2500; 98
+9.0,Marketing (Marketing thương mại) TM04,21.55,,,DS>=17; Tiêu chí phụ: TO; LI#TO; N1#TO; N1: 6.0000; 7.8000; 99
+10.0,Marketing (Quản trị thương hiệu) TM05,20.75,,,DS>=17; Tiêu chí phụ: TO; LI#TO; N1#TO; N1: 7.4000; 6.6000; 96
+11.0,Ngôn ngữ Anh (Tiếng Anh Thương mại) TM18,21.05,,,"DS>=17; N1>=6; Tiêu chí phụ: N1, TO: 7.6000; 5.2000; 96"
+12.0,Quản trị kinh doanh (Tiếng Trung thương mại) TM21,20.0,,,DS>=17
+13.0,Quản trị nhân lực (Quản trị nhân lực doanh nghiệp) TM23,20.4,,,DS>=17; Tiêu chí phụ: TO; LI#TO; N1#TO; N1: 6.4000; 6.0000; 95
+14.0,Quản trị kinh doanh (Quản trị kinh doanh) TM01,20.75,,,DS>=17
+15.0,Quản trị kinh doanh (Tiếng Pháp thương mại) TM20,19.5,,,DS>=17
+16.0,Quản trị dịch vụ du lịch và lữ hành (Quản trị dịch vụ du lịch và lữ hành) TM03,21.0,,,DS>=17; Tiêu chí phụ: TO; LI#TO; N1#TO; N1: 6.6000; 6.4000; 98
+17.0,Quản trị khách sạn (Quản trị khách sạn) TM02,21.0,,,DS>=17; Tiêu chí phụ: TO; LI#TO; N1#TO; N1: 7.0000; 6.5000; 97
+18.0,Tài chính - Ngân hàng (Tài chính công) TM16,19.5,,,DS>=17
+19.0,Tài chính - Ngân hàng (Tài chính – Ngân hàng thương mại) TM14,20.0,,,DS>=17
+20.0,Tài chính - Ngân hàng (TC-NH thương mại)-Chất lượng cao TM15,19.5,,,DS>=17; N1>=6
+21.0,Thương mại điện tử (Quản trị Thương mại điện tử) TM17,20.7,,,DS>=17; Tiêu chí phụ: TO; LI#TO; N1#TO; N1: 7.2000; 6.5000; 98

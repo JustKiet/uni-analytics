@@ -1,0 +1,20 @@
+{
+    "name": "Đại học Phòng Cháy Chữa Cháy ( Phía Bắc )",
+    "id": "PCH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 140,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét học bạ kết hợp chứng chỉ quốc tế",
+            "Xét điểm thi A00 tốt nghiệp THPT và bài thi đánh giá của Bộ Công an"
+        ]
+    }
+}

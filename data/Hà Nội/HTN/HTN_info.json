@@ -1,0 +1,26 @@
+{
+    "name": "Học viện Thanh Thiếu Niên Việt Nam",
+    "id": "HTN",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 3 phố Chùa Láng, phường Láng Thượng, quận Đống Đa, Hà Nội",
+        "phone": [
+            "024.3211.5861",
+            "024.38343837",
+            "024.37752230"
+        ],
+        "website": "https://tuyensinhvya.edu.vn/",
+        "email": [
+            "tuyensinh@vya.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1450,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ",
+            "Xét học bạ 3 kỳ"
+        ]
+    }
+}

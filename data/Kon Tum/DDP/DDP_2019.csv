@@ -1,0 +1,15 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Công nghệ sinh học 7420201,14.4,,,Điều kiện phụ: TTNV <= 2
+2.0,Công nghệ thông tin 7480201,14.05,,,Điều kiện phụ: TTNV <= 2
+3.0,Giáo dục Tiểu học 7140202,19.5,,,Điều kiện phụ: TTNV <= 4
+4.0,Kế toán 7340301,14.0,,,Điều kiện phụ: TTNV <= 3
+5.0,Kinh tế phát triển 7310105,,,,
+6.0,Kinh doanh nông nghiệp 7620114,,,,
+7.0,Kinh doanh thương mại 7340121,,,,
+8.0,Kỹ thuật xây dựng 7580201,14.15,,,Điều kiện phụ: TTNV <= 1
+9.0,Kỹ thuật điện 7520201,,,,
+10.0,Luật kinh tế 7380107,14.25,,,Điều kiện phụ: TTNV <= 2
+11.0,Quản trị dịch vụ du lịch và lữ hành 7810103,14.0,,,Điều kiện phụ: TTNV <= 2
+12.0,Quản lý nhà nước 7310205,14.0,,,Điều kiện phụ: TTNV <= 3
+13.0,Quản trị doanh nghiệp 7340101,14.0,,,Điều kiện phụ: TTNV <= 3
+14.0,Tài chính – Ngân hàng 7340201,14.86,,,Điều kiện phụ: TTNV <= 3

@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Xây dựng Hà Nội",
+    "id": "XDA",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 55 Đường Giải Phóng, Quận Hai Bà Trưng, TP Hà Nội",
+        "phone": [
+            "0869071382"
+        ],
+        "website": "http://www.tuyensinh.nuce.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

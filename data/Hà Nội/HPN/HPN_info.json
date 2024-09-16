@@ -1,0 +1,14 @@
+{
+    "name": "Học viện Phụ nữ Việt Nam",
+    "id": "HPN",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "68 Nguyễn Chí Thanh, Q.Đống Đa, Hà Nội",
+        "phone": [
+            "0243.7751.750"
+        ],
+        "website": "http://hvpnvn.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

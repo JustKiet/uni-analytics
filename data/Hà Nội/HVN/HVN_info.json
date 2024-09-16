@@ -1,0 +1,15 @@
+{
+    "name": "Học viện Nông nghiệp Việt Nam",
+    "id": "HVN",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Thị trấn Trâu Quỳ, huyện Gia Lâm, Hà Nội",
+        "phone": [
+            "024.6261.7578",
+            "024.6261.7520"
+        ],
+        "website": "http://tuyensinh.vnua.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

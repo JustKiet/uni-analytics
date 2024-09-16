@@ -1,0 +1,14 @@
+{
+    "name": "Học Viện Khoa Học Quân Sự - Hệ Dân sự",
+    "id": "DNH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "322 Lê Trọng Tấn, Q. Thanh Xuân, Tp. Hà Nội",
+        "phone": [
+            "http://www.hocvienkhqs.edu.vn"
+        ],
+        "website": "http://www.hocvienkhqs.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

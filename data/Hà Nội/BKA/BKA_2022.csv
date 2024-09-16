@@ -1,0 +1,117 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,An toàn không gian số - Cyber security (CT tiên tiến) IT-E15x,20.58,,,DGTD
+2.0,Chương trình tiên tiến Logistics và Quản lý chuỗi cung ứng EM-E14y,24.51,,,THPT
+3.0,Chương trình tiên tiến Kỹ thuật Thực phẩm BF-E12y,23.35,,,THPT
+4.0,Chương trình tiên tiến KHKT Vật liệu MS-E3x,14.25,,,DGTD
+5.0,Chương trình tiên tiến Hệ thống nhúng thông minh và IoT ET-E9x,14.78,,,DGTD
+6.0,Chương trình tiên tiến Phân tích kinh doanh EM-E13x,15.16,,,DGTD
+7.0,Chương trình tiên tiến Kỹ thuật Điều khiển - Tự động hóa và Hệ thống điện EE-E8x,17.4,,,DGTD
+8.0,Chương trình tiên tiến KHKT Vật liệu MS-E3y,23.16,,,THPT
+9.0,Chương trình tiên tiến Kỹ thuật Cơ điện tử ME-E1y,24.28,,,THPT
+10.0,Chương trình tiên tiến Kỹ thuật Điện tử - Viên thông ET-E4y,24.19,,,THPT
+11.0,Chương trình tiên tiến Kỹ thuật Điều khiển - Tự động hóa và Hệ thống điện EE-E8y,25.99,,,THPT
+12.0,Chương trình tiên tiến Logistics và Quản lý chuỗi cung ứng EM-E14x,15.03,,,DGTD
+13.0,Chương trình tiên tiến Kỹ thuật Hóa dược CH-E11x,15.35,,,DGTD
+14.0,Chương trình tiên tiến Kỹ thuật Ô tô TE-E2y,24.06,,,THPT
+15.0,Chương trình tiên tiến Hệ thống nhúng thông minh và IoT ET-E9y,24.14,,,THPT
+16.0,Chương trình tiên tiến Phân tích kinh doanh EM-E13y,24.18,,,THPT
+17.0,Chương trình tiên tiến Kỹ thuật Hóa dược CH-E11y,23.7,,,THPT
+18.0,Chương trình tiên tiến Kỹ thuật Ô tô TE-E2x,14.04,,,DGTD
+19.0,Chương trình tiên tiến Khoa học dữ liệu và Trí tuệ nhân tạo IT-E10x,22.68,,,DGTD
+20.0,Chương trình tiên tiến Kỹ thuật Y sinh ET-E5x,15.25,,,DGTD
+21.0,Chương trình tiên tiến Kỹ thuật Thực phẩm BF-E12x,15.6,,,DGTD
+22.0,Chương trình tiên tiến Kỹ thuật Y sinh ET-E5y,23.89,,,THPT
+23.0,Chương trình tiên tiến Kỹ thuật Cơ điện tử ME-E1x,14.18,,,DGTD
+24.0,Chương trình tiên tiến Kỹ thuật Điện tử - Viên thông ET-E4x,16.92,,,DGTD
+25.0,Cơ điện tử - ĐHCN Nagaoka (Nhật Bản) ME-NUTy,23.21,,,THPT
+26.0,Cơ khí hàng không (Chương trình Việt - Pháp PFIEV) TE-EPx,14.0,,,DGTD
+27.0,Cơ điện tử - ĐH Leibniz Hannover (Đức) ME-LUHx,14.18,,,DGTD
+28.0,Cơ khí hàng không (Chương trình Việt - Pháp PFIEV) TE-EPy,23.55,,,THPT
+29.0,Cơ điện tử - ĐHCN Nagaoka (Nhật Bản) ME-NUTx,14.18,,,DGTD
+30.0,Cơ điện tử - ĐH Leibniz Hannover (Đức) ME-LUHy,23.29,,,THPT
+31.0,Cơ khí - Chế tạo máy - Đh Griffith (Úc) ME-GUx,14.0,,,DGTD
+32.0,Cơ khí - Chế tạo máy - Đh Griffith (Úc) ME-GUy,23.36,,,THPT
+33.0,Công nghệ giáo dục ED2y,23.15,,21000000.0,THPT
+34.0,Công nghệ thông tin (Việt - Nhật) IT-E6x,18.39,,,DGTD
+35.0,Công nghệ thông tin (Việt - Pháp) IT-Epx,16.26,,,DGTD
+36.0,Công nghệ giáo dục ED2x,14.5,,21000000.0,DGTD
+37.0,Công nghệ thông tin (Global ICT) IT-E7x,21.96,,,DGTD
+38.0,Công nghệ dệt may TX1y,23.1,,21000000.0,THPT
+39.0,Công nghệ thông tin (Việt - Nhật) IT-E6y,27.25,,,THPT
+40.0,Điện tử - Viên thông - ĐH Leibniz Hannover (Đức) ET-LUHy,23.15,,,THPT
+41.0,Điện tử - Viên thông - ĐH Leibniz Hannover (Đức) ET-LUHx,14.5,,,DGTD
+42.0,Hệ thống điện và năng lượng tái tạo (CT tiên tiến) EE-E18x,14.4,,,DGTD
+43.0,Hệ thống thông tin quản lý MI2y,26.54,,,THPT
+44.0,Hệ thống điện và năng lượng tái tạo (CT tiên tiến) EE-E18y,23.55,,,THPT
+45.0,Hệ thống thông tin quản lý MI2x,14.44,,23000000.0,DGTD
+46.0,Hóa học CH2y,23.03,,21000000.0,THPT
+47.0,Hóa học CH2x,14.05,,21000000.0,DGTD
+48.0,Kế toán EM4y,25.2,,23000000.0,THPT
+49.0,Kế toán EM4x,15.23,,23000000.0,DGTD
+50.0,Khoa học máy tính - ĐH Troy (Hoa Kỳ) TROY-ITx,14.02,,,DGTD
+51.0,Khoa học Máy tính IT1x,22.25,,24000000.0,DGTD
+52.0,Khoa học máy tính - ĐH Troy (Hoa Kỳ) TROY-ITy,25.15,,,THPT
+53.0,Kinh tế công nghiệp EM1x,14.88,,23000000.0,DGTD
+54.0,Kinh tế công nghiệp EM1y,24.3,,23000000.0,THPT
+55.0,Kỹ thuật Ô tô TE1y,26.41,,23000000.0,THPT
+56.0,Kỹ thuật Hàng không TE3y,24.23,,23000000.0,THPT
+57.0,Kỹ thuật Cơ điện tử ME1y,26.33,,24000000.0,THPT
+58.0,Kỹ thuật y sinh (mới) ET2y,23.15,,,THPT
+59.0,Kỹ thuật hạt nhân PH2x,14.0,,21000000.0,DGTD
+60.0,Kỹ thuật Môi trường EV1x,14.05,,21000000.0,DGTD
+61.0,Kỹ thuật in CH3x,14.05,,21000000.0,DGTD
+62.0,Kỹ thuật Nhiệt HE1y,23.26,,23000000.0,THPT
+63.0,Kỹ thuật Điều kiển - Tự động hóa EE2y,27.61,,24000000.0,THPT
+64.0,Kỹ thuật Cơ khí động lực TE2x,14.04,,23000000.0,DGTD
+65.0,Kỹ thuật Cơ khí ME2x,14.18,,23000000.0,DGTD
+66.0,Kỹ thuật Điện tử - Viễn thông ET1x,14.05,,24000000.0,DGTD
+67.0,Kỹ thuật sinh học BF1x,14.5,,23000000.0,DGTD
+68.0,Kỹ thuật Ô tô TE1x,14.04,,23000000.0,DGTD
+69.0,Kỹ thuật Nhiệt HE1x,14.39,,23000000.0,DGTD
+70.0,Kỹ thuật Cơ khí động lực TE2y,24.16,,23000000.0,THPT
+71.0,Kỹ thuật Vật liệu MS1y,23.16,,21000000.0,THPT
+72.0,Kỹ thuật Cơ khí ME2y,23.5,,,THPT
+73.0,Kỹ thuật Môi trường EV1y,23.03,,21000000.0,THPT
+74.0,Kỹ thuật Điện EE1y,23.05,,23000000.0,THPT
+75.0,Kỹ thuật Hóa Học CH1y,23.03,,21000000.0,THPT
+76.0,Kỹ thuật hạt nhân PH2y,23.29,,21000000.0,THPT
+77.0,Kỹ thuật Điện tử - Viễn thông ET1y,24.5,,24000000.0,THPT
+78.0,Kỹ thuật thực phẩm BF2y,23.35,,23000000.0,THPT
+79.0,Kỹ thuật Vật liệu MS1x,14.25,,21000000.0,DGTD
+80.0,Kỹ thuật Điều kiển - Tự động hóa EE2x,17.43,,24000000.0,DGTD
+81.0,Kỹ thuật Máy tính IT2y,28.29,,24000000.0,THPT
+82.0,Kỹ thuật in CH3y,23.03,,21000000.0,THPT
+83.0,Kỹ thuật sinh học BF1y,23.25,,23000000.0,THPT
+84.0,Kỹ thuật Dệt - May TX1x,14.2,,21000000.0,DGTD
+85.0,Kỹ thuật Hàng không TE3x,14.04,,23000000.0,DGTD
+86.0,Kỹ thuật Cơ điện tử ME1x,14.18,,24000000.0,DGTD
+87.0,Kỹ thuật Máy tính IT2x,21.19,,24000000.0,DGTD
+88.0,Kỹ thuật Điện EE1x,14.4,,23000000.0,DGTD
+89.0,Kỹ thuật thực phẩm BF2x,15.6,,23000000.0,DGTD
+90.0,Kỹ thuật Hóa Học CH1x,14.05,,21000000.0,DGTD
+91.0,Nghiệp vụ An ninh (Địa bàn 8 - Nữ) 7860100|13A00|8,23.1,,,THPT
+92.0,Quản lý công nghiệp EM2y,23.3,,23000000.0,THPT
+93.0,Quản lý tài nguyên và môi trường EV2y,23.03,,21000000.0,THPT
+94.0,Quản trị kinh doanh EM3x,15.1,,23000000.0,DGTD
+95.0,Quản trị kinh doanh - ĐH Troy (Hoa Kỳ) TROY-BAx,14.0,,,DGTD
+96.0,Quản lý công nghiệp EM2x,17.67,,23000000.0,DGTD
+97.0,Quản lý công nghiệp ET2x,14.5,,23000000.0,DGTD
+98.0,Quản trị kinh doanh EM3y,25.35,,23000000.0,THPT
+99.0,Quản trị kinh doanh - ĐH Troy (Hoa Kỳ) TROY-BAy,23.4,,,THPT
+100.0,Quản lý tài nguyên và môi trường EV2x,14.0,,21000000.0,DGTD
+101.0,Tài chính - Ngân hàng EM5x,14.28,,23000000.0,DGTD
+102.0,Tài chính - Ngân hàng EM5y,25.2,,23000000.0,THPT
+103.0,Tiếng anh KHKT và Công nghệ FL1x,16.28,,23000000.0,DGTD
+104.0,Tiếng anh chuyên nghiệp quốc tế FL2y,23.06,,23000000.0,THPT
+105.0,Tiếng anh chuyên nghiệp quốc tế FL2x,16.28,,23000000.0,DGTD
+106.0,Tiếng anh KHKT và Công nghệ FL1y,23.06,,23000000.0,THPT
+107.0,Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV) EE-Epx,14.0,,,DGTD
+108.0,Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV) EE-Epy,23.99,,,THPT
+109.0,Toán - Tin MI1x,14.43,,23000000.0,DGTD
+110.0,Toán - Tin MI1y,26.45,,23000000.0,THPT
+111.0,Truyền thông số và Kỹ thuật đa phương tiện (CT tiên tiến) ET-E16x,17.73,,,DGTD
+112.0,Truyền thông số và Kỹ thuật đa phương tiện (CT tiên tiến) ET-E16y,24.71,,,THPT
+113.0,Vật lý y khoa PH3x,14.0,,21000000.0,DGTD
+114.0,Vật lý kỹ thuật PH1x,14.5,,21000000.0,DGTD
+115.0,Vật lý y khoa PH3y,23.29,,21000000.0,THPT
+116.0,Vật lý kỹ thuật PH1y,23.29,,21000000.0,THPT

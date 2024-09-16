@@ -1,0 +1,18 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Đông phương học 7310608,18.85,,,TTNV <= 2
+2.0,Ngôn ngữ Trung Quốc CLC 7220204CLC,19.39,,,TTNV <= 3
+3.0,Ngôn ngữ Hàn Quốc 7220210,21.71,,,N1 >= 6.6;TTNV <= 1
+4.0,Ngôn ngữ Anh 7220201,20.1,,,N1 >= 5.6;TTNV <= 1
+5.0,Ngôn ngữ Pháp 7220203,17.48,,,TTNV <= 2
+6.0,Ngôn ngữ Thái Lan 7220214,18.28,,,N1 >= 4.8;TTNV <= 3
+7.0,Ngôn ngữ Nga 7220202,16.69,,,TTNV <= 2
+8.0,Ngôn ngữ Hàn Quốc CLC 7220210CLC,19.56,,,N1 >= 6.2;TTNV <= 3
+9.0,Ngôn ngữ Anh (Chất lượng cao) 7220201CLC,17.89,,,N1 >= 6.6;TTNV <= 1
+10.0,Ngôn ngữ Nhật 7220209,21.63,,,TTNV <= 1
+11.0,Ngôn ngữ Nhật CLC 7220209CLC,18.98,,,TTNV <= 4
+12.0,Ngôn ngữ Trung Quốc 7220204,21.3,,,TTNV <= 3
+13.0,Quốc tế học CLC 7310601CLC,17.46,,,N1 >= 6.6;TTNV <= 6
+14.0,Quốc tế học 7310601,18.44,,,N1 >= 5.8;TTNV <= 1
+15.0,Sư phạm Tiếng Pháp 7140233,17.28,,,TTNV <= 6
+16.0,Sư phạm Tiếng Trung Quốc 7140234,20.11,,,TTNV <= 3
+17.0,Sư phạm Tiếng Anh 7140231,21.95,,,N1 >= 5.8;TTNV <= 2

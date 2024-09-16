@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Phương Đông",
+    "id": "DPD",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 171, Trung Kính, Yên Hòa, Cầu Giấy, Hà Nội\nSố 4, ngõ 228 Minh Khai, Hai Bà Trưng, Hà Nội",
+        "phone": [
+            "0243.7847110"
+        ],
+        "website": "http://phuongdong.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

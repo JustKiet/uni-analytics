@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Công nghệ Sài Gòn",
+    "id": "DSG",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "180 Cao Lỗ, Phường 4, Quận 8, TP HCM",
+        "phone": [
+            "0902 992 306"
+        ],
+        "website": "http://daotao2.stu.edu.vn/thongtintuyensinh/",
+        "email": "null"
+    },
+    "admission_details": null
+}

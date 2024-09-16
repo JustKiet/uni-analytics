@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Ngoại thương (phía Bắc)",
+    "id": "NTH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "91 Phố Chùa Láng, Láng Thượng, Đống Đa, Hà Nội",
+        "phone": [
+            "024.3259.5158"
+        ],
+        "website": "https://www.ftu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

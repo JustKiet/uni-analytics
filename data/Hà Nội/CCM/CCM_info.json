@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Công Nghiệp Dệt May Hà Nội",
+    "id": "CCM",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Lệ Chi - Gia Lâm - Hà Nội",
+        "phone": [
+            "024.3692.2552",
+            "0917.966.488"
+        ],
+        "website": "hict.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

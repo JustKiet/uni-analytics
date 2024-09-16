@@ -1,0 +1,16 @@
+{
+    "name": "Đại học Sư phạm Kỹ thuật Hưng Yên",
+    "id": "SKH",
+    "region": "Hưng Yên",
+    "contact_details": {
+        "location": "Xã Dân Tiến, Huyện Khoái Châu, Hưng Yên\nPhường Nhân Hòa, Thị xã Mỹ Hào, Hưng Yên\nPhường Tân Bình, TP Hải Dương, Hải Dương",
+        "phone": [
+            "0221.368.9888",
+            "0221.368.9555",
+            "0221.368.9333"
+        ],
+        "website": "http://www.utehy.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

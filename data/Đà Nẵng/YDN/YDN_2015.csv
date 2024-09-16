@@ -1,0 +1,18 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Điều dưỡng gây mê hồi sức 7720505,21.0,,,Sinh>=6.50
+2.0,Điều dưỡng C720501,20.0,,,Sinh >=5.25
+3.0,Điêu dưỡng gây mê hôi sức C720505,19.0,,,Sinh >=4.50
+4.0,Điều dưỡng 7720301,21.0,,,Sinh>=6.25
+5.0,Điều dưỡng nha khoa 7720504,21.0,,,Sinh>=6.75
+6.0,Điều dưỡng 7720503,21.75,,,Sinh>=6.00
+7.0,Điêu dưỡng nha khoa C720504,19.25,,,Sinh>=5.50
+8.0,Dinh dưỡng 7720401,24.5,,,Hóa>=8.00
+9.0,Dược C900107,22.0,,,Hóa >=7.50
+10.0,Hộ sinh C720502,18.75,,,Sinh >=5.75
+11.0,Kĩ thuật hình ảnh y học C720330,19.0,,,Sinh>=5.00
+12.0,Kỹ thuật hình ảnh y học 7720330,23.25,,,Sinh>=7.00
+13.0,Phục hồi chức năng C720503,19.0,,,Sinh >=5.50
+14.0,Răng- Hàm -Mặt 7720501,21.25,,,Sinh>=5.75
+15.0,Xét nghiệm y học 7720332,23.0,,,Sinh>=7.50
+16.0,Xét nghiệm y học C720332,20.0,,,Sinh>=6.00
+17.0,Y khoa 7720101,25.75,,,Sinh>=9.25

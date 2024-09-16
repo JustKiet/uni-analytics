@@ -1,0 +1,21 @@
+{
+    "name": "Đại học Kỹ thuật Y Dược Đà Nẵng",
+    "id": "YDN",
+    "region": "Đà Nẵng",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1094,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét điểm thi tốt nghiệp THPT 2024 kết hợp chứng chỉ ngoại ngữ quốc tế",
+            "Xét học bạ",
+            "Xét tuyển thẳng"
+        ]
+    }
+}

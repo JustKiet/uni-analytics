@@ -1,0 +1,32 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Công nghệ thông tin 7480201,16.5,,,"Môn Toán hệ số 2, đã quy đổi; tiêu chí phụ: môn Toán"
+2.0,Công tác xã hội 7760101,17.5,,,Tiêu chí phụ: môn Ngữ văn
+3.0,Công tác xã hội 7760101|001,17.5,,,Tiêu chí phụ: môn Ngoại ngữ
+4.0,ĐH Toán ứng dụng 7460112,16.0,,,"Môn Toán hệ số 2, đã quy đổi; tiêu chí phụ: môn Toán"
+5.0,Điều dưỡng 7720301,18.2,,,Tiêu chí phụ: môn Sinh
+6.0,Dinh dưỡng 7720401,18.2,,,Tiêu chí phụ: môn Sinh
+7.0,Hệ thống thông tin 7480104,15.5,,,"Môn Toán hệ số 2, đã quy đổi; tiêu chí phụ: môn Toán"
+8.0,Kế toán 7340301,19.0,,,Tiêu chí phụ: môn Toán
+9.0,Kế toán 7340301|001,19.0,,,Tiêu chí phụ: môn Ngoại ngữ
+10.0,Khoa học máy tính 7480101,15.5,,,"Môn Toán hệ số 2, đã quy đổi; tiêu chí phụ: môn Toán"
+11.0,Logistic và quản lý chuỗi cung ứng 7510605|001,19.0,,,Tiêu chí phụ: môn Ngoại ngữ
+12.0,Logistics và Quản lý chuỗi cung ứng 7510605,19.0,,,Tiêu chí phụ: môn Toán
+13.0,Mạng máy tính và truyền thông dữ liệu 7480102,15.5,,,"Môn Toán hệ số 2, đã quy đổi; tiêu chí phụ: môn Toán"
+14.0,Ngôn ngữ Nhật 7220209|001,20.1,,,"Môn Nhật hệ số 2, đã quy đổi; tiêu chí phụ: môn Ngoại ngữ"
+15.0,Ngôn ngữ Trung Quốc 7220204,21.6,,,"Môn Tiếng Trung hệ số 2, đã quy đổi; tiêu chí phụ: môn Ngoại ngữ"
+16.0,Ngôn ngữ Hàn Quốc 7220210,20.7,,,Tiêu chí phụ: môn Ngoại ngữ
+17.0,Ngôn ngữ Nhật 7220209,,,,
+18.0,Ngôn ngữ Anh 7220201,19.8,,,"Môn Anh hệ số 2, đã quy đổi; tiêu chí phụ: môn Ngoại ngữ"
+19.0,Quản trị dịch vụ du lịch và lữ hành 7810103,19.7,,,Tiêu chí phụ: môn Toán
+20.0,Quản lý bệnh viện 7720802,15.4,,,Tiêu chí phụ: môn Sinh
+21.0,Quản trị dịch vụ du lịch và lữ hành 7810103|001,19.7,,,Tiêu chí phụ: môn Ngoại ngữ
+22.0,Quản trị doanh nghiệp 7340101,19.7,,,Tiêu chí phụ: môn Toán
+23.0,Quản trị kinh doanh 7340101|001,19.7,,,Tiêu chí phụ: môn Ngoại ngữ
+24.0,Tài chính – Ngân hàng 7340201|001,19.2,,,Tiêu chí phụ: môn Ngoại ngữ
+25.0,Tài chính – Ngân hàng 7340201,19.2,,,Tiêu chí phụ: môn Toán
+26.0,Truyền thông đa phương tiện 7320104|001,19.7,,,Tiêu chí phụ: môn Ngoại ngữ
+27.0,Truyền thông đa phương tiện 7320104|002,19.7,,,Tiêu chí phụ: môn Toán
+28.0,Truyền thông đa phương tiện 7320104,19.7,,,Tiêu chí phụ: môn Ngữ văn
+29.0,Việt Nam học 7310630|001,18.0,,,Tiêu chí phụ: môn Ngoại ngữ
+30.0,Việt Nam học 7310630D,18.0,,,Tiêu chí phụ: môn Ngữ văn
+31.0,Y tế công cộng 7720701,15.1,,,Tiêu chí phụ: môn Sinh

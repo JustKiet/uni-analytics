@@ -1,0 +1,24 @@
+{
+    "name": "Đại học Luật Hà Nội",
+    "id": "LPH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "87 Nguyễn Chí Thanh, Đống Đa, Hà Nội",
+        "phone": [
+            "1900.1205",
+            "0243.835.1879"
+        ],
+        "website": "http://tuyensinh.hlu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2500,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét tuyển các thi sinh tham dự Vòng thi tháng/quý/năm cuộc thi Đường lên đỉnh Olympia do Đài truyền hình Việt Nam tổ chức.",
+            "Xét tuyển dựa trên học bạ của bậc THPT",
+            "Xét tuyển dựa trên kết quả Kỳ thi tốt nghiệp THPT năm 2024"
+        ]
+    }
+}

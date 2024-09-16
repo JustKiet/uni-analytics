@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Khánh Hòa",
+    "id": "UKH",
+    "region": "Khánh Hòa",
+    "contact_details": {
+        "location": "Số 1 Nguyễn Chánh, Phường Lộc Thọ, TP Nha Trang, Khánh Hòa\nSố 52 Phạm Văn Đồng, Phường Vĩnh Hải, TP Nha Trang, Khánh Hòa.",
+        "phone": [
+            "0905 52 54 54",
+            "0969 09 14 14"
+        ],
+        "website": "http://ukh.edu.vn/vi-vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

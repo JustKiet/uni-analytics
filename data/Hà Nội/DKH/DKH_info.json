@@ -1,0 +1,26 @@
+{
+    "name": "Đại học Dược Hà Nội",
+    "id": "DKH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "13-15 Lê Thánh Tông, quận Hoàn Kiếm, Hà Nội.",
+        "phone": [
+            "024.382.545.39"
+        ],
+        "website": "http://www.hup.edu.vn/Pages/tuyen-sinh.aspx",
+        "email": [
+            "info@hup.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 940,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét tuyển kết hợp kết quả học tập THPT với chứng chỉ SAT/ACT",
+            "Xét tuyển kết quả học tập THPT đối với học sinh giỏi các lớp chuyên của Trường THPT năng khiếu/ chuyên cấp quốc gia hoặc cấp Tỉnh/ Thành phố trực thuộc Trung ương",
+            "Xét tuyển căn cứ kết quả Kỳ thi đánh giá tư duy của Trường Đại học Bách Khoa Hà Nội năm 2024 (chỉ áp dụng ngành Dược học)",
+            "Xét tuyển căn cứ kết quả thi tốt nghiệp THPT năm 2024"
+        ]
+    }
+}

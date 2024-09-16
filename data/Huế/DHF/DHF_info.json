@@ -1,0 +1,25 @@
+{
+    "name": "Đại học Ngoại Ngữ - Đại học Huế",
+    "id": "DHF",
+    "region": "Huế",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1879,
+        "methods": [
+            "Xét học bạ",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét tuyển thẳng",
+            "Xét tuyển dựa vào kết quả kết hợp giữa chứng chỉ quốc tế và điểm học bạ hoặc kết quả thi tốt nghiệp THPT 2024",
+            "Ưu tiên xét tuyển dựa vào kết quả kết hợp giữa chứng chỉ tiếng Anh theo Khung năng lực Ngoại ngữ 6 bậc dành cho Việt Nam (gọi tắt là chứng chỉ VSTEP) của các đơn vị được Bộ GD-ĐT cho phép tổ chức và điểm học bạ hoặc kết quả thi tốt nghiệp THPT 2024",
+            "Ưu tiên xét tuyển thí sinh đạt kết quả học tập ở cấp THPT năm học lớp 12 đạt loại giỏi trở lên vào tất cả các ngành",
+            "Ưu tiên xét tuyển thí sinh đoạt giải nhất, giải nhì hoặc giải ba trong các cuộc thi học sinh giỏi cấp tỉnh, thành phố trực thuộc trung ương các năm 2022, 2023, 2024",
+            "Ưu tiên xét tuyển quả thi đánh giá năng lực năm 2024 của ĐHQG TP.HCM kết hợp với Đại học Huế tổ chức"
+        ]
+    }
+}

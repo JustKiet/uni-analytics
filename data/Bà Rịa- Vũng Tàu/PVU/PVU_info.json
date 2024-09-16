@@ -1,0 +1,24 @@
+{
+    "name": "Đại học Dầu khí Việt Nam",
+    "id": "PVU",
+    "region": "Bà Rịa- Vũng Tàu",
+    "contact_details": {
+        "location": "762 Cách Mạng Tháng Tám, phường Long Toàn, TP Bà Rịa, tỉnh Bà Rịa Vũng Tàu",
+        "phone": [
+            "https://www.pvu.edu.vn/"
+        ],
+        "website": "https://www.pvu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 200,
+        "methods": [
+            "Xét học bạ",
+            "Xét điểm Đánh giá tư duy Bách khoa",
+            "Xét điểm Đánh giá năng lực của ĐHQG Hà Nội hoặc ĐHQG TP HCM",
+            "Xét tuyển dựa trên kết quả thi tốt nghiệp THPT 2024",
+            "Tuyển thẳng"
+        ]
+    }
+}

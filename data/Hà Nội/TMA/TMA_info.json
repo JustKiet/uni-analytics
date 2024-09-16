@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Thương mại",
+    "id": "TMA",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "79 Hồ Tùng Mậu, Cầu Giấy, Hà Nội",
+        "phone": [
+            "024.3764.3219",
+            ""
+        ],
+        "website": "https://tmu.edu.vn/",
+        "email": [
+            "mail@tmu.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 4950,
+        "methods": [
+            "Xét tuyển thẳng, ưu tiên xét tuyển",
+            "Xét tuyển theo kết quả thi tốt nghiệp THPT năm 2024",
+            "Xét tuyển theo kết quả học tập cấp THPT đối với thí sinh trường chuyên/trọng điểm quốc gia",
+            "Xét tuyển theo kết quả thi đánh giá năng lực ĐHQG Hà Nội, đánh giá tư duy ĐH Bách Khoa Hà Nội",
+            "Xét tuyển kết hợp chứng chỉ quốc tế, giải học sinh giỏi"
+        ]
+    }
+}

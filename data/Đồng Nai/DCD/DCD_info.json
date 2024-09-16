@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Công nghệ Đồng Nai",
+    "id": "DCD",
+    "region": "Đồng Nai",
+    "contact_details": {
+        "location": "Đường Nguyễn Khuyến, Khu phố 5, Phường Trảng Dài, Biên Hòa, Đồng Nai",
+        "phone": [
+            "0986 39 7733",
+            "0904 39 7733"
+        ],
+        "website": "https://ts.dntu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Kỹ thuật Y tế Hải Dương",
+    "id": "DKY",
+    "region": "Hải Dương",
+    "contact_details": {
+        "location": "Số 1, Đường Vũ Hựu, thành phố Hải Dương, tỉnh Hải Dương",
+        "phone": [
+            "0220.3891.788",
+            "0868.651.156"
+        ],
+        "website": "http://www.hmtu.edu.vn/",
+        "email": [
+            "tuyensinh@hmtu.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 700,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ",
+            "Xét chứng chỉ ngoại ngữ tiếng Anh quốc tế",
+            "Xét điểm thi ĐGNL của ĐHQG Hà Nội"
+        ]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Khoa Chính trị - Hành chính - Đại học Quốc gia TP HCM",
+    "id": "QSH",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Khu phố 6, Phường Linh Trung, TP Thủ Đức, TP HCM",
+        "phone": [
+            "094.176.1263",
+            "094.286.1263"
+        ],
+        "website": "http://www.spas.edu.vn/vi",
+        "email": "null"
+    },
+    "admission_details": null
+}

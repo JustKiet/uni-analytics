@@ -1,0 +1,14 @@
+{
+    "name": "Học Viện Hành Chính Quốc Gia ( phía Bắc )",
+    "id": "HCH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "77 Nguyễn Chí Thanh, Q. Đống Đa, Hà Nội",
+        "phone": [
+            "www.napa.vn"
+        ],
+        "website": "www.napa.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Đại học Công nghệ Thông tin và Truyền thông Việt - Hàn",
+    "id": "VKU",
+    "region": "Đà Nẵng",
+    "contact_details": {
+        "location": "470 Đường Trần Đại Nghĩa, Hoà Hải, Ngũ Hành Sơn, Đà Nẵng",
+        "phone": [
+            "http://vku.udn.vn/"
+        ],
+        "website": "http://vku.udn.vn/",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 8000,
+        "methods": [
+            "Tuyển thẳng",
+            "Ưu tiên xét tuyển HSG, chuyên, chứng chỉ IELTS",
+            "Xét tuyển dựa vào kết quả học tập THPT",
+            "Xét tuyển sử dụng kết quả thi tốt nghiệp THPT",
+            "Xét tuyển sử dụng kết quả thi Đánh giá năng lực ĐHQG HCM"
+        ]
+    }
+}

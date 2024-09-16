@@ -1,0 +1,26 @@
+{
+    "name": "Đại học Kinh tế quốc dân",
+    "id": "KHA",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "207 Giải Phóng, Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",
+        "phone": [
+            "0888.128.55",
+            "0243.6280.28"
+        ],
+        "website": "https://www.neu.edu.vn/\nhttps://tuyensinh.neu.edu.vn/",
+        "email": [
+            "dhktqd@neu.edu.vn",
+            "ask-cait@neu.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 6995,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét tuyển theo kết quả thi tốt nghiệp THPT 2024",
+            "Xét tuyển kết hợp theo đề án riêng của trường với thí sinh có SAT hoặc ACT; HSA, TSA hoặc APT với IELTS."
+        ]
+    }
+}

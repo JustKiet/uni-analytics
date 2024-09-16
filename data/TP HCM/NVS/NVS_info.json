@@ -1,0 +1,14 @@
+{
+    "name": "Nhạc viện TP HCM",
+    "id": "NVS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 112 Nguyễn Du, Quận 1, TP HCM",
+        "phone": [
+            "028.38225841"
+        ],
+        "website": "www.hcmcons.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

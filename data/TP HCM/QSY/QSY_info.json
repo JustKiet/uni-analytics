@@ -1,0 +1,15 @@
+{
+    "name": "Khoa Y - Đại học Quốc Gia TP HCM",
+    "id": "QSY",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Nhà điều hành Đại học Quốc gia TP HCM, Khu phố 6, Phường Linh Trung, TP Thủ Đức",
+        "phone": [
+            "028.37242160 - 3112",
+            "0898 025 368"
+        ],
+        "website": "http://www.medvnu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

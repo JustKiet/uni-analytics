@@ -1,0 +1,22 @@
+{
+    "name": "Đại học Kinh Tế - Đại học Đà Nẵng",
+    "id": "DDQ",
+    "region": "Đà Nẵng",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 3325,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ",
+            "Xét tuyển dựa trên thành tích học tập và năng lực ngoại ngữ.",
+            "Xét điểm thi Đánh giá năng lực của ĐHQG HCM"
+        ]
+    }
+}

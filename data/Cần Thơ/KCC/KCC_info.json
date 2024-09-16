@@ -1,0 +1,23 @@
+{
+    "name": "Đại học Kỹ thuật Công nghệ Cần Thơ",
+    "id": "KCC",
+    "region": "Cần Thơ",
+    "contact_details": {
+        "location": "256 Nguyễn Văn Cừ, Quận Ninh Kiều, TP Cần Thơ",
+        "phone": [
+            "02923. 898 167"
+        ],
+        "website": "https://ctuet.edu.vn/#",
+        "email": [
+            "tuyensinh@ctuet.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1680,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ"
+        ]
+    }
+}

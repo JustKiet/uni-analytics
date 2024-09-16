@@ -1,0 +1,14 @@
+{
+    "name": "Đại Học Quảng Bình",
+    "id": "DQB",
+    "region": "Quảng Bình",
+    "contact_details": {
+        "location": "312 Lý Thường Kiệt, phường Bắc Lí, TP. Đồng Hới, tỉnh Quảng Bình",
+        "phone": [
+            "www.quangbinhuni.edu.vn"
+        ],
+        "website": "www.quangbinhuni.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

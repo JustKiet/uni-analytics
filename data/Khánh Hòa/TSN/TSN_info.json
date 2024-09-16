@@ -1,0 +1,28 @@
+{
+    "name": "Đại học Nha Trang",
+    "id": "TSN",
+    "region": "Khánh Hòa",
+    "contact_details": {
+        "location": "Số 2 Nguyễn Đình Chiểu, Phường Vĩnh Thọ, TP Nha Trang, Khánh Hòa",
+        "phone": [
+            "0258.3831148",
+            "0258.3831145",
+            "0258.2212579"
+        ],
+        "website": "https://tuyensinh.ntu.edu.vn/",
+        "email": [
+            "tuyensinh@ntu.edu.vn",
+            "phuongtv@ntu.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 3700,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét điểm ĐGNL của ĐHQG Hà Nội và ĐHQG TP. HCM",
+            "Xét học bạ",
+            "Xét tuyển thănge"
+        ]
+    }
+}

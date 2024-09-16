@@ -1,0 +1,9 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Ngôn ngữ Trung Quốc 7220204,19.0,,,"Điểm trúng tuyển được tính như sau: ((Môn 1 + Môn 2 + Ngoại ngữ x 2) x 3)/4 (làm tròn đến 0,25) + điểm ưu tiên; sau đó làm tròn đến hai chữ số thập phân."
+2.0,Ngôn ngữ Anh 7220201,19.0,,,"Điểm trúng tuyển được tính như sau: ((Môn 1 + Môn 2 + Ngoại ngữ x 2) x 3)/4 (làm tròn đến 0,25) + điểm ưu tiên; sau đó làm tròn đến hai chữ số thập phân."
+3.0,Ngôn ngữ Pháp 7220203,,,,
+4.0,Ngôn ngữ Nga 7220202,,,,
+5.0,Sư phạm Tiếng Nga 7140232,15.5,,,(Môn Ngoại ngữ không nhân hệ số)
+6.0,Sư phạm Tiếng Trung Quốc 7140234,,,,
+7.0,Sư phạm Tiếng Anh 7140231,15.5,,,(Môn Ngoại ngữ không nhân hệ số)
+8.0,Sư phạm Tiếng Anh 51140231,10.0,,,(Môn Ngoại ngữ không nhân hệ số)

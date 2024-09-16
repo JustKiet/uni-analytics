@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Tây Đô",
+    "id": "DTD",
+    "region": "Cần Thơ",
+    "contact_details": {
+        "location": "68 Trần Chiên, phường Lê Bình, Quận Cái Răng, TP Cần Thơ",
+        "phone": [
+            "0939 028 579",
+            "0939 440 579"
+        ],
+        "website": "https://tdu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

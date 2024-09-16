@@ -1,0 +1,23 @@
+{
+    "name": "Đại học Đại Nam",
+    "id": "DDN",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 1, phố Xốm, phường Phú Lãm, Hà Đông, Hà Nội",
+        "phone": [
+            "0961.595.599",
+            "0931.595.599"
+        ],
+        "website": "https://tuyensinh.dainam.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 7600,
+        "methods": [
+            "Xét tuyển dựa vào kết quả thi tốt nghiệp THPT 2024",
+            "Xét tuyển thẳng",
+            "Xét tuyển học bạ THPT"
+        ]
+    }
+}

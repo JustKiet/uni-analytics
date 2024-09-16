@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Sân khấu - Điện ảnh TP HCM",
+    "id": "DSD",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 125, Cống Quỳnh, Quận 1, TP HCM",
+        "phone": [
+            "028.38393658"
+        ],
+        "website": "skdahcm.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

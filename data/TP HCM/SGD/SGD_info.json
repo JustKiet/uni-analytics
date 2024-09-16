@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Sài Gòn",
+    "id": "SGD",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "273 An Dương Vương, Quận 5, TP HCM",
+        "phone": [
+            "028.38335484",
+            "028.38338975"
+        ],
+        "website": "https://sgu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

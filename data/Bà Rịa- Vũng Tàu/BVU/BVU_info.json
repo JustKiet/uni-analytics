@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Bà Rịa Vũng Tàu",
+    "id": "BVU",
+    "region": "Bà Rịa- Vũng Tàu",
+    "contact_details": {
+        "location": "Số 80, đường Trương Công Định, Phường 3, TP Vũng Tàu, Bà Rịa - Vũng Tàu",
+        "phone": [
+            "1900 633 069",
+            "035 994 6868"
+        ],
+        "website": "http://tuyensinh.bvu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

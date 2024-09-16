@@ -1,0 +1,53 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Chương trình tiên tiến Kỹ thuật Ô tô TE-E2,,,,
+2.0,Chương trình tiên tiến Kỹ thuật Y sinh ET-E5,25.25,,,Tiêu chí phụ 1: 23.55; Tiêu chí phụ 2: NV1-NV4
+3.0,Chương trình tiên tiến Điều khiển - Tự động hóa và Hệ thống điện EE-E8,26.25,,,Tiêu chí phụ 1: 24.9; Tiêu chí phụ 2: NV1-NV2
+4.0,Chương trình tiên tiến Cơ điện tử ME-E1,25.5,,,Tiêu chí phụ 1: 24.85; Tiêu chí phụ 2: NV1-NV3
+5.0,Chương trình tiên tiến Điện tử - Viễn thông ET-E4,25.5,,,Tiêu chí phụ 1: 24.6; Tiêu chí phụ 2: NV1-NV2
+6.0,Chương trình tiên tiến KHKT Vật liệu MS-E3,22.75,,,Tiêu chí phụ 1: 21; Tiêu chí phụ 2: NV1
+7.0,Cơ khí - Chế tạo máy - ĐH Griffith (Úc) ME-GU,,,,
+8.0,Cơ điện tử - ĐH Nagaoka (Nhật Bản) ME-NUT,23.25,,,Tiêu chí phụ 1: 23.2; Tiêu chí phụ 2: NV1-NV3
+9.0,Công nghệ May TX2,24.5,,,Tiêu chí phụ 1: 23.2; Tiêu chí phụ 2: NV1-NV4
+10.0,Công nghệ thông tin IT3,28.25,,,Tiêu chí phụ 1: 27.65; Tiêu chí phụ 2: NV1
+11.0,Công nghệ thông tin Việt-Nhật IT-E6,26.75,,,Tiêu chí phụ 1: 26: Tiêu chí phụ 2: NV1-NV3
+12.0,Công nghệ thông tin ICT IT-E7,26.75,,,Tiêu chí phụ 1: 26: Tiêu chí phụ 2: NV1-NV3
+13.0,Công nghệ thông tin - ĐH Victoria (New Zealand) IT-VUW,22.0,,,Tiêu chí phụ 1: 22.05; Tiêu chí phụ 2: NV1
+14.0,Công nghệ thông tin - ĐH La Trobe (Úc) IT-LTU,23.5,,,Tiêu chí phụ 1: 23.6; Tiêu chí phụ 2: NV1-NV4
+15.0,Điện tử - Viễn thông - ĐH Leibniz Hannover (Đức) ET-LUH,22.0,,,Tiêu chí phụ 1: 21.95; Tiêu chí phụ 2: NV1
+16.0,Hệ thống thông tin quản lý MI2,25.75,,,Tiêu chí phụ 1: 24.3; Tiêu chí phụ 2: NV1-NV3
+17.0,Hệ thống thông tin - ĐH Grenoble (Pháp) IT-GINP,20.0,,,Tiêu chí phụ 1: 19.9; Tiêu chí phụ 2: NV1
+18.0,Hóa học CH2,25.0,,,Tiêu chí phụ 1: 23.65; Tiêu chí phụ 2: NV1-NV5
+19.0,Kế toán EM4,23.75,,,Tiêu chí phụ 1: 20.3; Tiêu chí phụ 2: NV1-NV3
+20.0,Khoa học Máy tính IT1,28.25,,,
+21.0,Khoa học máy tính - ĐH Troy (Hoa Kỳ) TROY-IT,21.25,,,
+22.0,Kinh tế công nghiệp EM1 (trước 2023),23.0,,,Tiêu chí phụ 1: 23.05; Tiêu chí phụ 2: NV1
+23.0,Kỹ thuật Cơ khí ME2,25.75,,,"Tiêu chí phụ 1: 24.2, Tiêu chí phụ 2: NV1"
+24.0,Kỹ thuật Cơ khí động lực TE2,25.75,,,"Tiêu chí phụ 1: 24.2, Tiêu chí phụ 2: NV1"
+25.0,Kỹ thuật Dệt TX1,24.5,,,Tiêu chí phụ 1: 23.2; Tiêu chí phụ 2: NV1-NV4
+26.0,Kỹ thuật Điện tử - Viễn thông ET1,26.25,,,Tiêu chí phụ 1: 25.45; Tiêu chí phụ 2: NV1-NV2
+27.0,Kỹ thuật Điện EE1,27.25,,,
+28.0,Kỹ thuật Hóa học CH1,25.0,,,Tiêu chí phụ 1: 23.65; Tiêu chí phụ 2: NV1-NV5
+29.0,Kỹ thuật Sinh học BF1,25.0,,,Tiêu chí phụ 1: 23.65; Tiêu chí phụ 2: NV1-NV5
+30.0,Kỹ thuật Thực phẩm BF2,25.0,,,Tiêu chí phụ 1: 23.65; Tiêu chí phụ 2: NV1-NV5
+31.0,Kỹ thuật Ô tô TE1,25.75,,,"Tiêu chí phụ 1: 24.2, Tiêu chí phụ 2: NV1"
+32.0,Kỹ thuật Máy tính IT2,28.25,,,Tiêu chí phụ 1: 27.65; Tiêu chí phụ 2: NV1
+33.0,Kỹ thuật Tàu thủy TE4,25.75,,,"Tiêu chí phụ 1: 24.2, Tiêu chí phụ 2: NV1"
+34.0,Kỹ thuật Vật liệu MS1,23.75,,,Tiêu chí phụ 1: 24.4: Tiêu chí phụ 2:NV1-NV2
+35.0,Kỹ thuật Cơ điện tử ME1,27.0,,,Tiêu chí phụ 1: 25.8; Tiêu chí phụ 2: NV1-NV3
+36.0,Kỹ thuật Nhiệt HE1,24.75,,,Tiêu chí phụ 1: 24.2; Tiêu chí phụ 2: NV1-NV2
+37.0,Kỹ thuật in CH3,21.25,,,Tiêu chí phụ 1: 21.15; Tiêu chí phụ 2: NV1-NV4
+38.0,Kỹ thuật Hàng không TE3,25.75,,,"Tiêu chí phụ 1: 24.2, Tiêu chí phụ 2: NV1"
+39.0,Kỹ thuật hạt nhân NE1,23.25,,,Tiêu chí phụ 1: 22.4; Tiêu chí phụ 2: NV1
+40.0,Kỹ thuật Môi trường EV1,25.0,,,Tiêu chí phụ 1: 23.65; Tiêu chí phụ 2: NV1-NV5
+41.0,Kỹ thuật Điều khiển - Tự động hóa EE2,27.25,,,
+42.0,Quản trị kinh doanh - ĐH Troy (Hoa Kỳ) TROY-BA,21.0,,,
+43.0,Quản trị kinh doanh - ĐH Victoria (New Zealand) EM-VUW,21.25,,,Tiêu chí phụ 1: 21.25; Tiêu chí phụ 2: NV1-NV4
+44.0,Quản lý công nghiệp EM2,23.0,,,Tiêu chí phụ 1: 23.05; Tiêu chí phụ 2: NV1
+45.0,Quản trị kinh doanh EM3,24.25,,,Tiêu chí phụ 1: 23.15; Tiêu chí phụ 2: NV1-NV3
+46.0,Quản lý công nghiệp - Logistics và Quản lý chuỗi cung ứng - ĐH Northampton (Anh) EM-NU,20.0,,,
+47.0,Sư phạm kỹ thuật công nghiệp ED1,22.5,,,Tiêu chí phụ 1: 20.5; Tiêu chí phụ 2: NV1
+48.0,Tài chính - Ngân hàng EM5,23.75,,,Tiêu chí phụ 1: 20.3; Tiêu chí phụ 2: NV1-NV3
+49.0,Tiếng Anh KHKT và Công nghệ FL1,24.5,,,Tiêu chí phụ 1: 21.7: Tiêu chí phụ 2: NV1
+50.0,Tiếng Anh chuyên nghiệp quốc tế FL2,24.5,,,Tiêu chí phụ 1: 23.35; Tiêu chí phụ 2: NV1-NV4
+51.0,Toán-Tin MI1,25.75,,,Tiêu chí phụ 1: 24.3; Tiêu chí phụ 2: NV1-NV3
+52.0,Vật lý kỹ thuật PH1,23.25,,,Tiêu chí phụ 1: 22.4; Tiêu chí phụ 2: NV1

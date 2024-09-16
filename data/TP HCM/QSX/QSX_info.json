@@ -1,0 +1,26 @@
+{
+    "name": "Đại học Khoa học xã hội và Nhân văn - Đại học Quốc gia TP HCM",
+    "id": "QSX",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 10-12 đường Đinh Tiên Hoàng, Phường Bến Nghé, Quận 1, TP HCM",
+        "phone": [
+            "028.3829 3828",
+            "0868.22.32.37"
+        ],
+        "website": "https://hcmussh.edu.vn/tuyensinh",
+        "email": [
+            "tuyensinh@hcmussh.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 3799,
+        "methods": [
+            "Xét tuyển thẳng, ưu tiên xét tuyển",
+            "Ưu tiên xét tuyển theo quy định riêng",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét điểm ĐGNL của ĐHQG TP.HCM"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "Đại học Nguyễn Tất Thành",
+    "id": "NTT",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 300A Nguyễn Tất Thành, Phường 13, Quận 4, TP HCM",
+        "phone": [
+            "0902298300",
+            "0906298300",
+            "0912298300"
+        ],
+        "website": "http://tuyensinh.ntt.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

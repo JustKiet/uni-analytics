@@ -1,0 +1,5 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Điều dưỡng 7720301,20.65,,,TO>=7.8; SI >=5.5;TTNV <=7
+2.0,Dược học 7720201,25.95,,,TO>=8.2; HO >=8.25;TTNV <=2
+3.0,Răng- Hàm -Mặt 7720501,26.55,,,TO>=8.8; SI >=9;TTNV <=2
+4.0,Y khoa 7720101,26.55,,,TO>=9; SI >=8;TTNV <=3

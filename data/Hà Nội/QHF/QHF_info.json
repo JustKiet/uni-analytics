@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Ngoại ngữ - Đại học Quốc Gia Hà Nội",
+    "id": "QHF",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 2 đường Phạm Văn Đồng, Cầu Giấy, Hà Nội",
+        "phone": [
+            "0243.754.8137",
+            "097.929.2969",
+            "096.375.3753"
+        ],
+        "website": "http://ulis.vnu.edu.vn/tuyensinh2021/",
+        "email": [
+            "phongdaotaoulis@gmail.com"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2350,
+        "methods": [
+            "Xét tuyển thẳng và ưu tiên xét tuyển",
+            "Xét tuyển bằng chứng chỉ ngoại ngữ",
+            "Xét tuyển bằng điểm thi Đánh giá năng lực của ĐH Quốc gia Hà Nội",
+            "Xét tuyển bằng kết quả thi THPT"
+        ]
+    }
+}

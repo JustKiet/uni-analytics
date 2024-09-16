@@ -1,0 +1,26 @@
+{
+    "name": "Đại học Mở Hà Nội",
+    "id": "MHN",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Phố Nguyễn Hiền, phường Bách Khoa, quận Hai Bà Trưng, Hà Nội",
+        "phone": [
+            "02462974545",
+            "02462974646"
+        ],
+        "website": "https://tuyensinh.hou.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 4100,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ THPT",
+            "Xét tuyển thẳng",
+            "Xét điểm thi Đánh giá năng lực của ĐHQG Hà Nội hoặc điểm bài thi Đánh giá tư duy Đại học Bách khoa Hà Nội",
+            "Xét kết hợp điểm thi THPT và năng khiếu",
+            "Xét kết hợp học bạ THPT và năng khiếu"
+        ]
+    }
+}

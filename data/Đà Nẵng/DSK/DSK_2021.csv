@@ -1,0 +1,16 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Công nghệ kỹ thuật ô tô 7510205,23.5,,,TO >=8; TTNV <=3
+2.0,Công nghệ kỹ thuật Môi trường 7510406,15.05,,,TO >=6.8; TTNV <=4
+3.0,"Công nghệ kỹ thuật điện, điện tử 7510301",19.7,,,TO >=7.2; TTNV <=1
+4.0,Công nghệ kỹ thuật kiến trúc 7510101,19.3,,,TO >=7.8; TTNV <=2
+5.0,Công nghệ Kỹ thuật Giao thông 7510104,15.0,,,TO >=7; TTNV <=3
+6.0,Công nghệ kỹ thuật nhiệt 7510206,18.4,,,TO >=5.4; TTNV <=4
+7.0,Công nghệ thông tin 7480201,24.25,,,TO >=8; TTNV <=4
+8.0,Công nghệ kỹ thuật cơ điện tử 7510203,21.85,,,TO >=7.6; TTNV <=1
+9.0,Công nghệ kỹ thuật điều khiển và tự động hóa 7510303,22.8,,,TO >=8.8; TTNV <=7
+10.0,Công nghệ kỹ thuật cơ khí (Chuyên ngành Công nghệ hàn) 7510201,21.4,,,TO >=6.4; TTNV <=10
+11.0,Công nghệ kỹ thuật xây dựng 7510103,18.0,,,TO >=7.6; TTNV <=2
+12.0,Điện tử - viễn thông 7510302,19.45,,,TO >=6.2; TTNV <=3
+13.0,Kỹ thuật cơ sở hạ tầng 7580210,15.05,,,TO >=6.2; TTNV <=3
+14.0,Kỹ thuật thực phẩm 7540102,15.1,,,TO >=5.2; TTNV <=2
+15.0,Sư phạm Kỹ thuật công nghiệp 7140214,19.1,,,TO >=6.6; TTNV <=1

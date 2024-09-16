@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Ngân hàng TP HCM",
+    "id": "NHS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "36 Tôn Thất Đạm, Quận 1\n56 Hoàng Diệu II, TP Thủ Đức, TP HCM",
+        "phone": [
+            "028. 38211704",
+            "028. 38212430"
+        ],
+        "website": "https://buh.edu.vn/",
+        "email": [
+            "phongtvts@buh.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 4366,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ và thành tích",
+            "Xét học bạ và phỏng vấn",
+            "Xét điểm bài thi đầu vào trên máy tính"
+        ]
+    }
+}

@@ -1,0 +1,31 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Công nghệ kỹ thuật hoá học 7510401,17.0,,,"Điểm toán>=4.8, TTNV<=5"
+2.0,Công nghệ thực phẩm 7540101,,,,
+3.0,Công nghệ kỹ thuật ô tô 7510205,22.5,,,"Điểm toán >=6.8, TTNV= 1"
+4.0,Công nghệ thông tin 7480201,23.0,,,"Điểm Toán >=8, TTNV<=3"
+5.0,"Công nghệ kỹ thuật điện, điện tử 7510301",22.25,,,Điểm toán >=7.6; TTNV<=3
+6.0,Công nghệ kỹ thuật Môi trường 7510406,17.0,,,"Điểm toán >=5.6, TTNV<=2"
+7.0,Công nghệ may 7540204,22.75,,,Điểm toán>=8.2; TTNV<=3; TTNV<=3
+8.0,Công nghệ kỹ thuật nhiệt 7510206,19.25,,,Điểm Toán>=8.4; TTNV<=3
+9.0,Công nghệ kỹ thuật điều khiển và tự động hóa 7510303,24.0,,,Điểm toán>=8.2; TTNV<=3
+10.0,Công nghệ kỹ thuật cơ điện tử 7510203,24.0,,,"Điểm Toán >=7.4, TTNV<=3"
+11.0,Công nghệ kỹ thuật máy tính 7480108,20.25,,,"Điểm toán>=6.4, TTNV=1"
+12.0,Công nghệ kỹ thuật cơ khí (Chuyên ngành Công nghệ hàn) 7510201,22.25,,,"Điểm Toán >=7.2, TTNV<=6"
+13.0,Điện tử - viễn thông 7510302,20.25,,,Điểm toán>=7; TTNV<=4
+14.0,Du lịch 7810101,,,,
+15.0,Hệ thống thông tin 7480104,20.0,,,Điểm Toán >=7.6; TTNV<=4
+16.0,Kế toán 7340301,20.25,,,Điểm Toán >= 7.2; TTNV <= 3
+17.0,Khoa học máy tính (LK với ĐH Frostburg ) 7480101_QT,16.5,,,Tiêu chí phụ 1: Điểm Toán >=5.60; Tiêu chí phụ 2: TTNV<=2
+18.0,Khoa học máy tính 7480101,20.5,,,Điểm Toán >= 6.8; TTNV <= 2
+19.0,Kiểm toán 7340302,20.25,,,Điểm Toán >= 6.8; TTNV <= 4
+20.0,Kỹ thuật phần mềm 7480103,21.5,,,Điểm Toán >=7; TTNV<=3
+21.0,Mạng máy tính và truyền thông dữ liệu 7480102,20.25,,,Điểm Toán >= 7.6; TTNV = 1
+22.0,Marketing (dạy bằng tiếng Anh) 7340115,22.0,,,Điểm Toán >= 6.4; TTNV <= 5
+23.0,Ngôn ngữ Trung Quốc 7220204,21.25,,,
+24.0,Ngôn ngữ Anh 7220201,22.0,,,Điểm Tiếng Anh >= 7.4; TTNV <= 2
+25.0,Quản trị văn phòng 7340406,19.25,,,Điểm Toán >= 5.8; TTNV <= 3
+26.0,Quản trị doanh nghiệp 7340101,19.75,,,Điểm Toán >= 6.2; TTNV <= 7
+27.0,Quản trị nhân lực 7340404,20.75,,,Điểm Toán >= 6.6; TTNV = 1
+28.0,Quản trị kinh doanh chất lượng cao 7340101_CLC,18.25,,,Điểm toán >=5.8; TTNV=1
+29.0,Tài chính – Ngân hàng 7340201,19.25,,,Điểm Toán >= 7; TTNV <= 6
+30.0,Thiết kế thời trang 7210404,21.5,,,Điểm Toán >= 8.6; TTNV <= 4

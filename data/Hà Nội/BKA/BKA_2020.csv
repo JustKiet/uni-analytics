@@ -1,0 +1,113 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Chương trình tiên tiến Kỹ thuật Y sinh ET-E5,26.5,,,Môn chính Toán
+2.0,Chương trình tiên tiến Cơ điện tử ME-E1,26.75,,,Môn chính Toán
+3.0,Chương trình tiên tiến Logistics và Quản lý chuỗi cung ứng EM-E14x,21.19,,,
+4.0,Chương trình tiên tiến Điện tử - Viễn thông ET-E4,27.15,,,Môn chính Toán
+5.0,Chương trình tiên tiến KHKT Vật liệu MS-E3,23.18,,,Môn chính Toán
+6.0,Chương trình tiên tiến Kỹ thuật Ô tô TE-E2,26.75,,,Môn chính Toán
+7.0,Chương trình tiên tiến Hệ thống nhúng thông minh và IoT ET-E9,27.51,,,Môn chính Toán
+8.0,Chương trình tiên tiến Kỹ thuật Hóa dược CH-E11x,20.5,,,
+9.0,Chương trình tiên tiến Điều khiển - Tự động hóa và Hệ thống điện EE-E8,27.43,,,Môn chính Toán
+10.0,Chương trình tiên tiến Phân tích kinh doanh EM-E13,25.03,,,Môn chính Toán
+11.0,Chương trình tiên tiến Kỹ thuật Y sinh ET-E5x,21.1,,,
+12.0,Chương trình tiên tiến Kỹ thuật Cơ điện tử ME-E1x,22.6,,,
+13.0,Chương trình tiên tiến Kỹ thuật Hóa dược CH-E11,26.5,,,Môn chính Toán
+14.0,Chương trình tiên tiến Kỹ thuật Điện tử - Viên thông ET-E4x,22.5,,,
+15.0,Chương trình tiên tiến Khoa học dữ liệu và Trí tuệ nhân tạo IT-E10x,25.28,,,
+16.0,Chương trình tiên tiến Kỹ thuật Thực phẩm BF-E12x,19.04,,,
+17.0,Chương trình tiên tiến Logistics và Quản lý chuỗi cung ứng EM-E14,25.85,,,
+18.0,Chương trình tiên tiến KHKT Vật liệu MS-E3x,19.56,,,
+19.0,Chương trình tiên tiến Kỹ thuật Ô tô TE-E2x,22.5,,,
+20.0,Chương trình tiên tiến Hệ thống nhúng thông minh và IoT ET-E9x,23.3,,,
+21.0,Chương trình tiên tiến Khoa học dữ liệu và Trí tuệ nhân tạo IT-E10,28.65,,,Môn chính Toán
+22.0,Chương trình tiên tiến Kỹ thuật Điều khiển - Tự động hóa và Hệ thống điện EE-E8x,23.43,,,
+23.0,Chương trình tiên tiến Phân tích kinh doanh EM-E13x,19.09,,,
+24.0,Chương trình tiên tiến Kỹ thuật Thực phẩm BF-E12,25.94,,,Môn chính Toán
+25.0,Cơ điện tử - ĐH Leibniz Hannover (Đức) ME-LUHx,21.6,,,
+26.0,Cơ khí hàng không (Chương trình Việt - Pháp PFIEV) TE-EP,23.88,,,Môn chính Toán
+27.0,Cơ khí - Chế tạo máy - ĐH Griffith (Úc) ME-GU,23.9,,,
+28.0,Cơ điện tử - ĐHCN Nagaoka (Nhật Bản) ME-NUTx,20.5,,,
+29.0,Cơ điện tử - ĐH Nagaoka (Nhật Bản) ME-NUT,24.5,,,
+30.0,Cơ điện tử - ĐH Leibniz Hannover (Đức) ME-LUH,24.2,,,
+31.0,Cơ khí hàng không (Chương trình Việt - Pháp PFIEV) TE-EPx,19.0,,,
+32.0,Cơ khí - Chế tạo máy - Đh Griffith (Úc) ME-GUx,19.0,,,
+33.0,Công nghệ thông tin Việt-Nhật IT-E6,27.98,,,Môn chính Toán
+34.0,Công nghệ thông tin ICT IT-E7,28.38,,,Môn chính Toán
+35.0,Công nghệ thông tin - ĐH La Trobe (Úc) IT-LTUx,22.0,,,
+36.0,Công nghệ thông tin (Việt - Pháp) IT-EP,27.24,,,Môn chính Toán
+37.0,Công nghệ thông tin - ĐH Victoria (New Zealand) IT-VUWx,21.09,,,
+38.0,Công nghệ giáo dục ED2x,19.0,,,
+39.0,Công nghệ thông tin (Việt - Nhật) IT-E6x,24.35,,,
+40.0,Công nghệ thông tin (Global ICT) IT-E7x,25.14,,,
+41.0,Công nghệ thông tin - ĐH Victoria (New Zealand) IT-VUW,22.55,,,
+42.0,Công nghệ giáo dục ED2,23.8,,,
+43.0,Công nghệ thông tin - ĐH La Trobe (Úc) IT-LTU,26.5,,,
+44.0,Công nghệ thông tin (Việt - Pháp) IT-Epx,22.88,,,
+45.0,Điện tử - Viên thông - ĐH Leibniz Hannover (Đức) ET-LUHx,19.0,,,
+46.0,Điện tử - Viễn thông - ĐH Leibniz Hannover (Đức) ET-LUH,23.85,,,
+47.0,Hệ thống thông tin quản lý MI2x,22.15,,,
+48.0,Hệ thống thông tin quản lý MI2,27.25,,,Môn chính Toán
+49.0,Hóa học CH2,24.16,,,Môn chính Toán
+50.0,Hóa học CH2x,19.0,,,
+51.0,Kế toán EM4,25.3,,,
+52.0,Kế toán EM4x,19.29,,,
+53.0,Khoa học Máy tính IT1x,26.27,,,
+54.0,Khoa học máy tính - ĐH Troy (Hoa Kỳ) TROY-ITx,19.0,,,
+55.0,Khoa học máy tính - ĐH Troy (Hoa Kỳ) TROY-IT,25.0,,,
+56.0,Khoa học Máy tính IT1,29.04,,,Môn chính Toán
+57.0,Kinh tế công nghiệp EM1x,20.54,,,
+58.0,Kinh tế công nghiệp EM1 (trước 2023),24.65,,,
+59.0,Kỹ thuật Vật liệu MS1,25.18,,,Môn chính Toán
+60.0,Kỹ thuật hạt nhân PH2x,20.0,,,
+61.0,Kỹ thuật Hàng không TE3,26.94,,,Môn chính Toán
+62.0,Kỹ thuật Hóa học CH1,25.26,,,Môn chính Toán
+63.0,Kỹ thuật in CH3x,19.0,,,
+64.0,Kỹ thuật Điều khiển - Tự động hóa EE2,23.8,,,Môn chính Toán
+65.0,Kỹ thuật Ô tô TE1x,23.4,,,
+66.0,Kỹ thuật Môi trường EV1x,19.0,,,
+67.0,Kỹ thuật Nhiệt HE1,25.8,,,Môn chính Toán
+68.0,Kỹ thuật Máy tính IT2x,25.63,,,
+69.0,Kỹ thuật sinh học BF1x,20.53,,,
+70.0,Kỹ thuật Vật liệu MS1x,19.27,,,
+71.0,Kỹ thuật Ô tô TE1,27.33,,,Môn chính Toán
+72.0,Kỹ thuật Hàng không TE3x,22.5,,,
+73.0,Kỹ thuật Môi trường EV1,23.85,,,Môn chính Toán
+74.0,Kỹ thuật Máy tính IT2,28.65,,,Môn chính Toán
+75.0,Kỹ thuật Hóa Học CH1x,19.0,,,
+76.0,Kỹ thuật Điều kiển - Tự động hóa EE2x,24.41,,,
+77.0,Kỹ thuật Sinh học BF1,26.2,,,Môn chính Toán
+78.0,Kỹ thuật hạt nhân PH2,24.7,,,Môn chính Toán
+79.0,Kỹ thuật Cơ khí động lực TE2x,21.06,,,
+80.0,Kỹ thuật Dệt - May TX1x,19.16,,,
+81.0,Kỹ thuật Cơ điện tử ME1x,23.6,,,
+82.0,Kỹ thuật Cơ khí ME2x,20.8,,,
+83.0,Kỹ thuật in CH3,24.51,,,Môn chính Toán
+84.0,Kỹ thuật Điện EE1x,22.5,,,
+85.0,Kỹ thuật Điện tử - Viễn thông ET1x,23.0,,,
+86.0,Kỹ thuật thực phẩm BF2x,21.07,,,
+87.0,Kỹ thuật Cơ khí động lực TE2,26.46,,,Môn chính Toán
+88.0,Kỹ thuật Dệt TX1,23.04,,,Môn chính Toán
+89.0,Kỹ thuật Nhiệt HE1x,19.0,,,
+90.0,Kỹ thuật Cơ điện tử ME1,27.48,,,Môn chính Toán
+91.0,Kỹ thuật Cơ khí ME2,26.51,,,Môn chính Toán
+92.0,Kỹ thuật Điện EE1,27.01,,,Môn chính Toán
+93.0,Kỹ thuật Điện tử - Viễn thông ET1,27.3,,,Môn chính Toán
+94.0,Kỹ thuật Thực phẩm BF2,26.6,,,Môn chính Toán
+95.0,Quản trị kinh doanh - ĐH Troy (Hoa Kỳ) TROY-BAx,19.0,,,
+96.0,Quản lý công nghiệp EM2x,19.13,,,
+97.0,Quản trị kinh doanh - ĐH Victoria (New Zealand) EM-VUWx,19.0,,,
+98.0,Quản lý công nghiệp EM2,25.05,,,
+99.0,Quản trị kinh doanh - ĐH Victoria (New Zealand) EM-VUW,22.7,,,
+100.0,Quản trị kinh doanh - ĐH Troy (Hoa Kỳ) TROY-BA,22.5,,,
+101.0,Quản trị kinh doanh EM3x,20.1,,,
+102.0,Quản trị kinh doanh EM3,25.75,,,
+103.0,Tài chính - Ngân hàng EM5,24.6,,,
+104.0,Tài chính - Ngân hàng EM5x,19.0,,,
+105.0,Tiếng Anh chuyên nghiệp quốc tế FL2,24.1,,,Môn chính Tiếng anh
+106.0,Tiếng Anh KHKT và Công nghệ FL1,24.1,,,Môn chính Tiếng anh
+107.0,Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV) EE-Epx,20.36,,,
+108.0,Toán-Tin MI1,27.56,,,Môn chính Toán
+109.0,Tin học công nghiệp và Tự động hóa (Chương trình Việt - Pháp PFIEV) EE-EP,25.68,,,Môn chính Toán
+110.0,Toán - Tin MI1x,23.9,,,
+111.0,Vật lý kỹ thuật PH1x,21.5,,,
+112.0,Vật lý kỹ thuật PH1,26.18,,,Môn chính Toán

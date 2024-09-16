@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Công Nghệ Đông Á",
+    "id": "DDA",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Làng Đại học, Phường Võ Cường, Bắc Ninh\nTòa nhà Polyco Group, Đường Trịnh Văn Bô, Nam Từ Liêm, Hà Nội",
+        "phone": [
+            "024.6262.7797"
+        ],
+        "website": "https://eaut.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

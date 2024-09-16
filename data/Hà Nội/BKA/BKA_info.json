@@ -1,0 +1,25 @@
+{
+    "name": "Đại học Bách khoa Hà Nội",
+    "id": "BKA",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 1 Đại Cồ Việt, Hai Bà Trưng, Hà Nội.",
+        "phone": [
+            "090.441.4441",
+            "090.414.8306"
+        ],
+        "website": "https://ts.hust.edu.vn",
+        "email": [
+            "tuyensinh@hust.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 9260,
+        "methods": [
+            "Xét tuyển tài năng",
+            "Xét tuyển theo điểm thi Đánh giá tư duy (TSA)",
+            "Xét tuyển theo điểm thi tốt nghiệp THPT 2024"
+        ]
+    }
+}

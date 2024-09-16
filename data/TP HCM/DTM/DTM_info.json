@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Tài nguyên và Môi trường TP HCM",
+    "id": "DTM",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "236B Lê Văn Sỹ, phường 1, quận Tân Bình, TP HCM",
+        "phone": [
+            "028.3991.6415"
+        ],
+        "website": "tuyensinh.hcmunre.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

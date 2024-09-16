@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Cần Thơ",
+    "id": "TCT",
+    "region": "Cần Thơ",
+    "contact_details": {
+        "location": "Khu II, Đường 3/2, Quận Ninh Kiều, TP Cần Thơ",
+        "phone": [
+            "0292. 3872 728"
+        ],
+        "website": "https://tuyensinh.ctu.edu.vn/",
+        "email": [
+            "tuyensinh@ctu.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 10060,
+        "methods": [
+            "Tuyển thẳng, ưu tiên xét tuyển",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ",
+            "Xét điểm kỳ thi V-SAT",
+            "Tuyển chọn (vào chương trình tiên tiến và chất lượng cao)",
+            "Xét tuyển học bồi dưỡng kiến thức"
+        ]
+    }
+}

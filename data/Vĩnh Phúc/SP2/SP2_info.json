@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Sư phạm Hà Nội 2",
+    "id": "SP2",
+    "region": "Vĩnh Phúc",
+    "contact_details": {
+        "location": "Số 32, đường Nguyễn Văn Linh, Xuân Hòa, Phúc Yên, Vĩnh Phúc.",
+        "phone": [
+            "02113.863.203",
+            "0855.002.002"
+        ],
+        "website": "http://tuyensinh.hpu2.edu.vn/",
+        "email": [
+            "tuyensinh@hpu2.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 3431,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT và điểm thi năng khiếu",
+            "Xét học bạ và điểm thi năng khiếu",
+            "Xét chuyển học sinh hoàn thành chương trình dự bị đại học",
+            "Xét tuyển thẳng theo quy định của Quy chế tuyển sinh",
+            "Sử dụng kết quả thi đánh giá năng lực của ĐHQG HN, ĐHQG TP.HCM, Trường ĐHSP Hà Nội và điểm thi năng khiếu"
+        ]
+    }
+}

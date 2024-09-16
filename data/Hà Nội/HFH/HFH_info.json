@@ -1,0 +1,14 @@
+{
+    "name": "Học Viện Hậu Cần - Hệ Dân sự",
+    "id": "HFH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "P. Ngọc Thụy, Q. Long Biên, Tp. Hà Nội",
+        "phone": [
+            "hocvienhaucan.edu.vn"
+        ],
+        "website": "hocvienhaucan.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

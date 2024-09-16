@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Kinh tế Công nghiệp Long An",
+    "id": "DLA",
+    "region": "Long An",
+    "contact_details": {
+        "location": "Số 938 Quốc lộ 1, Phường Khánh Hậu, TP Tân An, Long An",
+        "phone": [
+            "0917 241 544"
+        ],
+        "website": "www.daihoclongan.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

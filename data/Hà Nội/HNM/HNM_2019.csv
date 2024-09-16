@@ -1,0 +1,34 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Chính trị học 7310201,18.0,,,"Môn Văn (C00, D78); môn GDCD (C19, D66) hệ số 2"
+2.0,Công tác xã hội 7760101,18.0,,,Môn Ngữ văn hệ số 2
+3.0,Công nghệ kỹ thuật Môi trường 7510406,23.0,,,"Môn Hoá (A00, B00, D07); môn Sinh (D08) hệ số 2"
+4.0,Công nghệ thông tin 7480201,20.0,,,Môn Toán hệ số 2
+5.0,ĐH Toán ứng dụng 7460112,20.0,,,Môn Toán hệ số 2
+6.0,Du lịch 7310630,18.0,,,"Môn Lịch Sử (C00); môn Địa lý (D15); môn Tiếng Anh (D14, D78) hệ số 2"
+7.0,Giáo dục Mầm non 7140201,30.5,,,Môn Năng khiếu hệ số 2
+8.0,Giáo dục Đặc biệt 7140203,24.25,,,Môn Ngữ văn hệ số 2
+9.0,Giáo dục Mầm non 51140201,27.0,,,Môn Năng khiếu hệ số 2
+10.0,Giáo dục Công dân 7140204,25.0,,,"Môn Ngữ văn (C00, D78); môn GDCD (C19, D66) hệ số 2"
+11.0,Giáo dục Tiểu học 7140202,24.0,,,Môn Tiếng Anh hệ số 2
+12.0,Giáo dục Thể chất 51140206,40.0,,,Môn Năng khiếu hệ số 2
+13.0,Giáo dục Tiểu học 51140202,22.25,,,Môn Tiếng Anh hệ số 2
+14.0,Logistics và Quản lý chuỗi cung ứng 7510605,20.0,,,"Môn Toán (A00, D01, D90); môn Văn (D78) hệ số 2"
+15.0,Luật 738101,20.0,,,"Môn Văn (C00, D78); môn GDCD (D66); môn Toán (D90) hệ số 2"
+16.0,Ngôn ngữ Trung Quốc 7220204,28.0,,,Môn Tiếng Anh hệ số 2
+17.0,Ngôn ngữ Anh 7220201,27.5,,,Môn Tiếng Anh hệ số 2
+18.0,Quản trị doanh nghiệp 7340101,20.0,,,"Môn Toán (A00, D01, D90); môn Văn (D78) hệ số 2"
+19.0,Quản trị dịch vụ du lịch và lữ hành 7810103,18.0,,,Môn Tiếng Anh hệ số 2
+20.0,Quản lý giáo dục 7140114,18.0,,,Môn Ngữ văn hệ số 2
+21.0,Quản lý công 7340403,19.75,,,
+22.0,Quản trị khách sạn 7810201,18.0,,,Môn Tiếng Anh hệ số 2
+23.0,Sư phạm Lịch sử 7140218,23.5,,,"Môn Lịch Sử (C00, D14, C19); môn KHXH (D78) hệ số 2"
+24.0,Sư phạm Địa lý (cao đẳng) 51140219,22.25,,,"Môn Địa lý (C00, D15); môn KHXH(C15, D78) hệ số 2"
+25.0,Sư phạm Ngữ văn (cao đẳng) 51140217,,,,
+26.0,Sư phạm Hóa học (CĐ) SI 140212,21.5,,,"Môn Hoá (A00, B00, D07); môn KHTN (D90) hệ số 2"
+27.0,Sư phạm Toán học 7140209,24.0,,,Môn Toán hệ số 2
+28.0,Sư nham Tin học (CĐ) SI 140210,24.5,,,Môn Toán hệ số 2
+29.0,Sư phạm Tiếng Anh (CĐ) SI 140231,21.25,,,Môn Tiếng Anh hệ số 2
+30.0,Sư phạm Ngữ văn 7140217,25.5,,,Môn Ngữ văn hệ số 2
+31.0,Sư phạm Toán học (Toán - Tin) 51140209,,,,
+32.0,Sư phạm Vật lý 7140211,24.0,,,"Môn Lý (A00, A01, A02); môn KHTN (D90) hệ số 2"
+33.0,Sư phạm Tiếng Anh 51140213,20.0,,,"Môn Sinh học (A02, B00, D08); môn KHTN (D90) hệ số 2"

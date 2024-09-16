@@ -1,0 +1,14 @@
+{
+    "name": "Đại Học Đông Đô",
+    "id": "DDU",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 170 Phạm Văn Đồng, Cầu Giấy, Hà Nội.",
+        "phone": [
+            "www.dongdo.edu.vn"
+        ],
+        "website": "www.dongdo.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

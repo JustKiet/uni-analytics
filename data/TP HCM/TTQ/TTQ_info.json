@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Quốc tế Sài Gòn",
+    "id": "TTQ",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 8C, 16 &18 đường Tống Hữu Định, Phường Thảo Điền, TP Thủ Đức, TP HCM",
+        "phone": [
+            "0386809521",
+            "02836203932"
+        ],
+        "website": "www.siu.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Khoa Học - Đại học Thái Nguyên",
+    "id": "DTZ",
+    "region": "Thái Nguyên",
+    "contact_details": {
+        "location": "Phường Tân Thịnh, TP. Thái Nguyên, Tỉnh Thái Nguyên",
+        "phone": [
+            "0980.821.199"
+        ],
+        "website": "https://tnus.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Học viện Tòa án",
+    "id": "HTA",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Đường 282 Kim Sơn, Gia Lâm, Hà Nội",
+        "phone": [
+            "0243.269.3684"
+        ],
+        "website": "http://hvta.toaan.gov.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

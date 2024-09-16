@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Lâm nghiệp (Cơ sở 2)",
+    "id": "LNS",
+    "region": "Đồng Nai",
+    "contact_details": {
+        "location": "Thị Trấn Trảng Bom, huyện Trảng Bom, Đồng Nai\nTổ 4, Phường Chi Lăng, TP Pleiku, Gia Lai.",
+        "phone": [
+            "02513.866.242",
+            "0269.3747.706"
+        ],
+        "website": "http://tuyensinh.vnuf.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

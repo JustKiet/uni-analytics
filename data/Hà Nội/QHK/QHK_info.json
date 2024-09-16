@@ -1,0 +1,29 @@
+{
+    "name": "Khoa Các khoa học liên ngành - Đại học Quốc gia Hà Nội",
+    "id": "QHK",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Nhà G7, 144, Xuân Thuỷ, Cầu Giấy, Hà Nội, Việt Nam.",
+        "phone": [
+            "091 277 5237",
+            "093 642 2292"
+        ],
+        "website": "https://sis.vnu.edu.vn/",
+        "email": [
+            "tuyensinhliennganh@vnu.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 950,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét tuyển thẳng",
+            "Xét tuyển thẳng theo quy định của ĐHQG Hà Nội",
+            "Xét tuyển bằng bài thi Đánh giá năng lực của ĐHQG Hà Nội",
+            "Xét tuyển chứng chỉ ngoại ngữ (Anh, Pháp, Trung) với điểm thi tốt nghiệp THPT 2024",
+            "Xét tuyển kết hợp năng khiếu và điểm thi tốt nghiệp THPT 2024",
+            "Xét tuyển kết hợp năng khiếu và kết quả học tập THPT"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Phú Yên",
+    "id": "DPY",
+    "region": "Phú Yên",
+    "contact_details": {
+        "location": "Số 18 Trần Phú, Phường 7, TP Tuy Hòa, Phú Yên",
+        "phone": [
+            "02573843119"
+        ],
+        "website": "http://tuyensinh.pyu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

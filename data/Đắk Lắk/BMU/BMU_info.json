@@ -1,0 +1,16 @@
+{
+    "name": "Đại học Buôn Ma Thuột",
+    "id": "BMU",
+    "region": "Đắk Lắk",
+    "contact_details": {
+        "location": "Số 298 Hà Huy Tập, Phường Tân An, TP Buôn Ma Thuột",
+        "phone": [
+            "0262 398 6688",
+            "0917 478 639",
+            "0935 696 689"
+        ],
+        "website": "https://tuyensinh.bmtu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

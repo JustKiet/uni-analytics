@@ -1,0 +1,28 @@
+{
+    "name": "Trường Quản trị và Kinh doanh - ĐH Quốc gia Hà Nội",
+    "id": "QHD",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Nhà B1, số 144 Xuân Thuỷ, Cầu Giấy, Hà Nội",
+        "phone": [
+            "0243.754.8456",
+            "0868.226.656"
+        ],
+        "website": "https://hsb.edu.vn",
+        "email": [
+            "upmo@hsb.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 500,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét tuyển thẳng theo quy định của ĐHQG Hà Nội",
+            "Xét điểm thi ĐGNL của ĐHQG Hà Nội",
+            "Xét chứng chỉ tiếng Anh IELTS và học bạ THPT",
+            "Xét chứng chỉ quốc tế SAT/ACT/A-level; Xét điểm thi ĐGNL của ĐHQG TP.HCM",
+            "Xét điểm thi tốt nghiệp THPT 2024"
+        ]
+    }
+}

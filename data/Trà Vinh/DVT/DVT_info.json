@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Trà Vinh",
+    "id": "DVT",
+    "region": "Trà Vinh",
+    "contact_details": {
+        "location": "Số 126 Nguyễn Thiện Thành, Khóm 4, Phường 5, TP Trà Vinh, Tỉnh Trà Vinh",
+        "phone": [
+            "0911202707"
+        ],
+        "website": "https://www.tvu.edu.vn/xet-tuyen-dai-hoc-cao-dang-chinh-quy-2021/#cac_nganh_dh_cd_2021_dhtv",
+        "email": "null"
+    },
+    "admission_details": null
+}

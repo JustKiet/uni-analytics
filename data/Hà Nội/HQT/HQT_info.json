@@ -1,0 +1,26 @@
+{
+    "name": "Học viện Ngoại giao",
+    "id": "HQT",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "69 Phố Chùa Láng, Đống Đa, Hà Nội, Việt Nam",
+        "phone": [
+            "0943.482.840",
+            "024.3834.4540"
+        ],
+        "website": "https://dav.edu.vn/",
+        "email": [
+            "tuyensinhvng@dav.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2200,
+        "methods": [
+            "Xét tuyển kết quả học tập THPT",
+            "Xét tuyển bằng phỏng vấn",
+            "Xét điểm thi tốt nghiệp THPT",
+            "Xét tuyển thẳng"
+        ]
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Võ Trường Toản",
+    "id": "VTT",
+    "region": "Hậu Giang",
+    "contact_details": {
+        "location": "Quốc lộ 1A, Tân Phú Thạnh, Châu Thành A, Hậu Giang",
+        "phone": [
+            "08.1875.3636"
+        ],
+        "website": "www.vttu.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Y Dược - Đại học Quốc Gia Hà Nội",
+    "id": "QHY",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Nhà Y1, 144 Xuân Thủy, Cầu Giấy, Hà Nội",
+        "phone": [
+            "0369624590",
+            "0989489668"
+        ],
+        "website": "http://ump.vnu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 640,
+        "methods": [
+            "Xét tuyển bằng điểm thi tốt nghiệp THPT",
+            "Xét tuyển bằng điểm Đánh giá năng lực của ĐHQG Hà Nội",
+            "Xét tuyển bằng IELTS hoặc chứng chỉ tiếng Anh quốc tế",
+            "Xét tuyển thẳng",
+            "Xét tuyển thẳng theo quy định của ĐHQG Hà Nội",
+            "Xét tuyển học sinh dự bị đại học",
+            "Xét tuyển theo đề án thu hút sinh viên Nam Trung Bộ và Nam Bộ"
+        ]
+    }
+}

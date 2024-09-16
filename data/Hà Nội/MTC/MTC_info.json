@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Mỹ thuật Công nghiệp",
+    "id": "MTC",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "360 La Thành, Quận Đống Đa, Hà Nội",
+        "phone": [
+            "0243.851.1476"
+        ],
+        "website": "http://mythuatcongnghiep.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

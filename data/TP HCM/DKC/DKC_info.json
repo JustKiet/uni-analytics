@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Công nghệ TP HCM",
+    "id": "DKC",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 475 Điện Biên Phủ, Phường 25, Quận Bình Thạnh",
+        "phone": [
+            "028.5445 2222"
+        ],
+        "website": "https://www.hutech.edu.vn/tuyensinh",
+        "email": "null"
+    },
+    "admission_details": null
+}

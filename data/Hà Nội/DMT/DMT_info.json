@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Tài nguyên và Môi trường Hà Nội",
+    "id": "DMT",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 41A đường Phú Diễn, Q. Bắc Từ Liêm, TP. Hà Nội\nPhân hiệu: Số 4 đường Trần Phú, TX Bỉm Sơn, Thanh Hoá",
+        "phone": [
+            "0902 130 130"
+        ],
+        "website": "https://tuyensinh.hunre.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

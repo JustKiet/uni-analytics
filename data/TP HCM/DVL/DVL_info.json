@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Văn Lang",
+    "id": "DVL",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 45 Nguyễn Khắc Nhu, Phường Cô Giang, Quận 1, TP HCM\n233A Phan Văn Trị, Phường 11, Quận Bình Thạnh, TP HCM\n69/68 Đặng Thùy Trâm, Phường 13, Quận Bình Thạnh, TP HCM",
+        "phone": [
+            "02871059999"
+        ],
+        "website": "https://tuyensinh.vanlanguni.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

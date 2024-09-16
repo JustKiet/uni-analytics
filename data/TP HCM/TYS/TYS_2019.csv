@@ -1,0 +1,19 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Điều dưỡng 7720301,20.6,,,NN >= 0; ĐTB12 >= 0; VA >= 0; TTNV <= 2; mã ngành TQ dành cho thí sinh có HK ngoài TP HCM
+2.0,Điều dưỡng 7720301TP,20.6,,,NN >= 7.2; ĐTB12 >= 8.6; VA >= 6.5; TTNV <= 5; mã ngành TP dành cho thí sinh có HK tại TP HCM
+3.0,Dinh dưỡng 7720401TP,20.15,,,NN >= 4.4; ĐTB12 >= 0; VA >= 0; TTNV <= 7; mã ngành TP dành cho thí sinh có HK tại TP HCM
+4.0,Dinh dưỡng 7720401TQ,20.35,,,NN >= 3; ĐTB12 >= 7; VA >= 4.5; TTNV <= 4; mã ngành TQ dành cho thí sinh có HK ngoài TP HCM
+5.0,Dược học 7720201,23.55,,,NN >= 7.4; ĐTB12 >= 8.5; VA >= 6.25; TTNV <= 4; mã ngành TQ dành cho thí sinh có HK ngoài TP HCM
+6.0,Dược học 7720201TP,23.35,,,NN >= 7.2; ĐTB12 >= 9.1; VA >= 6.75; TTNV <= 1; mã ngành TP dành cho thí sinh có HK tại TP HCM
+7.0,Khúc xạ nhãn khoa 7720699,21.75,,,N1 >= 10; ĐTB12 >= 8.9; VA >= 6.25; TTNV <= 4; mã ngành TQ dành cho thí sinh có HK ngoài TP HCM
+8.0,Khúc xạ nhãn khoa 7720699TP,21.55,,,N1 >= 9; ĐTB12 >= 0; VA >= 0; TTNV <= 3; mã ngành TP dành cho thí sinh có HK tại TP HCM
+9.0,Kỹ thuật xét nghiệm y học 7720601TP,22.75,,,NN >= 8.4; ĐTB12 >= 8.4; VA >= 6; TTNV <= 5; mã ngành TP dành cho thí sinh có HK tại TP HCM
+10.0,Kỹ thuật xét nghiệm y học 7720601,22.6,,,NN >= 5; ĐTB12 >= 8.8; VA >= 6; TTNV <= 2; mã ngành TQ dành cho thí sinh có HK ngoài TP HCM
+11.0,Kỹ thuật hình ảnh y học 7720602TP,21.9,,,NN >= 6.2; ĐTB12 >= 8.9; VA >= 4.5; TTNV <= 6; mã ngành TP dành cho thí sinh có HK tại TP HCM
+12.0,Kỹ thuật hình ảnh y học 7720602,21.45,,,NN >= 6.6; ĐTB12 >= 8.2; VA >= 4.25; TTNV <= 4; mã ngành TQ dành cho thí sinh có HK ngoài TP HCM
+13.0,Răng - Hàm - Mặt 7720501TP,24.5,,,NN >= 9.2; ĐTB12 >= 9; VA >= 7.25; TTNV <= 2; mã ngành TP dành cho thí sinh có HK tại TP HCM
+14.0,Răng- Hàm -Mặt 7720501,25.15,,,NN >= 7.6; ĐTB12 >= 8.9; VA >= 7.08; TTNV <= 2; mã ngành TQ dành cho thí sinh có HK ngoài TP HCM
+15.0,Y khoa 7720101,24.65,,,NN >= 5.6; ĐTB12 >= 8.3; VA >= 5; TTNV <= 1; mã ngành TQ dành cho thí sinh có HK ngoài TP HCM
+16.0,Y tế công cộng 7720701,18.05,,,NN >= 7; ĐTB12 >= 8; VA >= 4.75; TTNV <= 2; mã ngành TQ dành cho thí sinh có HK ngoài TP HCM
+17.0,Y khoa 7720101TP,23.5,,,NN >= 8.6; ĐTB12 >= 9.6; VA >= 7.75; TTNV <= 2; mã ngành TP dành cho thí sinh có HK tại TP HCM
+18.0,Y tế công cộng 7720701TP,18.3,,,NN >= 4.4; ĐTB12 >= 8.2; VA >= 5; TTNV <= 2; mã ngành TP dành cho thí sinh có HK tại TP HCM

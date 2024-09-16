@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Khoa học Tự nhiên - Đại học Quốc gia TP HCM",
+    "id": "QST",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 227 đường Nguyễn Văn Cừ, Phường 4, Quận 5",
+        "phone": [
+            "(028) 62884499 - 3355"
+        ],
+        "website": "https://tuyensinh.hcmus.edu.vn/",
+        "email": [
+            "tuvantuyensinh@hcmus.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 3900,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Ưu tiên xét tuyển thẳng theo đề án riêng",
+            "Xét điểm thi tốt nghiệp THPT",
+            "Xét điểm đánh giá năng lực của ĐHQG HCM",
+            "Xét tuyển dựa trên kết quả các kỳ thi quốc tế",
+            "Xét chứng chỉ ngoại ngữ quốc tế kết hợp học bạ"
+        ]
+    }
+}

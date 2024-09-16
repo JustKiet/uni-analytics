@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Văn hoá TP HCM",
+    "id": "VHS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 51 Quốc Hương, Phường Thảo Điền, TP Thủ Đức, TP HCM",
+        "phone": [
+            "028.3899.2901"
+        ],
+        "website": "http://hcmuc.edu.vn/tuyen-sinh/",
+        "email": "null"
+    },
+    "admission_details": null
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Học viện Cán bộ TP HCM",
+    "id": "HVC",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "324 Chu Văn An, Phường 12, Quận Bình Thạnh, TP HCM",
+        "phone": [
+            "http://tuyensinh.hcmca.edu.vn/"
+        ],
+        "website": "http://tuyensinh.hcmca.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

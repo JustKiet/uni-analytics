@@ -1,0 +1,14 @@
+{
+    "name": "Phân hiệu Đại học Nông Lâm TP HCM tại Ninh Thuận",
+    "id": "NLN",
+    "region": "Ninh Thuận",
+    "contact_details": {
+        "location": "Số 8 Yên Ninh, Thị trấn Khánh Hải, Huyện Ninh Hải, Ninh Thuận",
+        "phone": [
+            "0259.2472.252"
+        ],
+        "website": "www.phnt.hcmuaf.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

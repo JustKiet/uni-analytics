@@ -1,0 +1,25 @@
+{
+    "name": "Đại học Phenikaa",
+    "id": "DTA",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Phường Yên Nghĩa, Quận Hà Đông, Hà Nội",
+        "phone": [
+            "096.951.1010"
+        ],
+        "website": "https://ts2021.phenikaa-uni.edu.vn/",
+        "email": [
+            "tuyensinh@phenikaa-uni.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 11296,
+        "methods": [
+            "Xét tuyển riêng theo đề án của trường (xét chứng chỉ ngoại ngữ, học sinh giỏi)",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ",
+            "Xét điểm ĐGNL của ĐHQG Hà Nội hoặc ĐGTD của ĐH Bách Khoa Hà Nội"
+        ]
+    }
+}

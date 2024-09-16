@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Thể dục Thể thao TP HCM",
+    "id": "TDS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Khu phố 6, Phường Linh Trung, TP Thủ Đức, TP HCM.",
+        "phone": [
+            "028.3896.0322"
+        ],
+        "website": "www.ush.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

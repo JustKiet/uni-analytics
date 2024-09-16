@@ -1,0 +1,14 @@
+{
+    "name": "Đại Học Sư Phạm Nghệ Thuật Trung Ương",
+    "id": "GNT",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Km9+200, đường Nguyễn Trãi, quận Thanh Xuân, Tp. Hà Nội",
+        "phone": [
+            "http://www.spnttw.edu.vn"
+        ],
+        "website": "http://www.spnttw.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

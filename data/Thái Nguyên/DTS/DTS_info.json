@@ -1,0 +1,29 @@
+{
+    "name": "Đại Học Sư Phạm - Đại học Thái Nguyên",
+    "id": "DTS",
+    "region": "Thái Nguyên",
+    "contact_details": {
+        "location": "Số 20, đường Lương Ngọc Quyến, TP Thái Nguyên, tỉnh Thái Nguyên",
+        "phone": [
+            "02083.653.559"
+        ],
+        "website": "http://tnue.edu.vn",
+        "email": [
+            "phongdaotao@tnue.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1160,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét điểm ĐGNL của ĐHQG Hà Nội",
+            "Xét điểm ĐGNL của ĐHSP Hà Nội",
+            "Xét học bạ",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ kết hợp thi năng khiếu",
+            "Xét điểm thi tôt nghiệp THPT 2024 kết hợp năng khiếu",
+            "Xét tuyển thí sinh dự bị đại học"
+        ]
+    }
+}

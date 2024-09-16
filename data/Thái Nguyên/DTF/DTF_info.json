@@ -1,0 +1,22 @@
+{
+    "name": "Khoa Ngoại Ngữ - Đại học Thái Nguyên",
+    "id": "DTF",
+    "region": "Thái Nguyên",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 850,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét kết quả thi tốt nghiệp THPT 2024",
+            "Xét học bạ",
+            "Xét theo kết quả đánh giá đầu vào",
+            "Xét tuyển dự bị đại học"
+        ]
+    }
+}

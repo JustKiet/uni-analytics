@@ -1,0 +1,11 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Điều dưỡng phụ sản 7720301D,18.0,,,Tiêu chí phụ: SI >= 5.75; TTNV <= 4
+2.0,Điều dưỡng đa khoa 7720301A,18.0,,,Tiêu chí phụ: SI >= 4.25; TTNV <=3
+3.0,Điều dưỡng gây mê hồi sức 7720301C,18.0,,,Tiêu chí phụ: SI >= 4.25; TTNV <= 6
+4.0,Điều dưỡng nha khoa 7720301B,18.0,,,Tiêu chí phụ: SI >= 5.25; TTNV <= 3
+5.0,Dược học 7720201,22.6,,,Tiêu chí phụ: H0 >=6; TTNV <=8
+6.0,Kỹ thuật hình ảnh y học 7720602,19.0,,,Tiêu chí phụ: SI >=5.25; TTNV <= 3
+7.0,Kỹ thuật xét nghiệm y học 7720601,21.0,,,Tiêu chí phụ: SI >= 6.5; TTNV <=13
+8.0,Kỹ thuật phục hồi chức năng 7720603,19.8,,,Tiêu chí phụ: SI >= 5.75; TTNV <= 3
+9.0,Y khoa 7720101,24.4,,,Tiêu chí phụ: SI >= 7; TTNV <= 3
+10.0,Y tế công cộng 7720701,15.6,,,Tiêu chí phụ: SI >= 4.5; TTNV <= 3

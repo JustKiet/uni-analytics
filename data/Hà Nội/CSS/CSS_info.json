@@ -1,0 +1,20 @@
+{
+    "name": "Đại học Cảnh Sát Nhân Dân",
+    "id": "CSS",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 420,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét điểm học bạ kết hợp chứng chỉ ngoại ngữ quốc tế",
+            "Xét điểm thi tốt nghiệp THPT kết hợp bài thi đánh giá của Bộ Công an"
+        ]
+    }
+}

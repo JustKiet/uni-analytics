@@ -1,0 +1,21 @@
+{
+    "name": "Trường Sĩ Quan Không Quân - Hệ Đại học",
+    "id": "KGH",
+    "region": "Khánh Hòa",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 185,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét điểm thi ĐGNL của ĐHQG Hà Nội hoặc ĐHQG TP.HCM",
+            "Xét học bạ",
+            "Xét điểm thi tốt nghiệp THPT 2024"
+        ]
+    }
+}

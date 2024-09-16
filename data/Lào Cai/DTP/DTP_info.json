@@ -1,0 +1,15 @@
+{
+    "name": "Phân hiệu Đại học Thái Nguyên tại Lào Cai",
+    "id": "DTP",
+    "region": "Lào Cai",
+    "contact_details": {
+        "location": "Tổ 13, Phường Bình Minh, TP Lào Cai, tỉnh Lào Cai",
+        "phone": [
+            "02143.900.991",
+            "0988.552.325"
+        ],
+        "website": "http://laocai.tnu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

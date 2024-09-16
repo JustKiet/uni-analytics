@@ -1,0 +1,20 @@
+{
+    "name": "Khoa Du Lịch - Đại học Huế",
+    "id": "DHD",
+    "region": "Huế",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1000,
+        "methods": [
+            "Xét Kết quả học tập THPT (xét học bạ)",
+            "Xét Kết quả kỳ thi tốt nghiệp THPT năm 2024",
+            "Xét diểm ĐGNL ĐHQG TP.HCM"
+        ]
+    }
+}

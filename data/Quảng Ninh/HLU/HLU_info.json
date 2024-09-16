@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Hạ Long",
+    "id": "HLU",
+    "region": "Quảng Ninh",
+    "contact_details": {
+        "location": "Số 258, Bạch Đằng, phường Nam Khê, TP Uông Bí, Quảng Ninh",
+        "phone": [
+            "0203.3850.304"
+        ],
+        "website": "http://tuyensinh.daihochalong.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

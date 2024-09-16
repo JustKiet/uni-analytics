@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Tân Tạo",
+    "id": "TTU",
+    "region": "Long An",
+    "contact_details": {
+        "location": "Đại lộ Đại học Tân Tạo, Tân Đức E.City, huyện Đức Hòa, tỉnh Long An",
+        "phone": [
+            "0981 152 153"
+        ],
+        "website": "https://ttu.edu.vn/tuyen-sinh/",
+        "email": "null"
+    },
+    "admission_details": null
+}

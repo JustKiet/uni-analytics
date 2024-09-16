@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Thành Đô",
+    "id": "TDD",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Km15, Quốc lộ 32, Kim Chung - Hoài Đức - Hà Nội",
+        "phone": [
+            "(0243) 3861601",
+            "0934.078.668"
+        ],
+        "website": "thanhdo.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

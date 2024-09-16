@@ -1,0 +1,22 @@
+{
+    "name": "Đại học Y Dược - Đại học Thái Nguyên",
+    "id": "DTY",
+    "region": "Thái Nguyên",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1380,
+        "methods": [
+            "Xét kết quả thi tốt nghiệp THPT",
+            "Xét học bạ",
+            "Xét tuyển thẳng",
+            "Xét tuyển sớm theo Đề án của Trường Đại học Y - Dược - Đại học Thái Nguyên",
+            "Xét tuyển sớm theo kết quả đánh giá năng lực của Đại học Quốc gia Hà Nội, kết quả đánh giá đầu vào đại học của Đại học Thái Nguyên tổ chức"
+        ]
+    }
+}

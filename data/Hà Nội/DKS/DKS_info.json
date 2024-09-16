@@ -1,0 +1,32 @@
+{
+    "name": "Đại học Kiểm sát Hà Nội",
+    "id": "DKS",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Phường Dương Nội - Quận Hà Đông - TP.Hà Nội",
+        "phone": [
+            "024.3358.1280",
+            "024.3387.8340",
+            "091.797.1880"
+        ],
+        "website": "https://tks.edu.vn/",
+        "email": [
+            "phongdaotao.dhkshn@gmail.com"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 800,
+        "methods": [
+            "Kết hợp giữa sơ tuyển và xét tuyển kết quả học tập THPT của thí sinh học tại trường THPT Chuyên hoặc có hệ thống lớp Chuyên trực thuộc đại học, các tỉnh, thành phố trực thuộc Trung ương",
+            "Kết hợp giữa sơ tuyển và xét tuyển kết quả học tập THPT của thí sinh học trường THPT không thuộc danh mục quy định tại Đề án.",
+            "Kết hợp giữa sơ tuyển, xét tuyển kết quả học tập THPT và điểm chứng chỉ tiếng Anh IELTS học thuật (Academic): ≥ 6.5 hoặc chứng chỉ tiếng Nga TPKH-2 (có giá trị đến ngày 01/10/2024)",
+            "Kết hợp giữa sơ tuyển, xét tuyển kết quả học THPT và kết quả thi Học sinh giỏi Quốc gia, học sinh giỏi cấp tỉnh.",
+            "Kết hợp giữa sơ tuyển và xét tuyển kết quả điểm thi tốt nghiệp THPT năm học 2023-2024 của tổ hợp phân môn, môn đăng ký xét tuyển: A00, A01, C00, D01.",
+            "Xét hạnh kiểm, kết quả học tập THPT",
+            "Xét hạnh kiểm, kết quả học tập THPT và điểm chứng chỉ tiếng Anh IELTS học thuật (Academic): ≥ 6.0 (có giá trị đến ngày 01/10/2024).",
+            "Xét hạnh kiểm, kết quả học THPT và kết quả thi Học sinh giỏi Quốc gia, học sinh giỏi cấp tỉnh.",
+            "Xét tuyển kết quả điểm thi tốt nghiệp THPT năm học 2023-2024."
+        ]
+    }
+}

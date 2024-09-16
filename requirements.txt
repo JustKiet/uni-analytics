@@ -1,0 +1,13 @@
+langchain
+langchain_openai
+langchain_community
+selenium
+pandas
+numpy
+ipykernel
+beautifulsoup4
+lxml
+pypdf
+jpype1
+camelot-py
+html5lib

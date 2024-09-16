@@ -1,0 +1,25 @@
+{
+    "name": "Đại học Khoa Học - Đại học Huế",
+    "id": "DHT",
+    "region": "Huế",
+    "contact_details": {
+        "location": "77 Nguyễn Huệ, TP. Huế",
+        "phone": [
+            "(0234) 3823290"
+        ],
+        "website": "husc.hueuni.edu.vn",
+        "email": [
+            "tuyensinh@husc.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1589,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ",
+            "Xét học bạ hoặc điểm thi tốt nghiệp THPT với năng khiếu",
+            "Xét tuyển thẳng"
+        ]
+    }
+}

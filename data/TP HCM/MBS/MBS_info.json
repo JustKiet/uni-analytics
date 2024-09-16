@@ -1,0 +1,25 @@
+{
+    "name": "Đại học Mở TP HCM",
+    "id": "MBS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 97 Võ Văn Tần, Phường 6, Quận 3",
+        "phone": [
+            "1800 5858 84"
+        ],
+        "website": "http://tuyensinh.ou.edu.vn/",
+        "email": [
+            "tuyensinh@ou.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 5300,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét đề án riêng: chứng chỉ quốc tế, học sinh giỏi, chứng chỉ ngoại ngữ quốc tế, học bạ",
+            "Xét điểm thi ĐGNL của ĐHQG TP.HCM"
+        ]
+    }
+}

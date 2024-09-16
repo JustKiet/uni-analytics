@@ -1,0 +1,25 @@
+{
+    "name": "Đại học Lâm nghiệp (Cơ sở 1)",
+    "id": "LNH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Thị trấn Xuân Mai, huyện Chương Mỹ, Hà Nội",
+        "phone": [
+            "024.3384.0440"
+        ],
+        "website": "http://tuyensinh.vnuf.edu.vn/",
+        "email": [
+            "daotao@vnuf.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1260,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ",
+            "Xét tuyển thẳng",
+            "Xét điểm thi ĐGNL của ĐHQG Hà Nội"
+        ]
+    }
+}

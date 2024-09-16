@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Sư phạm TP HCM",
+    "id": "SPS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "280 An Dương Vương, Phường 4, Quận 5, TP HCM",
+        "phone": [
+            "028.3835.5077",
+            "028.3835.2020"
+        ],
+        "website": "https://hcmue.edu.vn/\nhttp://tuyensinh.hcmup.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

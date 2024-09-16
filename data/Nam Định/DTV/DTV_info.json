@@ -1,0 +1,14 @@
+{
+    "name": "Đại Học Lương Thế Vinh",
+    "id": "DTV",
+    "region": "Nam Định",
+    "contact_details": {
+        "location": "Phường Lộc Vượng, TP.Nam Định, tỉnh Nam Định.",
+        "phone": [
+            "(0350) 3680042"
+        ],
+        "website": "www.ltvu.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

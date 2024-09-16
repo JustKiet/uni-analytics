@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Kinh doanh và Công nghệ Hà Nội",
+    "id": "DQK",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 29A, Ngõ 124, Phố Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",
+        "phone": [
+            "0243.6336.507"
+        ],
+        "website": "http://hubt.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

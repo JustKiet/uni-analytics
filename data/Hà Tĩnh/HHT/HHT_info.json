@@ -1,0 +1,23 @@
+{
+    "name": "Đại học Hà Tĩnh",
+    "id": "HHT",
+    "region": "Hà Tĩnh",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1075,
+        "methods": [
+            "Xét tuyển kết quả kỳ thi tốt nghiệp THPT năm 2024",
+            "Xét tuyển kết quả học tập lớp 11 hoặc lớp 12 THPT",
+            "Kết hợp kết quả thi tốt nghiệp THPT với chứng chỉ quốc tế để xét tuyển (Chứng chỉ IELTS; Chứng chỉ HSK)",
+            "Sử dụng kết quả thi đánh giá năng lực do Đại học quốc gia Hà Nội, Đại học Quốc gia Thành phố Hồ Chí Minh tổ chức; đánh giá tư duy do Đại học Bách khoa Hà Nội tổ chức để xét tuyển",
+            "Xét tuyển thí sinh tốt nghiệp THPT nước ngoài",
+            "Xét tuyển thẳng và ưu tiên xét tuyển"
+        ]
+    }
+}

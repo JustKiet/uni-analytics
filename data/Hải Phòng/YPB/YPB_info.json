@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Y Dược Hải Phòng",
+    "id": "YPB",
+    "region": "Hải Phòng",
+    "contact_details": {
+        "location": "72A Nguyễn Bỉnh Khiêm, Ngô Quyền, Hải Phòng",
+        "phone": [
+            "02253.731.907",
+            "0937.120.991"
+        ],
+        "website": "http://hpmu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

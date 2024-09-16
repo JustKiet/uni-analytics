@@ -1,0 +1,14 @@
+{
+    "name": "Học viện Quân Y - Hệ Quân sự",
+    "id": "YQH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 160, đường Phùng Hưng, phường Phúc La, quận Hà Đông, Hà Nội.",
+        "phone": [
+            "http://hocvienquany.vn/"
+        ],
+        "website": "http://hocvienquany.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

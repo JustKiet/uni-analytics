@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Cửu Long",
+    "id": "DCL",
+    "region": "Vĩnh Long",
+    "contact_details": {
+        "location": "Quốc lộ 1A, Phú Quới, Long Hồ, Vĩnh Long",
+        "phone": [
+            "0944 707 787",
+            "0979 08 88 57"
+        ],
+        "website": "http://tuyensinh.mku.edu.vn/",
+        "email": [
+            "phongtuyensinh@mku.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 4350,
+        "methods": [
+            "Tuyển thẳng",
+            "Xét tuyển kết quả học tập THPT",
+            "Xét tuyển kết quả thi tốt nghiệp THPT 2024",
+            "Tổ chức kỳ thi tuyển sinh riêng: áp dụng cho các ngành thuộc khối sức khỏe",
+            "Xét tuyển kết quả học tập bậc trung cấp trở lên: áp dụng các khối ngành sức khỏe"
+        ]
+    }
+}

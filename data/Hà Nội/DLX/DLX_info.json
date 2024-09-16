@@ -1,0 +1,23 @@
+{
+    "name": "Đại học Lao động - Xã hội (Cơ sở Hà Nội)",
+    "id": "DLX",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "43 Trần Duy Hưng - Trung Hòa - Cầu Giấy - Hà Nội",
+        "phone": [
+            "0243.5564.584"
+        ],
+        "website": "http://ulsa.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1000,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ",
+            "Xét tuyển thẳng",
+            "Xét học bạ dự bị đại học tại các Trường dự bị đại học dân tộc"
+        ]
+    }
+}

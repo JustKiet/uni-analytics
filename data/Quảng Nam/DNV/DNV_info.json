@@ -1,0 +1,15 @@
+{
+    "name": "Phân hiệu Đại học Nội vụ tại Quảng Nam",
+    "id": "DNV",
+    "region": "Quảng Nam",
+    "contact_details": {
+        "location": "số 749 Trần Hưng Đạo, phường Điện Ngọc, thị xã Điện Bàn, tỉnh Quảng Nam",
+        "phone": [
+            "0283.895.2372",
+            "0283.984.8818"
+        ],
+        "website": "http://truongnoivu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

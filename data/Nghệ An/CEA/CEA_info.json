@@ -1,0 +1,22 @@
+{
+    "name": "Đại học Kinh Tế Nghệ An",
+    "id": "CEA",
+    "region": "Nghệ An",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1700,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét học bạ",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét điểm ĐGNL của ĐHQG Hà Nội và ĐHQG TP.HCM; điểm thi ĐGTD của Đại học Bách khoa Hà Nội",
+            "Xét kết hợp diểm thi tốt nghiệp THPT và học bạ"
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Đại học Mỏ - Địa chất",
+    "id": "MDA",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 18 Phố Viên, phường Đức Thắng, quận Bắc Từ Liêm, Hà Nội",
+        "phone": [
+            "024.3838 6739"
+        ],
+        "website": "http://ts.humg.edu.vn/",
+        "email": [
+            "qhccdn@humg.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2280,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ",
+            "Xét học sinh giỏi",
+            "Xét chứng chỉ ngoại ngữ quốc tế kết hợp điểm thi hai môn tốt nghiệp THPT"
+        ]
+    }
+}

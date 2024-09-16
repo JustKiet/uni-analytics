@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Y Dược Thái Bình",
+    "id": "YTB",
+    "region": "Thái Bình",
+    "contact_details": {
+        "location": "373 Lý Bôn, TP. Thái Bình, tỉnh Thái Bình",
+        "phone": [
+            "0227.3838.545"
+        ],
+        "website": "http://tbump.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

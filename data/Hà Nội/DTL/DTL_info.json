@@ -1,0 +1,23 @@
+{
+    "name": "Đại học Thăng Long",
+    "id": "DTL",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Nghiêm Xuân Yêm, Đại Kim, Hoàng Mai, Hà Nội",
+        "phone": [
+            "024 3858 7346"
+        ],
+        "website": "https://thanglong.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2800,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét điểm thi tốt nghiệp THPT 2024 kết hợp chứng chỉ quốc tế",
+            "Xét điểm ĐGNL của ĐHQG Hà Nội hoặc ĐGTD của ĐH Bách khoa Hà Nội",
+            "Xét học bạ"
+        ]
+    }
+}

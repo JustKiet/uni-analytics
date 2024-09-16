@@ -1,0 +1,25 @@
+{
+    "name": "Học viện Chính sách và Phát triển",
+    "id": "HCP",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Khu đô thị Nam An Khánh, Xã An Thượng, Huyện Hoài Đức, Hà Nội.",
+        "phone": [
+            "0243.795.7368",
+            "0243.747.3186"
+        ],
+        "website": "http://tuyensinh.apd.edu.vn",
+        "email": [
+            "tuyensinh@apd.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1800,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét tuyển theo đề án riêng của trường (Xét học sinh giỏi, chứng chỉ quốc tế, ĐGNL của ĐHQG Hà Nội hoặc ĐGTD của ĐH Bách khoa Hà Nội)"
+        ]
+    }
+}

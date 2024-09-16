@@ -1,0 +1,14 @@
+{
+    "name": "Đại Học Đông Á",
+    "id": "DAD",
+    "region": "Đà Nẵng",
+    "contact_details": {
+        "location": "33 Xô Viết Nghệ Tĩnh, Q. Hải Châu, TP. Đà Nẵng",
+        "phone": [
+            "(0236) 3519991"
+        ],
+        "website": "http://www.donga.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

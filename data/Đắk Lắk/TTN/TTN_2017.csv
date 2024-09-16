@@ -1,0 +1,36 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Bảo vệ thực vật 7620112,15.5,,,TTNV <= 1
+2.0,Chăn nuôi 7620105,15.5,,,TTNV <= 6
+3.0,Công nghệ thông tin 7480201,15.5,,,TTNV <= 3
+4.0,Công nghệ sau thu hoạch 7540104,15.5,,,TTNV <= 3
+5.0,Công nghệ kỹ thuật Môi trường 7510406,15.5,,,TTNV <= 4
+6.0,Công nghệ sinh học 7420201,15.5,,,TTNV <= 2
+7.0,Giáo dục Tiểu học 7140202,24.0,,,TTNV <= 5
+8.0,Giáo dục Chính trị 7140205,22.25,,,TTNV <= 2
+9.0,Giáo dục Mầm non 7140201,20.0,,,NK1 >= 5.38;TTNV <= 1
+10.0,Giáo dục Thể chất 7140206,15.5,,,NK2 >= 8;TTNV <=
+11.0,Giáo dục Tiểu học - Tiếng J'rai 7140202JR,20.5,,,TTNV <= 3
+12.0,Kế toán 7340301,17.25,,,TTNV <= 1
+13.0,Khoa học cây trồng 7620110,15.5,,,TTNV <= 2
+14.0,Kinh tế nông nghiệp 7620115,15.5,,,TTNV <= 6
+15.0,Kinh tế 7310101,15.5,,,TTNV <= 5
+16.0,Lâm sinh 7620205,15.5,,,TTNV <= 1
+17.0,Ngôn ngữ Anh 7220201,18.0,,,TTNV <= 1
+18.0,Quản lý tài nguyên rừng 7620211,15.5,,,TTNV <= 2
+19.0,Quản trị doanh nghiệp 7340101,17.5,,,TTNV <= 1
+20.0,Quản lý đất đai 7850103,15.5,,,TTNV <= 3
+21.0,Răng- Hàm -Mặt 7720501,20.75,,,SI >= 7.25;TTNV <= 1
+22.0,Sinh hoc 7420101,15.5,,,TTNV <= 1
+23.0,Sư phạm Sinh học 7140213,15.5,,,SI >= 5;TTNV <= 4
+24.0,Sư phạm Tiếng Anh 7140231,20.25,,,N1 >= 6;TTNV <= 1
+25.0,Sư phạm Ngữ văn 7140217,21.5,,,VA >= 5.5;TTNV <= 2
+26.0,Sư phạm Toán học 7140209,18.5,,,TO >= 6.4;TTNV <= 1
+27.0,Sư phạm Hóa học 7140212,15.5,,,HO >= 3.25;TTNV <= 3
+28.0,Sư phạm Vật lý 7140211,15.5,,,LI >= 4;TTNV <= 5
+29.0,Tài chính – Ngân hàng 7340201,15.5,,,TTNV <= 8
+30.0,Thú y 7640101,17.5,,,TTNV <= 1
+31.0,Triết học 7220301,15.5,,,TTNV <= 1
+32.0,Văn học 7220330,15.5,,,TTNV <= 10
+33.0,Xét nghiệm y học 7720332,21.5,,,SI >= 6;TTNV <= 5
+34.0,Y khoa (liên thông) 7720101LT,25.0,,,SI >= 7.75;TTNV <= 3
+35.0,Y khoa 7720101,26.0,,,SI >= 9.25;TTNV <= 3

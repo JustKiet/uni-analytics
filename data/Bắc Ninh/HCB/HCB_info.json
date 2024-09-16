@@ -1,0 +1,20 @@
+{
+    "name": "Đại học Kỹ Thuật - Hậu Cần Công An Nhân Dân ( Phía Bắc )",
+    "id": "HCB",
+    "region": "Bắc Ninh",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 70,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét học bạ kết hợp chứng chỉ ngoại ngữ quốc tế",
+            "Xét điểm thi tốt nghiệp THPT kết hợp bài thi đánh giá của Bộ Công an"
+        ]
+    }
+}

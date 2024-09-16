@@ -1,0 +1,17 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Luật (Nam - Phía Nam) 7380101|22C00,24.0,,,Nam - phía Nam - C00
+2.0,Luật (Nam - Phía Bắc) 7380101|21D01,20.85,,,Nam - phía Bắc - D01
+3.0,Luật (Nữ - Phía Bắc) 7380101|11A01,22.1,,,Nữ - phía Bắc - A01
+4.0,Luật (Nữ - Phía Bắc) 7380101|11D01,23.65,,,Nữ - phía Bắc - D01
+5.0,Luật (Nữ - Phía Nam) 7380101|12A00,21.25,,,Nữ - phía Nam - A00
+6.0,Luật (Nữ - Phía Nam) 7380101|12C00,25.25,,,Nữ - phía Nam - C00; tiêu chí phụ: môn Văn >= 7.5
+7.0,Luật (Nam - Phía Nam) 7380101|22D01,15.6,,,Nam - phía Nam - D01
+8.0,Luật (Nữ - Phía Bắc) 7380101|11C00,28.0,,,Nữ - phía Bắc - C00
+9.0,Luật (Nam - Phía Nam) 7380101|22A01,16.75,,,Nam - phía Nam - A01
+10.0,Luật (Nam - Phía Bắc) 7380101|21C00,26.25,,,Nam - phía Bắc - C00; tiêu chí phụ: môn Văn >= 6.5
+11.0,Luật (Nữ - Phía Bắc) 7380101|11A00,22.5,,,Nữ - phía Bắc - A00
+12.0,Luật (Nữ - Phía Nam) 7380101|12D01,21.2,,,Nữ - phía Nam - D01
+13.0,Luật (Nam - Phía Nam) 7380101|22A00,20.2,,,Nam - phía Nam - A00
+14.0,Luật (Nữ - Phía Nam) 7380101|12A01,20.25,,,Nữ - phía Nam - A01
+15.0,Luật (Nam - Phía Bắc) 7380101|21A01,20.3,,,Nam - phía Bắc - A01
+16.0,Ngành Luật 7380101,21.75,,,Nam - phía Bắc - A00

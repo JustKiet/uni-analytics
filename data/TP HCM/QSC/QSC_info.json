@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Công nghệ Thông tin - Đại học Quốc gia TP HCM",
+    "id": "QSC",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Khu phố 6, Phường Linh Trung, TP Thủ Đức",
+        "phone": [
+            "090.883.1246"
+        ],
+        "website": "https://tuyensinh.uit.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

@@ -1,0 +1,19 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Điều dưỡng 7720301TP,24.25,,,NN>=9;DTB12 >=9.7;VA >=8;TTNV <=4
+2.0,Điều dưỡng 7720301TQ,24.0,,,NN>=8.6;DTB12 >=8.6;VA >=7.5;TTNV <=5
+3.0,Dinh dưỡng 7720401TQ,23.45,,,NN>=0;DTB12 >=0;VA >=0;TTNV <=8
+4.0,Dinh dưỡng 7720401TP,23.8,,,NN>=0;DTB12 >=0;VA >=0;TTNV <=7
+5.0,Dược học 7720201TQ,26.35,,,NN>=7;DTB12 >=9;VA >=6.75;TTNV <=1
+6.0,Dược học 7720201TP,26.15,,,NN>=8.2;DTB12 >=8.8;VA >=6.5;TTNV <=2
+7.0,Khúc xạ nhãn khoa 7720699TQ,24.9,,,NN>=9.6;DTB12 >=8.7;VA >=7;TTNV <=6
+8.0,Khúc xạ nhãn khoa 7720699TQ,24.7,,,NN>=8.8;DTB12 >=8.6;VA >=7;TTNV <=5
+9.0,Kỹ thuật xét nghiệm y học 7720601TQ,25.7,,,NN>=6;DTB12 >=8.2;VA >=5.75;TTNV <=7
+10.0,Kỹ thuật hình ảnh Y học 7720602TQ,24.7,,,NN>=7.8;DTB12 >=8.9;VA >=4.5;TTNV <=8
+11.0,Kỹ thuật hình ảnh y học 7720602TP,24.85,,,NN>=8.4;DTB12 >=9.6;VA >=7.75;TTNV <=1
+12.0,Kỹ thuật xét nghiệm y học 7720601TP,25.6,,,NN>=8.6;DTB12 >=9.2;VA >=5.25;TTNV <=1
+13.0,Răng - Hàm - Mặt 7720501TP,26.6,,,NN>=6;DTB12 >=7.8;VA >=5.5;TTNV <=1
+14.0,Răng - Hàm - Mặt 7720501TQ,27.35,,,NN>=9;DTB12 >=8.9;VA >=6.5;TTNV <=4
+15.0,Y tế công cộng 7720701TP,23.15,,,NN>=7.4;DTB12 >=8.6;VA >=7;TTNV <=3
+16.0,Y khoa 7720101TP,26.35,,,NN>=10;DTB12 >=9.3;VA >=7.75;TTNV <=2
+17.0,Y tế công cộng 7720701TQ,21.35,,,NN>=6.2;DTB12 >=7.7;VA >=7.5;TTNV <=1
+18.0,Y khoa 7720101TQ,27.35,,,NN>=9.4;DTB12 >=8.7;VA >=6.5;TTNV <=2

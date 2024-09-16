@@ -1,0 +1,23 @@
+{
+    "name": "Học viện Y Dược học cổ truyền Việt Nam",
+    "id": "HYD",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 2 đường Trần Phú, quận Hà Đông, Hà Nội",
+        "phone": [
+            "024. 33.824.929",
+            "096.820.4422",
+            "096.820.4466"
+        ],
+        "website": "http://vutm.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1000,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT",
+            "Xét điểm thi tốt nghiệp THPT kết hợp chứng chỉ ngoại ngữ quốc tế"
+        ]
+    }
+}

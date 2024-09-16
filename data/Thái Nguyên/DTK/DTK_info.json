@@ -1,0 +1,21 @@
+{
+    "name": "Đại học Kỹ Thuật Công Nghiệp - Đại học Thái Nguyên",
+    "id": "DTK",
+    "region": "Thái Nguyên",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2745,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét học bạ",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét theo kết quả đánh giá đầu vào đại học thi trên máy tính"
+        ]
+    }
+}

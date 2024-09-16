@@ -1,0 +1,19 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Hệ thống thông tin 7340405,19.5,,,Điều kiện phụ: TTNV <= 4
+2.0,Kế toán 7340301,21.0,,,Điều kiện phụ: TTNV <= 10
+3.0,Kiểm toán 7340302,21.0,,,Điều kiện phụ: TTNV <= 6
+4.0,Kinh tế 7310101,20.75,,,Điều kiện phụ: TTNV <= 8
+5.0,Kinh doanh thương mại 7340121,21.75,,,Điều kiện phụ: TTNV <= 5
+6.0,Luật kinh tế 7380107,21.25,,,Điều kiện phụ: TTNV <= 9
+7.0,Marketing (dạy bằng tiếng Anh) 7340115,22.75,,,Điều kiện phụ: TTNV <= 4
+8.0,Ngành Luật 7380101,20.0,,,Điều kiện phụ: TTNV <= 8
+9.0,Ngành Kinh doanh quốc tế 7340120,24.0,,,Điều kiện phụ: TTNV <= 5
+10.0,Quản lý nhà nước 7310205,19.5,,,Điều kiện phụ: TTNV <= 5
+11.0,Quản trị khách sạn 7810201,23.0,,,Điều kiện phụ: TTNV <= 12
+12.0,Quản trị doanh nghiệp 7340101,22.0,,,Điều kiện phụ: TTNV <= 8
+13.0,Quản trị dịch vụ du lịch và lữ hành 7810103,22.25,,,Điều kiện phụ: TTNV <= 5
+14.0,Quản trị nhân lực 7340404,21.75,,,Điều kiện phụ: TTNV <= 10
+15.0,"Quản trị kinh doanh, Quản trị marketing, Kinh doanh quốc tế, Kế toán (ĐT liên kết quốc tế) 7340120QT",,,,
+16.0,Tài chính – Ngân hàng 7340201,20.5,,,Điều kiện phụ: TTNV <= 29
+17.0,Thống kê kinh tế 7310107,19.75,,,Điều kiện phụ: TTNV <= 6
+18.0,Thương mại điện tử 7340122,21.25,,,Điều kiện phụ: TTNV <= 6

@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Giáo dục - Đại học Quốc gia Hà Nội",
+    "id": "QHS",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Nhà G7, 144, Xuân Thuỷ, Cầu Giấy, Hà Nội, Việt Nam.",
+        "phone": [
+            "(84-247) 3017 123"
+        ],
+        "website": "http://www.education.vnu.edu.vn/",
+        "email": [
+            "education@vnu.edu.vn",
+            "phongdaotaodhgd@vnu.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1150,
+        "methods": [
+            "Tuyển thẳng",
+            "Xét tuyển dựa trên điểm thi tốt nghiệp THPT 2024",
+            "Xét tuyển dựa vào điểm thi Đánh giá năng lực của ĐHQG Hà Nội",
+            "Xét tuyển chứng chỉ quốc tế: SAT, ACT, A levels",
+            "Xét tuyển chứng chỉ tiếng Anh quốc tế IELTS"
+        ]
+    }
+}

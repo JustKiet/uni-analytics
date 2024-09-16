@@ -1,0 +1,24 @@
+{
+    "name": "Đại học Y Hà Nội",
+    "id": "YHB",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 1 đường Tôn Thất Tùng, quận Đống Đa, Hà Nội\nSố 722 đường Quang Trung, phường Đông Vệ, TP Thanh Hóa",
+        "phone": [
+            "0815.808.265"
+        ],
+        "website": "https://hmu.edu.vn/",
+        "email": [
+            "daihocyhn@hmu.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1720,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét điểm thi ĐGNL"
+        ]
+    }
+}

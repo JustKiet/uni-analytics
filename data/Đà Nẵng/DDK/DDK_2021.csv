@@ -1,0 +1,47 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Chương trình tiên tiến ngành Hệ thống nhúng 7905216,19.28,,,N1 >=6.2; TO>=6.8; TTNV<=2; Tiếng Anh nhân 2
+2.0,Chương trình tiên tiến ngành Điện tử viễn thông 7905206,21.04,,,N1 >=8.6; TO >=5.6; TTNV<=1; Tiếng Anh nhân 2
+3.0,Chương trình tiên tiến ngành Hệ thống nhúng PFIEV,20.5,,,TO>=7.2; LI>=7; TTNV <=4; Toán nhân 3; Lý nhân2
+4.0,Công nghệ sinh học 7420201,24.0,,,TO >=7; HO >=8; TTNV<=5
+5.0,Công nghệ thông tin (Chất lượng cao ngoại ngữ Nhật) 7480201CLC2,25.1,,,TO >=8.4; LI >=7.5; TTNV <=2
+6.0,Công nghệ thực phẩm (Chất lượng cao) 7540101CLC,19.65,,,TO >=7.4; HO >=5.75; TTNV<=1
+7.0,Công nghệ thông tin 7480201,27.2,,,TO >=9; LI >=8.25; TTNV <=1
+8.0,Công nghệ chế tạo máy 7510202,23.85,,,TO >=7.6; LI >=8; TTNV <=2
+9.0,Công nghệ chế tạo máy 7510202,23.85,,,TO >=7.6; LI >=8; TTNV <=2
+10.0,Công nghệ thực phẩm 7540101,25.15,,,TO >=8.4; HO >=7.5; TTNV<=5
+11.0,Công nghệ kỹ thuật vật liệu xây dựng 7510105,20.05,,,TO >=7.8; LI >=5; TTNV <=2
+12.0,Công nghệ thông tin (Chất lượng cao ngoại ngữ Anh) 7480201CLC1,26.0,,,TO >=8.6; LI >=8; TTNV <=1
+13.0,Công nghệ thông tin (chương trình chất lượng cao) 7480201CLC,25.5,,,TO >=8.6; LI >=7.25; TTNV <=7
+14.0,Công nghệ dầu khí và khai thác dầu 7510701,23.0,,,TO >=8; HO >=7; TTNV<=2
+15.0,Kiến trúc (Chất lượng cao) 7580101CLC,22.0,,,NK1 >=6; TO >=7.8; TTNV <=1
+16.0,Kiến trúc 7580101,23.25,,,NK1 >=7; TO >=8; TTNV <=1
+17.0,Kinh tế xây dựng 7580301,23.75,,,TO >=7.6; LI >=8; TTNV <=9
+18.0,Kinh tế xây dựng (Chất lượng cao) 7580301CLC,19.25,,,TO >=8; LI >=6.5; TTNV <=1
+19.0,KT xây dựng – c.ngành XD dân dụng & công nghiệp 7580201A,22.55,,,TO >=7.8; LI >=7.25; TTNV <=2
+20.0,Kỹ thuật cơ điện tử 7520114,25.65,,,TO >=8.4; LI >=8.25; TTNV <=1
+21.0,Kỹ thuật xây dựng 7580201,23.45,,,TO >=8.2; LI >=6.25; TTNV <=1
+22.0,Kỹ thuật xây dựng ( Chất lượng cao) 7580201CLC,18.0,,,TO >=6; LI >=4.25; TTNV <=2
+23.0,Kỹ thuật xây dựng công trình giao thông 7580205,21.0,,,TO >=8; LI >=6.25; TTNV <=3
+24.0,"Kỹ thuật nhiệt (3 chuyên ngành: Kỹ thuật điện lạnh; Máy lạnh, điều hòa không khí và thông gió; Máy lạnh và thiết bị thực phẩm) 7520115",23.65,,,TO >=7.4; LI >=8; TTNV <=1
+25.0,"Kỹ thuật điện, điện tử (Chất lượng cao) 7520201CLC",21.0,,,TO >=7.8; LI >=6.25; TTNV <=1
+26.0,Kỹ thuật điện tử & viễn thông (CLC) 7520207CLC,21.5,,,TO >=7; LI >=6.5; TTNV <=2
+27.0,Kỹ thuật xây dựng công trình thủy 7580202,18.4,,,TO >=5.4; LI >=5.5; TTNV <=3
+28.0,Kỹ thuật máy tính 7480106,25.85,,,TO >=8.6; LI >=7.5; TTNV <=2
+29.0,Kỹ thuật ô tô 7520130,25.0,,,TO >=8; LI >=8; TTNV <=1
+30.0,Kỹ thuật cơ sở hạ tầng 7580210,17.05,,,TO >=6.6; LI >=4.75; TTNV <=2
+31.0,Kỹ thuật hệ thống công nghiệp 7520118,22.5,,,TO >=8; LI >=6.5; TTNV <=3
+32.0,Kỹ thuật hóa học 7520301,23.25,,,TO >=7.2; HO >=7.25; TTNV<=1
+33.0,Kỹ thuật cơ khí (chuyên ngành Kỹ thuật cơ khí) 7520103A,24.75,,,TO >=8; LI >=7.25; TTNV <=1
+34.0,Kỹ thuật điện 7520201,25.0,,,TO >=8; LI >=7.75; TTNV <=4
+35.0,Kỹ thuật cơ khí (chuyên ngành Kỹ thuật cơ khí động lực) 7520103B,23.8,,,TO >=7.8; LI >=6.75; TTNV <=5
+36.0,Kỹ thuật điều khiển và tự động hóa (Chất lượng cao) 7520216CLC,24.7,,,TO >=8.2; LI >=7.25; TTNV <=9
+37.0,Kỹ thuật cơ điện tử (Chất lượng cao) 7520114CLC,23.5,,,TO >=8.4; LI >=6.5; TTNV <=2
+38.0,Kỹ thuật cơ khí - chuyên ngành Cơ khí động lực (CLC) 7520103CLC,23.1,,,TO >=7.6; LI >=6.5; TTNV <=4
+39.0,Kỹ thuật xây dựng công trình giao thông (CLC) 7580205CLC,16.7,,,TO >=6.2; LI >=4.5; TTNV <=2
+40.0,Kỹ thuật nhiệt (CLC) 7520115CLC,17.65,,,TO >=6.4; LI >=5.5; TTNV <=2
+41.0,Ngành Kỹ thuật tàu thủy 7520122,18.05,,,TO >=6.8; LI >=5.75; TTNV <=2
+42.0,Ngành Kỹ thuật môi trường 7520320,16.85,,,TO >=7.6; HO >=4; TTNV<=2
+43.0,Ngành Kỹ thuật điện tử truyền thông 7520207,25.25,,,TO >=8.2; LI >=7.75; TTNV <=7
+44.0,Ngành Kỹ thuật điều khiển & Tự động hóa 7520216,26.5,,,TO >=8.8; LI >=7.75; TTNV <=4
+45.0,Quản lý công nghiệp 7510601,23.85,,,TO >=7.4; LI >=7.25; TTNV <=6
+46.0,Quản lý tài nguyên và môi trường 7850101,19.0,,,TO >=7; HO >=6; TTNV<=3

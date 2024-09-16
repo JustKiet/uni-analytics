@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Giao thông Vận tải ( Cơ sở Phía Nam)",
+    "id": "GSA",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "450-451 Lê Văn Việt, Phường Tăng Nhơn Phú A, Quận 9, TP. Hồ Chí Minh",
+        "phone": [
+            "028.3896.6798",
+            "028.7300.1155"
+        ],
+        "website": "http://tuyensinh.utc2.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

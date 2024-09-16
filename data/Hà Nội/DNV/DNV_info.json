@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Nội vụ Hà Nội",
+    "id": "DNV",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "36 Xuân La, Tây Hồ, Hà Nội",
+        "phone": [
+            "0283.895.2372",
+            "0283.984.8818"
+        ],
+        "website": "http://truongnoivu.edu.vn/",
+        "email": [
+            "tuyensinh.dnv@gmail.com"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 3410,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ",
+            "Xét chứng chỉ ngoại ngữ quốc tế",
+            "Xét điểm thi ĐGNL của ĐHQG Hà Nội và ĐHQG TP.HCM"
+        ]
+    }
+}

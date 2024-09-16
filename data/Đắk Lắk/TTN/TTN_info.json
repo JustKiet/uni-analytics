@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Tây Nguyên",
+    "id": "TTN",
+    "region": "Đắk Lắk",
+    "contact_details": {
+        "location": "Số 567 Lê Duẩn, TP Buôn Ma Thuột, Đăk Lăk",
+        "phone": [
+            "0965.16.44.45"
+        ],
+        "website": "http://tuyensinh.ttn.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

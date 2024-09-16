@@ -1,0 +1,23 @@
+{
+    "name": "Đại học Hồng Đức",
+    "id": "HDT",
+    "region": "Thanh Hóa",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2925,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét điểm thi tốt nghiệp THPT 2022/2023",
+            "Xét học bạ",
+            "Xét tuyển thẳng",
+            "Xét điểm thi ĐGNL và ĐGTD của các trường",
+            "Xét điểm IELTS 5.0 trở lên hoặc TOEFL iBT 60 điểm trở lên"
+        ]
+    }
+}

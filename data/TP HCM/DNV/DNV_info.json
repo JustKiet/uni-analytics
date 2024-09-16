@@ -1,0 +1,15 @@
+{
+    "name": "Phân hiệu Đại học Nội vụ tại Tp Hồ Chí Minh",
+    "id": "DNV",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "181 Lê Đức Thọ, phường 17, quận Gò Vấp, TP HCM",
+        "phone": [
+            "0283.895.2372",
+            "0283.984.8818"
+        ],
+        "website": "http://truongnoivu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

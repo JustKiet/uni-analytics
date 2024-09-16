@@ -1,0 +1,26 @@
+{
+    "name": "Đại học Hà Nội",
+    "id": "NHF",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Km 9, đường Nguyễn Trãi, quận Nam Từ Liêm, Hà Nội.",
+        "phone": [
+            "0243.854.4338",
+            "0965390699"
+        ],
+        "website": "http://www.hanu.vn/vn/chinh-quy.html",
+        "email": [
+            "hanu@hanu.edu.vn",
+            "tuyensinh@hanu.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 3415,
+        "methods": [
+            "Xét tuyển thẳng và ưu tiên xét tuyển theo quy định của Bộ Giáo dục và Đào tạo (GD&ĐT).",
+            "Xét tuyển kết hợp theo quy định của Trường Đại học Hà Nội.",
+            "Xét tuyển dựa trên kết quả của kì thi tốt nghiệp THPT năm 2024."
+        ]
+    }
+}

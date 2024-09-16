@@ -1,0 +1,16 @@
+{
+    "name": "Đại học Kinh tế Kỹ thuật Bình Dương",
+    "id": "DKB",
+    "region": "Bình Dương",
+    "contact_details": {
+        "location": "530 Đại lộ Bình Dương, P.Hiệp Thành, TX.Thủ Dầu Một, tỉnh Bình Dương",
+        "phone": [
+            "0274.3822.847",
+            "0977.61.55.61",
+            "0888.61.66.61"
+        ],
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": null
+}

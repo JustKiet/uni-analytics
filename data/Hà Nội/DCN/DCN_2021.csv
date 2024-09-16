@@ -1,0 +1,40 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Công nghệ kỹ thuật cơ khí (Chuyên ngành Công nghệ hàn) 7510201,24.35,,,Toán >=8.6 NV<=1
+2.0,Công nghệ kỹ thuật hoá học 7510401,22.05,,,Toán >=8 NV<=2
+3.0,Công nghệ thực phẩm 7540101,23.75,,,Toán >=7.6 NV<=3
+4.0,Công nghệ kỹ thuật ô tô 7510205,25.25,,,Toán >=8 NV<=8
+5.0,"Công nghệ kỹ thuật điện, điện tử 7510301",24.6,,,Toán >=8.6 NV<=1
+6.0,Công nghệ kỹ thuật Môi trường 7510406,20.8,,,Toán >=6.8 NV<=1
+7.0,Công nghệ kỹ thuật cơ điện tử 7510203,25.35,,,Toán >=8.6 NV<=2
+8.0,Công nghệ kỹ thuật nhiệt 7510206,23.9,,,Toán >=8.2 NV<=2
+9.0,Công nghệ vật liệu dệt. may 7540203,22.15,,,Toán >=8.2 NV<=4
+10.0,Công nghệ thông tin 7480201,26.05,,,Toán >=8.6 NV<=3
+11.0,Công nghệ kỹ thuật điều khiển và tự động hóa 7510303,26.0,,,Toán >=7.8 NV<=9
+12.0,Công nghệ may 7540204,24.0,,,Toán >=8.8 NV<=14
+13.0,Công nghệ kỹ thuật khuôn mẫu 7519003,23.45,,,Toán >=8.2 NV<=4
+14.0,Công nghệ kỹ thuật máy tính 7480108,25.1,,,Toán >=8.6 NV<=3
+15.0,Điện tử - viễn thông 7510302,24.25,,,Toán >=7.8 NV<=2
+16.0,Du lịch 7810101,24.75,,,Ngữ văn >=6.75 NV<=1
+17.0,Hệ thống thông tin 7480104,25.25,,,Toán >=8 NV<=11
+18.0,Kế toán 7340301,24.75,,,Toán >=8 NV<=1
+19.0,Khoa học máy tính 7480101,25.65,,,Toán >=8.4 NV<=7
+20.0,Kiểm toán 7340302,25.0,,,Toán >=8.8 NV<=9
+21.0,Kinh tế đầu tư 7310104,25.05,,,Toán >=8.8 NV<=4
+22.0,Kỹ thuật hệ thống công nghiệp 7520118,23.8,,,Toán >=8.2 NV<=5
+23.0,Kỹ thuật phần mềm 7480103,25.4,,,Toán >=8.6 NV<=3
+24.0,Logistics và Quản lý chuỗi cung ứng 7510605,26.1,,,Toán >=8.2 NV<=5
+25.0,Mạng máy tính và truyền thông dữ liệu 7480102,25.05,,,Toán >=8 NV<=3
+26.0,Marketing (dạy bằng tiếng Anh) 7340115,26.1,,,Toán >=8.6 NV<=2
+27.0,Ngôn ngữ Anh 7220201,25.89,,,Ngoại ngữ >=9.2 NV<=1
+28.0,Ngôn ngữ Nhật 7220209,25.81,,,NV<=3
+29.0,Ngôn ngữ Trung Quốc 7220204,26.19,,,NV<=2
+30.0,Ngôn ngữ Hàn Quốc 7220210,26.45,,,NV<=5
+31.0,Phân tích dữ liệu kinh doanh 7340125,23.8,,,Toán >=7.8 NV<=3
+32.0,Quản trị khách sạn 7810201,23.8,,,Toán >=9.4 NV<=4
+33.0,Quản trị doanh nghiệp 7340101,25.3,,,Toán >=8.4 NV<=3
+34.0,Quản trị nhân lực 7340404,25.65,,,Toán >=8.2 NV<=5
+35.0,Quản trị dịch vụ du lịch và lữ hành 7810103,24.3,,,Toán >=8.8 NV<=1
+36.0,Quản trị văn phòng 7340406,24.5,,,Toán >=7.6 NV<=5
+37.0,Robot và trí tuệ nhân tạo 7510209,24.2,,,Toán >=8.8 NV<=5
+38.0,Tài chính – Ngân hàng 7340201,25.45,,,Toán >=8.2 NV<=14
+39.0,Thiết kế thời trang 7210404,24.55,,,NV<=5

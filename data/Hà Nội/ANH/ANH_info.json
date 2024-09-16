@@ -1,0 +1,20 @@
+{
+    "name": "Học viện An Ninh Nhân Dân",
+    "id": "ANH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 510,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét điểm thi tốt nghiệp THPT và bài thi đánh giá của Bộ Công an",
+            "Xét điểm học bạ kết hợp chứng chỉ ngoại ngữ quốc tế"
+        ]
+    }
+}

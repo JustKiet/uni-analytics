@@ -1,0 +1,24 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Kiến trúc 7580101,,,28200000.0,
+2.0,Mỹ thuật ứng dụng 7210407,,,27000000.0,
+3.0,Quản trị tài nguyên di sản 7900205,24.1,A01,28200000.0,
+4.0,Quản trị đô thị thông minh và bền vững 7900204,23.14,A00,28200000.0,
+5.0,Quản trị tài nguyên di sản 7900205,24.12,D01,28200000.0,
+6.0,Quản trị đô thị thông minh và bền vững 7900204,24.07,D01,,
+7.0,Quản trị tài nguyên di sản 7900205,26.38,C00,28200000.0,
+8.0,Quản trị tài nguyên di sản 7900205,24.3,"D03, D04",28200000.0,
+9.0,Quản trị đô thị thông minh và bền vững 7900204,23.47,A01,28200000.0,
+10.0,Quản trị đô thị thông minh và bền vững 7900204,24.4,D04,,
+11.0,Quản trị kinh doanh (liên kết) 7349002,25.01,A01,28200000.0,
+12.0,Quản trị kinh doanh (liên kết) 7349002,25.36,"D01, D04",,
+13.0,Quản trị đô thị thông minh và bền vững 7900204,23.1,"A00, A01, D01, D03, D04, D07",,
+14.0,Quản trị đô thị thông minh và bền vững 7900204,23.5,D03,,
+15.0,Quản trị kinh doanh (liên kết) 7349002,25.1,A00,28200000.0,Quản lý giải trí và sự kiện
+16.0,Quản trị kinh doanh (liên kết) 7349002,25.68,"A00, A01, C00, D01, D03, D04",,Quản lý giải trí và sự kiện
+17.0,Quản trị tài nguyên di sản 7900205,25.01,"A01, C00, D01, D03, D04, D78",,
+18.0,Quản trị kinh doanh (liên kết) 7349002,27.58,C00,28200000.0,
+19.0,Tài chính - Ngân hàng (liên kết) 7349001,25.05,A01,28200000.0,Quản trị thương hiệu
+20.0,Tài chính - Ngân hàng (liên kết) 7349001,25.36,D01,,Quản trị thương hiệu
+21.0,Tài chính - Ngân hàng (liên kết) 7349001,25.29,"A00, A01, C00, D01, D03, D04",,Quản trị thương hiệu
+22.0,Tài chính - Ngân hàng (liên kết) 7349001,27.83,C00,,Quản trị thương hiệu
+23.0,Tài chính - Ngân hàng (liên kết) 7349001,25.15,"A00, D03",28200000.0,Quản trị thương hiệu

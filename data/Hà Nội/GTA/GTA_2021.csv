@@ -1,0 +1,18 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,An toàn thông tin 7480202,25.2,,,NV1
+2.0,Công nghệ kỹ thuật ô tô 7510205,24.05,,,<=NV6
+3.0,Công nghệ kỹ thuật cơ điện tử 7510203,23.2,,,<=NV3
+4.0,Công nghệ Kỹ thuật Giao thông 7510104,15.5,,,
+5.0,Công nghệ kỹ thuật cơ khí (Chuyên ngành Công nghệ hàn) 7510201,20.35,,,<=NV6
+6.0,Công nghệ kỹ thuật xây dựng dân dụng và công nghiệp 7510102,15.5,,,
+7.0,Công nghệ kỹ thuật Môi trường 7510406,15.5,,,
+8.0,Điện tử - viễn thông 7510302,23.0,,,<=NV2
+9.0,Hệ thống thông tin 7480104,24.0,,,<=NV11
+10.0,Kế toán 7340301,23.1,,,<=NV3
+11.0,Khai thác vận tải 7840101,22.9,,,<=NV2
+12.0,Kinh tế xây dựng 7580301,17.0,,,
+13.0,Logistics và Quản lý chuỗi cung ứng 7510605,25.7,,,NV1
+14.0,Mạng máy tính và truyền thông dữ liệu 7480102,23.8,,,<=NV5
+15.0,Quản trị doanh nghiệp 7340101,23.9,,,<=NV8
+16.0,Tài chính – Ngân hàng 7340201,23.9,,,<=NV3
+17.0,Thương mại điện tử 7340122,25.4,,,<=NV4

@@ -1,0 +1,25 @@
+{
+    "name": "Đại học Gia Định",
+    "id": "GDU",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 185 -187 Hoàng Văn Thụ, Phường 8, Quận Phú Nhuận, TP HCM",
+        "phone": [
+            "0961.12.10.18",
+            "0962.12.10.18"
+        ],
+        "website": "https://giadinh.edu.vn/tuyen-sinh-2021",
+        "email": [
+            "tuyensinh@giadinh.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2024,
+        "methods": [
+            "Xét học bạ",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét điểm thi ĐGNL của ĐHQG TP.HCM"
+        ]
+    }
+}

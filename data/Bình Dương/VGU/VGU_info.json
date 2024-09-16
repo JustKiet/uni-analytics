@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Việt Đức",
+    "id": "VGU",
+    "region": "Bình Dương",
+    "contact_details": {
+        "location": "Đường Lê Lai, Phường Hòa Phú, TP Thủ Dầu Một, Bình Dương",
+        "phone": [
+            "0988 54 52 54",
+            "0988 629 704"
+        ],
+        "website": "https://vgu.edu.vn/vi/home",
+        "email": "null"
+    },
+    "admission_details": null
+}

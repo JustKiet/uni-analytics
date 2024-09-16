@@ -1,0 +1,23 @@
+{
+    "name": "Đại học Y khoa Phạm Ngọc Thạch",
+    "id": "TYS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 2, đường Dương Quang Trung, Phường 12, Quận 10, TP HCM",
+        "phone": [
+            "028.38.652.435"
+        ],
+        "website": "https://pts.pnt.edu.vn/",
+        "email": [
+            "tuyensinh@pnt.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1480,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Tuyển thẳng, ưu tiên xét tuyển"
+        ]
+    }
+}

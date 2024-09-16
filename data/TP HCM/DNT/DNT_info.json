@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Ngoại ngữ - Tin học TP HCM",
+    "id": "DNT",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "828 Sư Vạn Hạnh, Phường 13, Quận 10, TP HCM",
+        "phone": [
+            "0965876700"
+        ],
+        "website": "https://huflit.edu.vn/tuyen-sinh-39/",
+        "email": "null"
+    },
+    "admission_details": null
+}

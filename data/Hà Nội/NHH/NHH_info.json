@@ -1,0 +1,23 @@
+{
+    "name": "Học viện Ngân hàng",
+    "id": "NHH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 12 Chùa Bộc, phường Quang Trung, quận Đống Đa, Hà Nội",
+        "phone": [
+            "096.684.9619"
+        ],
+        "website": "http://www.hvnh.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 3514,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét chứng chỉ quốc tế",
+            "Xét học bạ",
+            "Xét điểm thi ĐGNL của ĐHQG Hà Nội, HCM và ĐGTD của Đại học Bách khoa Hà Nội"
+        ]
+    }
+}

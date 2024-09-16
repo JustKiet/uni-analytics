@@ -1,0 +1,25 @@
+{
+    "name": "Đại học Đồng Tháp",
+    "id": "SPD",
+    "region": "Đồng Tháp",
+    "contact_details": {
+        "location": "783, Phạm Hữu Lầu, TP Cao Lãnh, Đồng Tháp",
+        "phone": [
+            "0277. 3882258"
+        ],
+        "website": "null",
+        "email": [
+            "dhdt@dthu.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 5000,
+        "methods": [
+            "Xét kết quả thi tốt nghiệp THPT",
+            "Xét học bạ",
+            "Xét tuyển thẳng",
+            "Xét điểm thi ĐGNL của ĐHQG TP.HCM"
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Báo chí 7320101,22.5,,,VA >=7.25;TTNV<=3
+2.0,Báo chí (Chất lượng cao) 7320101CLC,23.0,,,VA >=7;TTNV<=2
+3.0,Công nghệ thông tin 7480201,15.15,,,TO >=5;TTNV<=2
+4.0,Công nghệ sinh học 7420201,16.15,,,TO >=6.4;TTNV<=3
+5.0,Công tác xã hội 7760101,15.25,,,VA >=4.25;TTNV<=1
+6.0,Công nghệ thông tin (chương trình chất lượng cao) 7480201CLC,17.0,,,TO >=6.6;TTNV<=5
+7.0,Địa lý học 7310501,15.0,,,DI >=4.75;TTNV<=1
+8.0,Giáo dục Tiểu học 7140202,22.85,,,TTNV<=1
+9.0,Giáo dục Mầm non 7140201,19.35,,,NK2 >=7;TTNV<=1
+10.0,Giáo dục Chính trị 7140205,23.5,,,VA>=6.5;TTNV<=1
+11.0,Giáo dục Công dân 7140204,21.25,,,VA >=8.75; TTNV<=4
+12.0,Giáo dục Thể chất 7140206,17.81,,,NK6 >=4.5;TTNV<=2
+13.0,Hóa học 7440112,17.55,,,HO >=5.5;TTNV<=3
+14.0,Hóa học CLC 7440112CLC,18.65,,,HO >=7.5;TTNV<=3
+15.0,Lịch sử 7229010,15.0,,,SU >=2.25; TTNV<=2
+16.0,Quản lý tài nguyên và môi trường 7850101,15.4,,,TO >=7.4;TTNV<=4
+17.0,Sư phạm Tin học (Chuyên ngành Tin học – Công nghệ Tiểu học) 7140210,19.75,,,TO>=7;TTNV<=4
+18.0,Sư phạm Lịch sử 7140218,23.0,,,SU >=8.5;TTNV<=1
+19.0,Sư phạm khoa học tự nhiên 7140247,19.3,,,TO >=7.8;TTNV<=3
+20.0,Sư phạm Hóa học 7140212,24.4,,,HO >=8;TTNV<=1
+21.0,Sư phạm Âm nhạc 7140221,18.25,,,NK4 >=4;TTNV<=1
+22.0,Sư phạm Tin học và Công nghệ Tiểu học 7140250,19.85,,,TTNV<=1
+23.0,Sư phạm Vật lý 7140211,23.4,,,LI >=7.25;TTNV<=2
+24.0,Sư phạm Địa lý 7140219,21.5,,,DI >=7.75;TTNV<=2
+25.0,Sư phạm Lịch sử - Địa lý 7140249,21.25,,,VA >=6.25;TTNV<=4
+26.0,Sư phạm Toán học 7140209,24.4,,,TO>=8.4;TTNV<=3
+27.0,Sư phạm Ngữ văn 7140217,24.15,,,VA >=7.25;TTNV<=1
+28.0,Sư phạm Sinh học 7140213,19.05,,,SI >=5.25;TTNV<=1
+29.0,Tâm lý học CLC 7410401CLC,16.75,,,TTNV <=1
+30.0,Tâm lý học 7310401,16.25,,,TTNV<=2
+31.0,Văn hoá học 7229040,15.0,,,VA >=4.5;TTNV <=1
+32.0,Văn học 7229030,15.5,,,VA >=6.5;TTNV<=1
+33.0,Việt Nam học 7310630D,15.0,,,VA >=5.5;TTNV
+34.0,Việt Nam học CLC 7310630CLC,15.25,,,VA >=5;TTNV<=2

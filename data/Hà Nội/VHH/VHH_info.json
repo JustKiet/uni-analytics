@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Văn hóa Hà Nội",
+    "id": "VHH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 418 đường La Thành, quận Đống Đa, Hà Nội.",
+        "phone": [
+            "02438511971 Máy lẻ 103,104"
+        ],
+        "website": "https://huc.edu.vn/",
+        "email": [
+            "tuyensinh@huc.edu.vn",
+            "daotao@huc.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1850,
+        "methods": [
+            "Tuyển thẳng",
+            "Xét tuyển điểm thi tốt nghiệp THPT",
+            "Xét tuyển theo kết quả học bạ THPT",
+            "Xét tuyển kết hợp học bạ THPT và điểm ưu tiên IELTS, TOEFL, học sinh giỏi tỉnh/thành phố hoặc học sinh trường chuyên",
+            "Xét tuyển kết hợp học bạ THPT và thi năng khiếu"
+        ]
+    }
+}

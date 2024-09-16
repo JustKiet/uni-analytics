@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Thủ Đô Hà Nội",
+    "id": "HNM",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Trụ sở chính: 98 Dương Quảng Hàm, phường Quan Hoa, quận Cầu Giấy, Hà Nội\nCơ sở 2: Xã Mai Đình, huyện Sóc Sơn, Hà Nội\nCơ sở 3: Số 6 phố Vĩnh Phúc, quận Ba Đình, Hà Nội",
+        "phone": [
+            "0986.735.046",
+            "0986.735.072"
+        ],
+        "website": "https://hnmu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

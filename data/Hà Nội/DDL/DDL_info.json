@@ -1,0 +1,26 @@
+{
+    "name": "Đại học Điện lực",
+    "id": "DDL",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 235, Hoàng Quốc Việt, Bắc Từ Liêm, Hà Nội",
+        "phone": [
+            "024-22452662"
+        ],
+        "website": "https://tuyensinh.epu.edu.vn/",
+        "email": [
+            "dt@epu.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 3930,
+        "methods": [
+            "Xét học bạ",
+            "Tuyển thẳng",
+            "Xét tuyển kết hợp chứng chỉ tiếng Anh quốc tế và học bạ hai môn",
+            "hoặc điểm thi tốt nghiệp THPT hai môn",
+            "Xét tuyển dựa vào kết quả kỳ thi tốt nghiệp THPT 2024"
+        ]
+    }
+}

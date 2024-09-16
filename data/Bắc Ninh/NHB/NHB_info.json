@@ -1,0 +1,14 @@
+{
+    "name": "Học viện Ngân Hàng Phân Viện Bắc Ninh",
+    "id": "NHB",
+    "region": "Bắc Ninh",
+    "contact_details": {
+        "location": "Số 311 đường Ngô Gia Tự, phường Suối Hoa, TP Bắc Ninh, tỉnh Bắc Ninh",
+        "phone": [
+            "096.684.9619"
+        ],
+        "website": "http://www.hvnh.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

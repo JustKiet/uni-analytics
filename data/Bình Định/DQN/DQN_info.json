@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Quy Nhơn",
+    "id": "DQN",
+    "region": "Bình Định",
+    "contact_details": {
+        "location": "Số 170, An Dương Vương, TP Quy Nhơn, Bình Định",
+        "phone": [
+            "1800558849"
+        ],
+        "website": "http://tuyensinh.qnu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

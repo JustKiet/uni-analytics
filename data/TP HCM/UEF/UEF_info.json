@@ -1,0 +1,26 @@
+{
+    "name": "Đại học Kinh tế - Tài chính TP HCM",
+    "id": "UEF",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 141 - 145 Điện Biên Phủ, Phường 15, Quận Bình Thạnh",
+        "phone": [
+            "094 998 1717",
+            "091 648 1080"
+        ],
+        "website": "https://www.uef.edu.vn/tuyen-sinh",
+        "email": [
+            "tuyensinh@uef.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 6610,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét điểm thi Đánh giá năng lực của ĐHQG HCM 2024",
+            "Xét học bạ",
+            "Xét điểm trung bình ba học kỳ"
+        ]
+    }
+}

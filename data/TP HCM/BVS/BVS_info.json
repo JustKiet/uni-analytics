@@ -1,0 +1,25 @@
+{
+    "name": "Học viện Công nghệ Bưu chính Viễn thông (phía Nam)",
+    "id": "BVS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Đường Man Thiện, P. Hiệp Phú, Q.9 TP Hồ Chí Minh",
+        "phone": [
+            "024.3352.8122"
+        ],
+        "website": "https://tuyensinh.ptit.edu.vn/",
+        "email": [
+            "tuyensinh@ptit.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 5060,
+        "methods": [
+            "Xét tuyển tài năng: các thí sinh là thành viên đội tuyển Olympic quốc tế hoặc đoạt giải Quốc gia, Quốc tế; hồ sơ năng lực với học sinh giỏi quốc gia, giải thi HSG thành phố và học sinh tại các trường chuyên",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét kết hợp học bạ và chứng chỉ quốc tế",
+            "Xét điểm thi ĐGNL của ĐHQG Hà Nội và TP. HCM; ĐGTD của Đại học Bách khoa Hà Nội"
+        ]
+    }
+}

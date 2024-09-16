@@ -1,0 +1,22 @@
+{
+    "name": "Đại học Sư Phạm - Đại học Huế",
+    "id": "DHS",
+    "region": "Huế",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2340,
+        "methods": [
+            "Xét học bạ",
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét điểm thi tốt nghiệp THPT 2024 hoặc học bạ kết hợp năng khiếu",
+            "Xét tuyển thẳng",
+            "Xét tuyển dựa vào kết quả thi đánh giá năng lực năm 2024 của Đại học Quốc gia Thành phố Hồ Chí Minh và các trường Đại học Sư phạm Hà Nội, Đại học Sư phạm Thành phố Hồ Chí Minh."
+        ]
+    }
+}

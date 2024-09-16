@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Kinh tế - Luật, Đại học Quốc gia TP HCM",
+    "id": "QSK",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 669 Quốc lộ 1, Phường Linh Xuân, TP Thủ Đức, TP HCM",
+        "phone": [
+            "028. 37244550",
+            "0846.0611.64"
+        ],
+        "website": "https://tuyensinh.uel.edu.vn/",
+        "email": [
+            "tuvantuyensinh@uel.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2555,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Ưu tiên xét tuyển theo đề án riêng",
+            "Xét tuyển dựa trên kết quả thi tốt nghiệp THPT 2024",
+            "Xét tuyển dựa trên kết quả kỳ thi đánh giá năng lực do ĐHQG-HCM 2024",
+            "Xét tuyển dựa trên kết quả chứng chỉ quốc tế (IELTS, TOEFL, …) kết hợp với kết quả học tập THPT hoặc xét chứng chỉ SAT, ACT/ bằng tú tài quốc tế (IB)/ chứng chỉ A-level"
+        ]
+    }
+}

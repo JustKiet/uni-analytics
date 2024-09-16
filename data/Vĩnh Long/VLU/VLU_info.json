@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Sư phạm Kỹ thuật Vĩnh Long",
+    "id": "VLU",
+    "region": "Vĩnh Long",
+    "contact_details": {
+        "location": "Số 73 Nguyễn Huệ, Phường 2, TP Vĩnh Long, Vĩnh Long",
+        "phone": [
+            "02703822141"
+        ],
+        "website": "http://vlute.edu.vn/vi/",
+        "email": "null"
+    },
+    "admission_details": null
+}

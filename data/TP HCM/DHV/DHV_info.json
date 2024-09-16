@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Hùng Vương TP HCM",
+    "id": "DHV",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 736 Nguyễn Trãi, Quận 5, TP HCM",
+        "phone": [
+            "028.3855.3675"
+        ],
+        "website": "http://hvuh.edu.vn/tuyen-sinh.html",
+        "email": "null"
+    },
+    "admission_details": null
+}

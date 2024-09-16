@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Bách khoa - Đại học Quốc gia TP HCM",
+    "id": "QSB",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 268 Lý Thường Kiệt, Phường 14, Quận 10",
+        "phone": [
+            "(02) 838 654 087",
+            "(028) 38 651 670"
+        ],
+        "website": "http://tuyensinh.hcmut.edu.vn/admission/",
+        "email": "null"
+    },
+    "admission_details": null
+}

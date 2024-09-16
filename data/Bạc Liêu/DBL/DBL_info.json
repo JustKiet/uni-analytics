@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Bạc Liêu",
+    "id": "DBL",
+    "region": "Bạc Liêu",
+    "contact_details": {
+        "location": "Số 178 Võ Thị Sáu, Phường, TP Bạc Liêu, Bạc Liêu",
+        "phone": [
+            "0917 464 119",
+            "0918 954 518"
+        ],
+        "website": "https://tuyensinh.blu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

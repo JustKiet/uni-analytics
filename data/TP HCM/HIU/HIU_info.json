@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Quốc tế Hồng Bàng",
+    "id": "HIU",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 215 Điện Biên Phủ, Phường 15, Quận Bình Thạnh",
+        "phone": [
+            "0938.69.2015",
+            "0964.239.172"
+        ],
+        "website": "https://hiu.vn/tuyen-sinh/",
+        "email": "null"
+    },
+    "admission_details": null
+}

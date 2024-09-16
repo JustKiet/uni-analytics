@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Công nghiệp Hà Nội",
+    "id": "DCN",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 298 đường Cầu Diễn, Quận Bắc Từ Liêm, TP Hà Nội",
+        "phone": [
+            "0243.7655.121 máy lẻ 277/224"
+        ],
+        "website": "https://tuyensinh.haui.edu.vn/",
+        "email": [
+            "tuyensinh@haui.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 7650,
+        "methods": [
+            "Xét tuyển thẳng theo quy định của BGD&ĐT.",
+            "Xét tuyển thí sinh đoạt giải học sinh giỏi cấp tỉnh/thành phố, thí sinh có chứng chỉ quốc tế",
+            "Xét tuyển dựa trên kết quả thi tốt nghiệp THPT năm 2024",
+            "Xét tuyển dựa trên kết quả học tập ở bậc học THPT",
+            "Xét tuyển dựa trên kết quả kỳ thi đánh giá năng lực năm 2024 do Đại học Quốc gia Hà Nội tổ chức",
+            "Xét tuyển dựa trên kết quả thi đánh kỳ thi giá tư duy năm 2024 do Đại học Bách khoa Hà Nội tổ chức"
+        ]
+    }
+}

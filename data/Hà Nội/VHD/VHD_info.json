@@ -1,0 +1,14 @@
+{
+    "name": "Đại Học Công Nghiệp Việt Hung",
+    "id": "VHD",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 16, phố Hữu Nghị, phường Xuân Khanh, Sơn Tây, Hà Nội",
+        "phone": [
+            "024 33838345"
+        ],
+        "website": "http://www.viu.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

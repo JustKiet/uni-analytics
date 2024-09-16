@@ -1,0 +1,20 @@
+{
+    "name": "Đại học An Ninh Nhân Dân",
+    "id": "ANS",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 260,
+        "methods": [
+            "Tuyển thẳng",
+            "Xét tuyển thẳng kết hợp chứng chỉ ngoại ngữ quốc tế",
+            "Xét tuyển kết hợp kết quả thi tốt nghiệp THPT và bài thi đánh giá Bộ công an"
+        ]
+    }
+}

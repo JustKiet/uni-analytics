@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Thủy Lợi ( Cơ sở 1 )",
+    "id": "TLA",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "175 Tây Sơn, Đống Đa, Hà Nội",
+        "phone": [
+            "0243.563.1537"
+        ],
+        "website": "https://www.tlu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

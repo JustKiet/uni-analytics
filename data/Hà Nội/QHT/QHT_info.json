@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Khoa học tự nhiên - Đại học Quốc Gia Hà Nội",
+    "id": "QHT",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "334 đường Nguyễn Trãi, Quận Thanh Xuân, Hà Nội (Trụ sở chính)\n19 Lê Thánh Tông, Hoàn Kiếm, Hà Nội\n182 Lương Thế Vinh, Quận Thanh Xuân, Hà Nội",
+        "phone": [
+            "0243.557.9076",
+            "0243.858.5279"
+        ],
+        "website": "http://tuyensinh.hus.vnu.edu.vn/",
+        "email": [
+            "tuvantuyensinh@hus.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1850,
+        "methods": [
+            "Tuyển thẳng",
+            "Xét kết quả thi tốt nghiệp THPT 2024",
+            "Xét điểm bài thi Đánh giá năng lực ĐHQG Hà Nội",
+            "Xét tuyển chứng chỉ quốc tế SAT, ACT, A level",
+            "Kết hợp kết quả thi tốt nghiệp THPT với IELTS"
+        ]
+    }
+}

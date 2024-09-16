@@ -1,0 +1,16 @@
+{
+    "name": "Đại học Thủ Dầu Một",
+    "id": "TDM",
+    "region": "Bình Dương",
+    "contact_details": {
+        "location": "Số 6 đường Trần Văn Ơn, phường Phú Hòa, Thị xã Thủ Dầu Một, Tình Bình Dương",
+        "phone": [
+            "(0274) 383-5677",
+            "(0274) 384-4340",
+            "(0274) 384-4341"
+        ],
+        "website": "https://tuyensinh.tdmu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

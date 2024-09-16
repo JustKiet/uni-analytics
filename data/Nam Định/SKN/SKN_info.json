@@ -1,0 +1,14 @@
+{
+    "name": "Đại Học Sư Phạm Kỹ Thuật Nam Định",
+    "id": "SKN",
+    "region": "Nam Định",
+    "contact_details": {
+        "location": "Đường Phù Nghĩa - Phường Lộc Hạ - Thành phố Nam Định",
+        "phone": [
+            "http://www.nute.edu.vn"
+        ],
+        "website": "http://www.nute.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

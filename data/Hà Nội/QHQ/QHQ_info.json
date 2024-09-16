@@ -1,0 +1,26 @@
+{
+    "name": "Trường Quốc Tế - Đại học Quốc Gia Hà Nội",
+    "id": "QHQ",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Nhà G7 & G8, 144 Xuân Thủy, Cầu Giấy, Hà Nội\nNhà C, nhà E Làng sinh viên HACINCO, 79 Ngụy Như Kon Tum, Nhân Chính, Thanh Xuân, Hà Nội",
+        "phone": [
+            "024 3555 3555"
+        ],
+        "website": "http://www.is.vnu.edu.vn/",
+        "email": [
+            "tuyensinh@khoaquocte.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1500,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét điểm thi DGNL của ĐHQG Hà Nội",
+            "Xét chứng chỉ tiếng Anh quốc tế kết hợp kết quả học tập hoặc kết quả thi ĐGNL hoặc kết quả thi tốt nghiệp THPT",
+            "Xét điểm thi ĐGNL của ĐHQG TP. HCM",
+            "Xét chứng chỉ quốc tế SAT/ACT/A-level"
+        ]
+    }
+}

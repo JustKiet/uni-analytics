@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Kiến trúc TP HCM",
+    "id": "KTS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "196 Pasteur, Phường 6, Quận 3, TP HCM",
+        "phone": [
+            "0326180575"
+        ],
+        "website": "http://www.uah.edu.vn/router/thong-tin-tuyen-sinh--442.html",
+        "email": "null"
+    },
+    "admission_details": null
+}

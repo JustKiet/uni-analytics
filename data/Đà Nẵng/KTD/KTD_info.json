@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Kiến trúc Đà Nẵng",
+    "id": "KTD",
+    "region": "Đà Nẵng",
+    "contact_details": {
+        "location": "566 Núi Thành, phường Hòa Cường Nam, quận Hải Châu, TP. Đà Nẵng",
+        "phone": [
+            "0866.254.999"
+        ],
+        "website": "https://tuyensinh.dau.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

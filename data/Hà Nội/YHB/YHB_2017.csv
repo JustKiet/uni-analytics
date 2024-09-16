@@ -1,0 +1,11 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Điều dưỡng 7720301,26.0,,,"Ưu tiên 1: 26.4, Ưu tiên 2: 8.4, Ưu tiên 3: 8.75, Ưu tiên 4: TTNV<=6"
+2.0,Dinh dưỡng 7720401,24.5,,,"Ưu tiên 1: 24.6, Ưu tiên 2: 8.6, Ưu tiên 3: 7.5, Ưu tiên 4: TTNV<=5"
+3.0,Khúc xạ nhãn khoa 7720699,26.5,,,"Ưu tiên 1: 26.45, Ưu tiên 2: 8.2, Ưu tiên 3: 8.25, Ưu tiên 4: TTNV<=6"
+4.0,Kỹ thuật xét nghiệm y học 7720601,26.5,,,"Ưu tiên 1: 26.4, Ưu tiên 2: 8.4, Ưu tiên 3: 8.75, Ưu tiên 4: TTNV<=4"
+5.0,Răng- Hàm -Mặt 7720501,28.75,,,"Ưu tiên 1: 28.85, Ưu tiên 2: 9.6, Ưu tiên 3: 8.5, Ưu tiên 4: TTNV<=2"
+6.0,Y học cổ truyền 7720115,26.75,,,"Ưu tiên 1: 26.8, Ưu tiên 2: 7.8, Ưu tiên 3: 9.25, Ưu tiên 4: TTNV<=1"
+7.0,Y tế công cộng 7720701,23.75,,,"Ưu tiên 1: 23.8, Ưu tiên 2: 8.8, Ưu tiên 3: 6.5, Ưu tiên 4: TTNV<=3"
+8.0,Y học dự phòng 7720110,24.5,,,"Ưu tiên 1: 24.45, Ưu tiên 2: 8.2, Ưu tiên 3: 8.75, Ưu tiên 4: TTNV<=4"
+9.0,Y khoa 7720101,29.25,,,"Ưu tiên 1: 29.2, Ưu tiên 2: 9.2, Ưu tiên 3: 9.25, Ưu tiên 4: TTNV<=1"
+10.0,Y Đa khoa phân hiệu Thanh Hóa 7720101_YHT,26.75,,,"Ưu tiên 1: 27.75, Ưu tiên 2: 9, Ưu tiên 3: 9.25, Ưu tiên 4: TTNV<=4"

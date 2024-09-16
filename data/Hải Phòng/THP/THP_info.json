@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Hải Phòng",
+    "id": "THP",
+    "region": "Hải Phòng",
+    "contact_details": {
+        "location": "171 Phan Đăng Lưu - Kiến An - Hải Phòng",
+        "phone": [
+            "0398.171.171",
+            "0773.171.171"
+        ],
+        "website": "tuyensinh.dhhp.edu.vn",
+        "email": [
+            "pktdbcl@dhhp.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 3336,
+        "methods": [
+            "Xét điểm thi tốt nghiệp THPT 2024",
+            "Xét học bạ",
+            "Kết hợp chứng chỉ ngoại ngữ quốc tế và điểm thi tốt nghiệp hoặc học bạ THPT",
+            "Xét ĐGNL của ĐHQG Hà Nội, hoặc ĐGNL của ĐHQG TP.HCM, hoặc ĐGTD của ĐH Bách khoa Hà Nội",
+            "Xét tuyển thẳng"
+        ]
+    }
+}

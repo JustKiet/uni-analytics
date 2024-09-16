@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Tiền Giang",
+    "id": "TTG",
+    "region": "Tiền Giang",
+    "contact_details": {
+        "location": "119 Ấp Bắc, Phường 5, TP Mỹ Tho, Tỉnh Tiền Giang",
+        "phone": [
+            "0273 3 872 624",
+            "0273 6 250 200"
+        ],
+        "website": "http://www.tgu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

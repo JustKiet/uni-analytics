@@ -1,0 +1,29 @@
+{
+    "name": "Đại học Việt Nhật - Đại học Quốc gia Hà Nội",
+    "id": "VJU",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Đường Lưu Hữu Phước, phường Cầu Diễn, quận Nam Từ Liêm, Hà Nội",
+        "phone": [
+            "024.7306.6001 - 5093",
+            "0966954736"
+        ],
+        "website": "http://vju.vnu.edu.vn/",
+        "email": [
+            "admission@vju.ac.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 450,
+        "methods": [
+            "Xét kết quả thi tốt nghiệp THPT 2024",
+            "Xét tuyển bằng bài thi Đánh giá năng lực của ĐHQG Hà Nội",
+            "Xét hồ sơ năng lực",
+            "Xét tuyển dựa trên chứng chỉ quốc tế SAT/ACT/A-level",
+            "Xét tuyển thẳng",
+            "Xét tuyển thẳng theo quy định riêng của ĐHQH Hà Nội",
+            "Xét tuyển kết hợp chứng chỉ ngoại ngữ và kết quả thi tốt nghiệp THPT 2024"
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Ngoại Ngữ - Đại học Đà Nẵng",
+    "id": "DDF",
+    "region": "Đà Nẵng",
+    "contact_details": {
+        "location": "Cơ sở 1: 131 Lương Nhữ Hộc, phường Khuê Trung, quận Cẩm Lệ, Đà Nẵng\nCơ sở 2: 41 Lê Duẩn, phường Hải Châu 1, quận Hải Châu, Đà Nẵng",
+        "phone": [
+            "02363.699.324",
+            "02363.834.285"
+        ],
+        "website": "http://tuyensinh.ufl.udn.vn/",
+        "email": [
+            "dhnn@ufl.udn.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1900,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét tuyển theo đề án của trường: Thí sinh Olympia, Học sinh giỏi cấp tỉnh, tốt nghiệp chương trình THPT nước ngoài, chứng chỉ ngoại ngữ quốc tế, học sinh giỏi THPT",
+            "Xét học bạ",
+            "Xét điểm thi ĐGNL của ĐHQG TP.HCM",
+            "Xét điểm thi tốt nghiệp THPT 2024"
+        ]
+    }
+}

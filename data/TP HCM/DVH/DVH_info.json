@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Văn Hiến",
+    "id": "DVH",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "665-667-669 Điện Biên Phủ, Phường 1, Quận 3\n642 Âu Cơ, Phường 10, Quận Tân Bình",
+        "phone": [
+            "18001568"
+        ],
+        "website": "https://ts.vhu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Học viện Kỹ thuật mật mã",
+    "id": "KMA",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "141 đường Chiến Thắng, Tân Triều, Thanh Trì, Hà Nội",
+        "phone": [
+            "024.38544244",
+            "0986.622.772"
+        ],
+        "website": "http://tuyensinh.actvn.edu.vn/",
+        "email": [
+            "contact@actvn.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 560,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét điểm thi tốt nghiệp THPT 2024"
+        ]
+    }
+}

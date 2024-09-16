@@ -1,0 +1,26 @@
+{
+    "name": "Đại học Công nghệ - Đại học Quốc gia Hà Nội",
+    "id": "QHI",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "E3, 144 Xuân Thủy, Cầu Giấy, Hà Nội",
+        "phone": [
+            "0334924224"
+        ],
+        "website": "https://tuyensinh.uet.vnu.edu.vn/",
+        "email": [
+            "tuyensinhdhcn@vnu.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2960,
+        "methods": [
+            "Xét tuyển thẳng, ưu tiên xét tuyển",
+            "Xét tuyển theo kết quả thi THPT 2024",
+            "Xét tuyển chứng chỉ tiếng Anh quốc tế kết hợp hai môn Toán, Lý thi tốt nghiệp THPT",
+            "Xét theo SAT, A-level hoặc ACT",
+            "Xét tuyển dựa vào điểm thi Đánh giá năng lực"
+        ]
+    }
+}

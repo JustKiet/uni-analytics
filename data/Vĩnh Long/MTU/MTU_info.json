@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Xây dựng Miền Tây",
+    "id": "MTU",
+    "region": "Vĩnh Long",
+    "contact_details": {
+        "location": "Số 20B Phó Cơ Điều, Phường 3, TP Vĩnh Long, tỉnh Vĩnh Long",
+        "phone": [
+            "(0270) 3 825 903"
+        ],
+        "website": "http://mtu.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

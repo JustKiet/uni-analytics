@@ -1,0 +1,151 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Báo in 602,20.4,,,
+2.0,Báo mạng điện tử 607,21.0,,,
+3.0,Báo truyền hình 605,22.75,,,
+4.0,Báo phát thanh 604,20.75,,,
+5.0,Chủ nghĩa xã hội khoa học 7229008|00A16,16.0,,,
+6.0,Chủ nghĩa xã hội khoa học 7229008,16.0,,,
+7.0,Chủ nghĩa xã hội khoa học 7229008|00C15,16.0,,,
+8.0,Công tác xã hội 7760101,19.85,,,
+9.0,Công tác xã hội 7760101|00C15,20.35,,,
+10.0,Công tác xã hội 7760101|00A16,19.35,,,
+11.0,Khoa học quản lý nhà nước 537,17.5,,,
+12.0,Kinh tế chính trị 7310102|00A16,19.7,,,
+13.0,Kinh tế chính trị 7310102,19.95,,,
+14.0,Kinh tế chính trị 7310102|00C15,20.7,,,
+15.0,Lịch sử 7229010,25.75,,,Lịch sử nhân hệ số 2
+16.0,"Ngành Xuất bản, chuyên ngành Xuất bản điện tử 80200C15",20.35,,,
+17.0,"Ngành Quản lý nhà nước, chuyên ngành Quản lý xã hội 532|00C15",17.75,,,
+18.0,"Ngành Lịch sử, chuyên ngành Lịch sử Đảng Cộng sản Việt Nam 7229010|00C03",23.75,,,Lịch sử nhân hệ số 2
+19.0,"Ngành Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp 615|00D78",34.0,,,Tiếng Anh hệ số 2
+20.0,"Ngành Quan hệ công chúng, chuyên ngành Truyền thông marketing (chất lượng cao) 616|00D78",32.25,,,Tiếng Anh hệ số 2
+21.0,"Ngành Quan hệ công chúng, chuyên ngành Truyền thông marketing (chất lượng cao) 616|00R25",33.0,,,Tiếng Anh quy đổi
+22.0,"Ngành Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại 610|00R26",30.75,,,Tiếng Anh quy đổi
+23.0,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và truyền thông quốc tế 611|00R26",30.7,,,Tiếng Anh quy đổi
+24.0,"Ngành Báo chí, chuyên ngành Báo mạng điện tử (chất lượng cao) 609|00R15",18.85,,,
+25.0,"Ngành Báo chí, chuyên ngành Báo mạng điện tử 607|00R15",20.5,,,
+26.0,"Ngành Báo chí, chuyên ngành Báo mạng điện tử 607|00R16",23.0,,,
+27.0,"Ngành Báo chí, chuyên ngành Báo truyền hình 605|00R06",21.5,,,
+28.0,"Ngành Báo chí, chuyên ngành Báo in 602|00R16",22.15,,,
+29.0,"Ngành Chính trị học, chuyên ngành Văn hóa phát triển 535|00C15",17.75,,,
+30.0,"Ngành Chính trị học, chuyên ngành Chính sách công 536|00C15",16.0,,,
+31.0,"Ngành Chính trị học, chuyên ngành Chính trị học phát triển 531|00A16",16.0,,,
+32.0,"Ngành Kinh tế, chuyên ngành Quản lý kinh tế 527|00C15",21.25,,,
+33.0,"Ngành Chính trị học, chuyên ngành Truyền thông chính sách 538",18.75,,,
+34.0,"Ngành Báo chí, chuyên ngành Quay phim truyền hình 606",16.5,,,
+35.0,"Ngành Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp 615",32.75,,,Tiếng Anh hệ số 2
+36.0,"Ngành Kinh tế, chuyên ngành Kinh tế và Quản lý 529",20.65,,,
+37.0,"Ngành Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp 615|00R25",33.75,,,Tiếng Anh quy đổi
+38.0,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và truyền thông toàn cầu (chất lượng cao) 614|00D78",31.65,,,Tiếng Anh hệ số 2
+39.0,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và truyền thông toàn cầu (chất lượng cao) 614|00R25",31.65,,,Tiếng Anh quy đổi
+40.0,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và truyền thông quốc tế 611|00D78",30.7,,,Tiếng Anh hệ số 2
+41.0,"Ngành Báo chí, chuyên ngành Báo mạng điện tử (chất lượng cao) 609|00R16",21.35,,,
+42.0,"Ngành Báo chí, chuyên ngành Báo truyền hình (chất lượng cao) 608|00R15",19.25,,,
+43.0,"Ngành Báo chí, chuyên ngành Quay phim truyền hình 606|00R11",16.0,,,
+44.0,"Ngành Báo chí, chuyên ngành Ảnh báo chí 603|00R09",18.7,,,
+45.0,"Ngành Báo chí, chuyên ngành Báo phát thanh 604|00R06",19.5,,,
+46.0,"Ngành Chính trị học, chuyên ngành Truyền thông chính sách 538|00C15",18.75,,,
+47.0,"Ngành Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh 533|00A16",16.0,,,
+48.0,"Ngành Kinh tế, chuyên ngành Kinh tế và Quản lý (chất lượng cao) 528|00C15",21.0,,,
+49.0,"Ngành Kinh tế, chuyên ngành Kinh tế và Quản lý 529|00C15",21.4,,,
+50.0,"Ngành Xuất bản, chuyên ngành Biên tập xuất bản 80100C15",21.25,,,
+51.0,"Ngành Quản lý nhà nước, chuyên ngành Quản lý hành chính nhà nước 537|00A16",17.5,,,
+52.0,Ngành Xuất bản 7320401,20.75,,,
+53.0,"Ngành Chính trị học, chuyên ngành Chính trị học phát triển 531",16.0,,,
+54.0,"Ngành Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh 533",16.0,,,
+55.0,"Ngành Báo chí, chuyên ngành Ảnh báo chí 603",21.2,,,
+56.0,"Ngành Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại 610",29.75,,,Tiếng Anh hệ số 2
+57.0,"Ngành Xuất bản, chuyên ngành Biên tập xuất bản 801|00A16",20.25,,,
+58.0,"Ngành Quản lý nhà nước, chuyên ngành Quản lý xã hội 532|00A16",17.75,,,
+59.0,"Ngành Lịch sử, chuyên ngành Lịch sử Đảng Cộng sản Việt Nam 72029010|00C19",25.75,,,Lịch sử nhân hệ số 2
+60.0,"Ngành Quan hệ công chúng, chuyên ngành Truyền thông marketing (chất lượng cao) 616|00R26",33.0,,,Tiếng Anh quy đổi
+61.0,"Ngành Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp 615|00R24",33.25,,,Tiếng Anh quy đổi
+62.0,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và truyền thông toàn cầu (chất lượng cao) 614|00D72",30.15,,,Tiếng Anh hệ số 2
+63.0,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và truyền thông toàn cầu (chất lượng cao) 614|00R24",31.15,,,Tiếng Anh quy đổi
+64.0,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và truyền thông quốc tế 611|00D72",29.2,,,Tiếng Anh hệ số 2
+65.0,"Ngành Báo chí, chuyên ngành Báo mạng điện tử (chất lượng cao) 609|00R06",18.85,,,
+66.0,"Ngành Báo chí, chuyên ngành Báo mạng điện tử 607|00R06",20.0,,,
+67.0,"Ngành Báo chí, chuyên ngành Báo truyền hình (chất lượng cao) 608",20.5,,,
+68.0,"Ngành Báo chí, chuyên ngành Báo truyền hình 605|00R16",24.0,,,
+69.0,"Ngành Báo chí, chuyên ngành Ảnh báo chí 603|00R07",19.2,,,
+70.0,"Ngành Chính trị học, chuyên ngành Truyền thông chính sách 538|00A16",18.75,,,
+71.0,"Ngành Chính trị học, chuyên ngành Chính sách công 536|00A16",16.0,,,
+72.0,"Ngành Chính trị học, chuyên ngành Chính trị học phát triển 531|00C15",16.0,,,
+73.0,"Ngành Kinh tế, chuyên ngành Kinh tế và Quản lý (chất lượng cao) 528|00A16",19.0,,,
+74.0,"Ngành Chính trị học, chuyên ngành Quản lý xã hội 532",17.75,,,
+75.0,"Ngành Chính trị học, chuyên ngành Quản lý hoạt động tư tưởng - văn hóa 530",17.0,,,
+76.0,"Ngành Báo chí, chuyên ngành Báo mạng điện tử (chất lượng cao) 609",20.1,,,
+77.0,"Ngành Quan hệ công chúng, chuyên ngành Truyền thông marketing (chất lượng cao) 616",31.0,,,Tiếng Anh hệ số 2
+78.0,"Ngành Lịch sử, chuyên ngành Lịch sử Đảng Cộng sản Việt Nam 7229010|00C00",25.75,,,Lịch sử nhân hệ số 2
+79.0,"Ngành Quan hệ công chúng, chuyên ngành Truyền thông marketing (chất lượng cao) 616|00D72",30.5,,,Tiếng Anh hệ số 2
+80.0,"Ngành Quan hệ công chúng, chuyên ngành Truyền thông marketing (chất lượng cao) 616|00R24",32.5,,,Tiếng Anh quy đổi
+81.0,"Ngành Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp 615|00D72",32.25,,,Tiếng Anh hệ số 2
+82.0,"Ngành Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại 610|00R25",30.75,,,Tiếng Anh quy
+83.0,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và truyền thông quốc tế 611|00R25",30.7,,,Tiếng Anh quy đổi
+84.0,"Ngành Báo chí, chuyên ngành Báo truyền hình (chất lượng cao) 600R1608",21.75,,,
+85.0,"Ngành Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại 610|00D78",30.75,,,Tiếng Anh hệ số 2
+86.0,"Ngành Báo chí, chuyên ngành Quay phim truyền hình 606|00R18",16.25,,,
+87.0,"Ngành Báo chí, chuyên ngành Báo truyền hình 605|00R15",22.0,,,
+88.0,"Ngành Báo chí, chuyên ngành Báo phát thanh 604|00R15",20.0,,,
+89.0,"Ngành Báo chí, chuyên ngành Báo in 602|00R06",19.15,,,
+90.0,"Ngành Chính trị học, chuyên ngành Văn hóa phát triển 535|00A16",17.75,,,
+91.0,"Ngành Chính trị học, chuyên ngành Quản lý hoạt động tư tưởng - văn hóa 530|00C15",17.0,,,
+92.0,"Ngành Kinh tế, chuyên ngành Quản lý kinh tế 527|00A16",19.25,,,
+93.0,"Ngành Xuất bản, chuyên ngành Xuất bản điện tử 80200A16",19.35,,,
+94.0,"Ngành Kinh tế, chuyên ngành Kinh tế và Quản lý (chất lượng cao) 528",20.25,,,
+95.0,"Ngành Chính trị học, chuyên ngành Chính sách công 536",16.0,,,
+96.0,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và truyền thông toàn cầu (chất lượng cao) 614",30.65,,,Tiếng Anh hệ số 2
+97.0,"Ngành Xuất bản, chuyên ngành Xuất bản điện tử 802",19.85,,,
+98.0,"Ngành Quản lý nhà nước, chuyên ngành Quản lý hành chính nhà nước 537|00C15",17.5,,,
+99.0,"Ngành Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp 615|00R26",33.75,,,Tiếng Anh quy đổi
+100.0,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và truyền thông toàn cầu (chất lượng cao) 614|00R26",31.65,,,Tiếng Anh quy đổi
+101.0,"Ngành Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại 610|00R24",30.25,,,Tiếng Anh quy đổi
+102.0,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và truyền thông quốc tế 611|00R24",30.2,,,Tiếng Anh quy đổi
+103.0,"Ngành Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại 610|00D72",29.25,,,Tiếng Anh hệ số 2
+104.0,"Ngành Báo chí, chuyên ngành Báo truyền hình (chất lượng cao) 608|00R06",18.5,,,
+105.0,"Ngành Báo chí, chuyên ngành Quay phim truyền hình 606|00R13",16.0,,,
+106.0,"Ngành Báo chí, chuyên ngành Ảnh báo chí 603|00R17",21.7,,,
+107.0,"Ngành Báo chí, chuyên ngành Báo phát thanh 604|00R16",22.5,,,
+108.0,"Ngành Báo chí, chuyên ngành Báo in 602|00R15",19.65,,,
+109.0,"Ngành Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh 533|00C15",16.0,,,
+110.0,"Ngành Chính trị học, chuyên ngành Quản lý hoạt động tư tưởng - văn hóa 530|00A16",17.0,,,
+111.0,"Ngành Kinh tế, chuyên ngành Kinh tế và Quản lý 529|00A16",19.9,,,
+112.0,"Ngành Chính trị học, chuyên ngành Văn hóa phát triển 535",17.75,,,
+113.0,"Ngành Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và truyền thông quốc tế 611",29.7,,,Tiếng Anh hệ số 2
+114.0,"Ngành Kinh tế, chuyên ngành Quản lý kinh tế 527",20.5,,,
+115.0,"Ngành Chính trị học, chuyên ngành Quản lý xã hội 532",17.75,,,
+116.0,Ngôn ngữ Anh 7220201|00R25,31.5,,,Tiếng Anh quy đổi
+117.0,Ngôn ngữ Anh 7220201|00D72,30.5,,,Tiếng Anh hệ số 2
+118.0,Ngôn ngữ Anh 7220201,31.0,,,Tiếng Anh hệ số 2
+119.0,Ngôn ngữ Anh 7220201|00R26,31.5,,,Tiếng Anh quy đổi
+120.0,Ngôn ngữ Anh 7220201|00R24,31.5,,,Tiếng Anh quy đổi
+121.0,Ngôn ngữ Anh 7220201|00D78,31.5,,,Tiếng Anh hệ số 2
+122.0,Quản lý công 7340403|00C15,19.75,,,
+123.0,Quản lý công 7340403|00A16,19.75,,,
+124.0,Quản lý công 7340403,19.75,,,
+125.0,Quảng cáo 7320110_1,30.5,,,Tiếng Anh quy đổi
+126.0,Quảng cáo 7320110|00R26,30.75,,,Tiếng Anh quy đổi
+127.0,Quảng cáo 7320110|00R25,30.5,,,Tiếng Anh quy đổi
+128.0,Quảng cáo 7320110,30.5,,,Tiếng Anh hệ số 2
+129.0,Quảng cáo 7320110|00D78,30.75,,,Tiếng Anh hệ số 2
+130.0,Quảng cáo 7320110|00D72,30.25,,,Tiếng Anh hệ số 2
+131.0,Triết học 7229001|00A16,18.0,,,
+132.0,Triết học 7229001|00C15,18.0,,,
+133.0,Triết học 7229001,18.0,,,
+134.0,Truyền thông quốc tế 7320107,31.0,,,Tiếng Anh hệ số 2
+135.0,Truyền thông quốc tế 7320107_1,31.5,,,Tiếng Anh quy đổi
+136.0,Truyền thông quốc tế 7320107|00R26,32.0,,,Tiếng Anh quy đổi
+137.0,Truyền thông đa phương tiện 7320104|00C15,24.75,,,
+138.0,Truyền thông quốc tế 7320107|00R25,31.75,,,Tiếng Anh quy đổi
+139.0,Truyền thông đa phương tiện 7320104|00A16,23.25,,,
+140.0,Truyền thông đại chúng 7320105,22.35,,,
+141.0,Truyền thông đại chúng 7320105|00C15,23.35,,,
+142.0,Truyền thông quốc tế 7320107|00D78,32.0,,,Tiếng Anh hệ số 2
+143.0,Truyền thông đại chúng 7320105|00A16,21.85,,,
+144.0,Truyền thông quốc tế 7320107|00D72,30.5,,,Tiếng Anh hệ số 2
+145.0,Truyền thông đa phương tiện 7320104,23.75,,,
+146.0,Xã hội học 7310301|00C15,20.15,,,
+147.0,Xã hội học 7310301,19.65,,,
+148.0,Xã hội học 7310301|00A16,19.15,,,
+149.0,Xây dựng Đảng và Chính quyền nhà nước 7310202,17.25,,,
+150.0,Xây dựng Đảng và Chính quyền nhà nước 7310202|00C15,18.0,,,

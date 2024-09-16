@@ -1,0 +1,26 @@
+{
+    "name": "Đại học Kinh Tế - Đại học Quốc Gia Hà Nội",
+    "id": "QHE",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Nhà E4, 144 đường Xuân Thủy, quận Cầu Giấy, Hà Nội.",
+        "phone": [
+            "024.37547506"
+        ],
+        "website": "http://tuyensinhdaihoc.ueb.edu.vn",
+        "email": [
+            "tuyensinhdaihoc_dhkt@vnu.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2350,
+        "methods": [
+            "Xét tuyển sử dụng kết quả thi tốt nghiệp THPT năm 2024",
+            "Xét tuyển kết quả thi ĐGNL học sinh bậc THPT do ĐHQGHN tổ chức",
+            "Xét tuyển chứng chỉ quốc tế",
+            "Xét tuyển chứng chỉ tiếng Anh quốc tế kết hợp kết quả học tập bậc THPT và kết hợp phỏng vấn",
+            "Xét tuyển kết quả trong kỳ thi chuẩn hóa SAT/ACT/A-level"
+        ]
+    }
+}

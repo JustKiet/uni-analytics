@@ -1,0 +1,16 @@
+{
+    "name": "Đại học Nông Lâm TP HCM",
+    "id": "NLS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Khu phố 6, Phường Linh Trung, TP Thủ Đức, TP HCM",
+        "phone": [
+            "028.3896.6780",
+            "028.3896.3350",
+            "028. 3897.4716"
+        ],
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": null
+}

@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Giao thông Vận tải ( Cơ sở Phía Bắc )",
+    "id": "GHA",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 3 Cầu giấy, phường Láng Thượng, quận Đống Đa, Hà Nội",
+        "phone": [
+            "024.3760.6352",
+            "024.3766.3311"
+        ],
+        "website": "http://tuyensinh.utc.edu.vn/",
+        "email": [
+            "khaothi_dbcldt@utc.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 5890,
+        "methods": [
+            "Xét tuyển theo kết quả kỳ thi tốt nghiệp Trung học phổ thông",
+            "(THPT) năm 2024 và học sinh đoạt giải quốc gia, quốc tế.",
+            "Sử dụng kết quả học tập THPT",
+            "Xét tuyển theo Đánh giá tư duy bách khoa (tại hà nội) à Đánh giá năng lực của ĐHQG HCM (tại TP HCM)",
+            "Xét tuyển kết hợp IELTS và kết quả học tập 2 môn học THPT 6 kỳ"
+        ]
+    }
+}

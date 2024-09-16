@@ -1,0 +1,14 @@
+{
+    "name": "Đại học Công nghệ Giao thông vận tải",
+    "id": "GTA",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Số 54 Phố Triều Khúc, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội",
+        "phone": [
+            "0243.552.6713"
+        ],
+        "website": "https://utt.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

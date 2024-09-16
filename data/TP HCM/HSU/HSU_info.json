@@ -1,0 +1,25 @@
+{
+    "name": "Đại học Hoa Sen",
+    "id": "HSU",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 8 Nguyễn Văn Tráng, Phường Bến Thành, Quận 1, TP HCM",
+        "phone": [
+            "02873007272"
+        ],
+        "website": "https://tuyensinh.hoasen.edu.vn/",
+        "email": [
+            "tuyensinh@hoasen.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 4000,
+        "methods": [
+            "xét tuyển trên kết quả kỳ thi tốt nghiệp trung học phổ thông năm 2024",
+            "xét tuyển trên học bạ trung học phổ thông (THPT)",
+            "xét tuyển thẳng vào trường Đại học Hoa Sen",
+            "xét tuyển trên kết quả kỳ thi đánh giá năng lực ĐH Quốc gia Hà Nội và ĐH Quốc gia TP.HCM 2024"
+        ]
+    }
+}

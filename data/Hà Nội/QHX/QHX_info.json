@@ -1,0 +1,27 @@
+{
+    "name": "Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội",
+    "id": "QHX",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "336 Nguyễn Trãi, Thanh Xuân, Hà Nội",
+        "phone": [
+            "0862.155.299"
+        ],
+        "website": "http://tuyensinh.ussh.edu.vn/",
+        "email": [
+            "tuyensinh@ussh.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2300,
+        "methods": [
+            "Xét tuyển thẳng, ưu tiên xét tuyển",
+            "Xét tuyển thẳng, ưu tiên xét tuyển theo quy định của ĐHQG HN",
+            "Xét tuyển dựa vào kết quả thi bài thi Đánh giá năng lực của ĐHQG HN",
+            "Xét tuyển chứng chỉ quốc tế SAT/ACT/A-level",
+            "Xét tuyển chứng chỉ ngoại ngữ quốc tế kết hợp điểm thi tốt nghiệp THPT",
+            "Xét tuyển dựa vào điểm thi THPT 2024"
+        ]
+    }
+}

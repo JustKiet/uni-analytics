@@ -1,0 +1,26 @@
+{
+    "name": "Đại học Y Dược TP HCM",
+    "id": "YDS",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 217, đường Hồng Bàng, Phường 11, Quận 5, TP HCM",
+        "phone": [
+            "090 3537782"
+        ],
+        "website": "https://ump.edu.vn/tuyen-sinh-dao-tao/dai-hoc/tuyen-sinh",
+        "email": [
+            "nnkhoi@ump.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2516,
+        "methods": [
+            "Xét tuyển thẳng",
+            "Xét điểm thi tốt nghiệp THPT",
+            "Xét điểm thi tốt nghiệp THPT kết hợp chứng chỉ ngoại ngữ quốc tế",
+            "Xét điểm thi chứng chỉ SAT",
+            "Xét tuyển dự bị đại học"
+        ]
+    }
+}

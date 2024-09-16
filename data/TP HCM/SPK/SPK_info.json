@@ -1,0 +1,28 @@
+{
+    "name": "Đại học Sư phạm Kỹ thuật TP HCM",
+    "id": "SPK",
+    "region": "TP HCM",
+    "contact_details": {
+        "location": "Số 1, Võ Văn Ngân, TP Thủ Đức, TP HCM",
+        "phone": [
+            "028.37225724",
+            "0902043979",
+            ""
+        ],
+        "website": "http://tuyensinh.hcmute.edu.vn/#/home",
+        "email": [
+            "tuyensinh@hcmute.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 6500,
+        "methods": [
+            "Tuyển thẳng",
+            "Ưu tiên xét tuyển HSG, điểm SAT",
+            "Xét học bạ",
+            "Xét tuyển dựa trên điểm thi Đánh giá năng lực ĐHQG TP HCM",
+            "Xét tuyển dựa trên điểm thi tốt nghiệp THPT 2024"
+        ]
+    }
+}

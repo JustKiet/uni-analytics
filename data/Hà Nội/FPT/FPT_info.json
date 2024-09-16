@@ -1,0 +1,14 @@
+{
+    "name": "Đại Học FPT",
+    "id": "FPT",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Khu Giáo dục và Đào tạo, Khu Công nghệ cao Hòa Lạc, Km 29, Đại lộ Thăng Long, Thạch Thất, Hà Nội",
+        "phone": [
+            "(024) 73001866"
+        ],
+        "website": "http://www.fpt.edu.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}

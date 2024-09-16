@@ -1,0 +1,23 @@
+{
+    "name": "Đại Học Công Nghiệp Việt Trì",
+    "id": "VUI",
+    "region": "Phú Thọ",
+    "contact_details": {
+        "location": "Tiên Kiên - Lâm Thao - Phú Thọ; Tiên Cát - TP. Việt Trì - Phú Thọ",
+        "phone": [
+            "http://www.vui.edu.vn"
+        ],
+        "website": "http://www.vui.edu.vn",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 1710,
+        "methods": [
+            "Xét tuyển thẳng, ưu tiên xét tuyển",
+            "Sử dụng kết quả thi tốt nghiệp THPT 2024",
+            "Xét tuyển bằng kết quả thi đánh giá năng lực của Đại học Quốc gia Hà Nội 2024",
+            "Xét tuyển dựa vào kết quả học tập THPT"
+        ]
+    }
+}

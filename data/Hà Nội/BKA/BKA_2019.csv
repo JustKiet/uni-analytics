@@ -1,0 +1,56 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Chương trình tiên tiến Phân tích kinh doanh EM-E13,22.0,,,Môn chính: Toán
+2.0,Chương trình tiên tiến KHKT Vật liệu MS-E3,21.6,,,Môn chính: Toán
+3.0,Chương trình tiên tiến Kỹ thuật Ô tô TE-E2,24.23,,,Môn chính: Toán
+4.0,Chương trình tiên tiến Điều khiển - Tự động hóa và Hệ thống điện EE-E8,25.2,,,Môn chính: Toán
+5.0,Chương trình tiên tiến Khoa học dữ liệu và Trí tuệ nhân tạo IT-E10,27.0,,,Môn chính: Toán
+6.0,Chương trình tiên tiến Kỹ thuật Thực phẩm BF-E12,23.0,,,Môn chính: Toán
+7.0,Chương trình tiên tiến Điện tử - Viễn thông ET-E4,24.6,,,Môn chính: Toán
+8.0,Chương trình tiên tiến Hệ thống nhúng thông minh và IoT ET-E9,24.95,,,Môn chính: Toán
+9.0,Chương trình tiên tiến Cơ điện tử ME-E1,24.06,,,Môn chính: Toán
+10.0,Chương trình tiên tiến Kỹ thuật Hóa dược CH-E11,23.1,,,Môn chính: Toán
+11.0,Chương trình tiên tiến Kỹ thuật Y sinh ET-E5,24.1,,,Môn chính: Toán
+12.0,Cơ khí - Chế tạo máy - ĐH Griffith (Úc) ME-GU,21.2,,,
+13.0,Cơ điện tử - ĐH Nagaoka (Nhật Bản) ME-NUT,22.15,,,
+14.0,Cơ điện tử - ĐH Leibniz Hannover (Đức) ME-LUH,20.5,,,
+15.0,Công nghệ thông tin ICT IT-E7,26.0,,,Môn chính: Toán
+16.0,Công nghệ thông tin - ĐH La Trobe (Úc) IT-LTU,23.25,,,
+17.0,Công nghệ giáo dục ED2,20.6,,,
+18.0,Công nghệ thông tin Việt-Nhật IT-E6,25.7,,,Môn chính: Toán
+19.0,Công nghệ thông tin - ĐH Victoria (New Zealand) IT-VUW,22.0,,,
+20.0,Điện tử - Viễn thông - ĐH Leibniz Hannover (Đức) ET-LUH,20.3,,,
+21.0,Hệ thống thông tin - ĐH Grenoble (Pháp) IT-GINP,20.0,,,
+22.0,Hệ thống thông tin quản lý MI2,24.8,,,Môn chính: Toán
+23.0,Hóa học CH2,21.1,,,Môn chính: Toán
+24.0,Kế toán EM4,22.6,,,
+25.0,Khoa học Máy tính IT1,27.42,,,Môn chính: Toán
+26.0,Khoa học máy tính - ĐH Troy (Hoa Kỳ) TROY-IT,20.6,,,
+27.0,Kinh tế công nghiệp EM1 (trước 2023),21.9,,,
+28.0,Kỹ thuật Môi trường EV1,20.2,,,Môn chính: Toán
+29.0,Kỹ thuật Cơ khí ME2,23.86,,,Môn chính: Toán
+30.0,Kỹ thuật Sinh học BF1,23.4,,,Môn chính: Toán
+31.0,Kỹ thuật Hóa học CH1,22.3,,,Môn chính: Toán
+32.0,Kỹ thuật in CH3,21.1,,,Môn chính: Toán
+33.0,Kỹ thuật Thực phẩm BF2,24.0,,,Môn chính: Toán
+34.0,Kỹ thuật Điện tử - Viễn thông ET1,24.8,,,Môn chính: Toán
+35.0,Kỹ thuật hạt nhân PH2,20.0,,,Môn chính: Toán
+36.0,Kỹ thuật Dệt TX1,21.88,,,Môn chính: Toán
+37.0,Kỹ thuật Điều khiển - Tự động hóa EE2,26.05,,,Môn chính: Toán
+38.0,Kỹ thuật Cơ điện tử ME1,25.4,,,Môn chính: Toán
+39.0,Kỹ thuật Vật liệu MS1,21.4,,,Môn chính: Toán
+40.0,Kỹ thuật Cơ khí động lực TE2,23.7,,,Môn chính: Toán
+41.0,Kỹ thuật Nhiệt HE1,22.3,,,Môn chính: Toán
+42.0,Kỹ thuật Máy tính IT2,26.85,,,Môn chính: Toán
+43.0,Kỹ thuật Ô tô TE1,25.05,,,Môn chính: Toán
+44.0,Kỹ thuật Hàng không TE3,24.7,,,Môn chính: Toán
+45.0,Kỹ thuật Điện EE1,24.28,,,Môn chính: Toán
+46.0,Quản trị kinh doanh - ĐH Victoria (New Zealand) EM-VUW,20.9,,,
+47.0,Quản lý công nghiệp EM2,22.3,,,
+48.0,Quản trị kinh doanh - ĐH Troy (Hoa Kỳ) TROY-BA,20.2,,,
+49.0,Quản lý công nghiệp - Logistics và Quản lý chuỗi cung ứng - ĐH Northampton (Anh) EM-NU,23.0,,,
+50.0,Quản trị kinh doanh EM3,23.3,,,
+51.0,Tài chính - Ngân hàng EM5,22.5,,,
+52.0,Tiếng Anh chuyên nghiệp quốc tế FL2,23.2,,,Môn chính: Anh
+53.0,Tiếng Anh KHKT và Công nghệ FL1,22.6,,,Môn chính: Anh
+54.0,Toán-Tin MI1,25.2,,,Môn chính: Toán
+55.0,Vật lý kỹ thuật PH1,22.1,,,Môn chính: Toán

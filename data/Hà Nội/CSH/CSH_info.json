@@ -1,0 +1,23 @@
+{
+    "name": "Học viện Cảnh sát nhân dân",
+    "id": "CSH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Phường Cổ Nhuế 2, quận Bắc Từ Liêm, Hà Nội.",
+        "phone": [
+            "0972.888.060",
+            "0975.132.383"
+        ],
+        "website": "http://hvcsnd.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 530,
+        "methods": [
+            "Tuyển thẳng",
+            "Xét tuyển thẳng kết hợp chứng chỉ ngoại ngữ quốc tế với kết quả học tập THPT",
+            "Xét tuyển kết hợp kết quả thi tốt nghiệp THPT với kết quả bài thi đánh giá của Bộ Công an"
+        ]
+    }
+}

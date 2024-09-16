@@ -1,0 +1,21 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Công nghệ thực phẩm 7540101,16.0,,,
+2.0,Công nghệ kỹ thuật điều khiển và tự động hóa 7510303,21.45,,,Toán >=7.2 NV1
+3.0,Công nghệ sinh học 7420201,16.0,,,
+4.0,Công nghệ thông tin 7480201,24.85,,,Toán >=8.4 NV<=6
+5.0,Điện tử - viễn thông 7510302,21.65,,,Toán >=6.2 NV<=2
+6.0,Kế toán 7340301,24.9,,,Toán >=8.2 NV<=4
+7.0,Luật quốc tế 7380108,23.9,,,Toán >=7.6 NV<=4
+8.0,Luật kinh tế 7380107|00C00,26.0,,,Văn >=8.5 NV<=3
+9.0,Luật kinh tế 7380107,24.45,,,Toán >=8.2 NV<=3
+10.0,Luật quốc tế (THXT C00) 7380108|00C00,24.75,,,Văn >=6.25 NV<=5
+11.0,Ngành Luật 7380101|00C00,25.25,,,Văn >=7.25 NV<=4
+12.0,Ngành Luật 7380101,23.9,,,Toán >=8.4 NV<=7
+13.0,Ngôn ngữ Trung Quốc 7220204,34.87,,,"Tiếng Anh, tiếng Trung >=9.6 +nhân 2 NV<=6"
+14.0,Ngôn ngữ Anh 7220201,34.27,,,tiếng Anh >=9 + nhân 2 NV1
+15.0,Quản trị dịch vụ du lịch và lữ hành 7810103,32.61,,,
+16.0,Quản trị doanh nghiệp 7340101,25.15,,,"Toán, tiếng Anh >=8.4 NV<=7"
+17.0,Quản trị khách sạn 7810201,33.18,,,tiếng Anh >=8.6 + nhân 2 NV<=3
+18.0,Tài chính – Ngân hàng 7340201,24.7,,,Toán >=8.2 NV<=5
+19.0,Thiết kế công nghiệp 7210402,20.46,,,Hình hoạ >=8.0 NV1
+20.0,Thương mại điện tử 7340122,25.85,,,"Toán, tiếng Anh >=9.2 NV<=4"

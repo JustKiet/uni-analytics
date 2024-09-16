@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Bách Khoa - Đại học Đà Nẵng",
+    "id": "DDK",
+    "region": "Đà Nẵng",
+    "contact_details": {
+        "location": "54 Nguyễn Lương Bằng, phường Hòa Khánh, quận Liên Chiểu, Đà Nẵng",
+        "phone": [
+            "0888.377.177",
+            "0888.477.377"
+        ],
+        "website": "http://dut.udn.vn/Tuyensinh2021",
+        "email": "null"
+    },
+    "admission_details": null
+}

@@ -1,0 +1,35 @@
+STT,"Tên, mã ngành",Điểm chuẩn,Tổ hợp môn,Học phí (VNĐ),Ghi chú
+1.0,Báo chí (Chất lượng cao) 7320101CLC,15.0,,,VA >= 4.5;TTNV <= 4
+2.0,Báo chí 7320101,17.0,,,VA >= 5;TTNV <= 1
+3.0,Công nghệ thông tin (chương trình chất lượng cao) 7480201CLC,15.1,,,TO >= 5.4;LI >= 4.5;TTNV <= 2
+4.0,Công nghệ sinh học 7420201,15.0,,,TO >= 5;TTNV <= 1
+5.0,Công nghệ thông tin (đặc thù) 7480201DT,22.25,,,
+6.0,Công tác xã hội 7760101,15.0,,,VA >= 3;TTNV <= 2
+7.0,Công nghệ thông tin 7480201,15.0,,,TO >= 6;LI >= 4;TTNV <= 3
+8.0,ĐH Toán ứng dụng 7460112,21.0,,,
+9.0,Địa lý học 7310501,15.0,,,DI >= 4.75;VA >= 4.5;TTNV <= 1
+10.0,Giáo dục Tiểu học 7140202,17.75,,,TO >= 4.8;VA >= 7;N1 >= 5.2;TTNV <= 2
+11.0,Giáo dục Chính trị 7140205,19.0,,,VA >= 4.75;TTNV <= 3
+12.0,Giáo dục Mầm non 7140201,19.25,,,NK2 >= 6.25;TO >= 6;VA >= 6.75;TTNV <= 1
+13.0,Hóa học 7440112,15.0,,,HO >= 4.5;TO >= 5;TTNV <= 3
+14.0,Hóa học CLC 7440112CLC,15.7,,,HO >= 5.25;TO >= 5.2;TTNV <= 5
+15.0,Khoa học môi trường 7440301,21.5,,,
+16.0,Lịch sử 7229010,15.25,,,SU >= 3.5;VA >= 6;TTNV <= 1
+17.0,Quản lý tài nguyên và môi trường 7850101,15.05,,,TO >= 4.8;TTNV <= 4
+18.0,Quản lý tài nguyên và môi trường (Chất lượng cao) 7850101CLC,21.05,,,
+19.0,Sư phạm Ngữ văn 7140217,21.0,,,VA >= 6.25;TTNV <= 2
+20.0,Sư phạm Địa lý 7140219,17.5,,,DI >= 5.25;VA >= 5.5;TTNV <= 1
+21.0,Sư phạm Toán học 7140209,19.5,,,TO >= 7;LI >= 5.5;TTNV <= 1
+22.0,Sư phạm Lịch sử 7140218,17.0,,,SU >= 2.25;VA >= 6;TTNV <= 3
+23.0,Sư phạm Sinh học 7140213,17.0,,,SI >= 5.25;TO >= 6;TTNV <= 5
+24.0,Sư phạm Âm nhạc 7140221,20.65,,,NK4 >= 6;NK5 >= 8.5;VA >= 5;TTNV <= 1
+25.0,Sư phạm Vật lý 7140211,17.0,,,LI >= 6;TO >= 5;TTNV <= 2
+26.0,Sư phạm Hóa học 7140212,18.5,,,HO >= 6.25;TO >= 6;TTNV <= 3
+27.0,Sư phạm Tin học (Chuyên ngành Tin học – Công nghệ Tiểu học) 7140210,21.0,,,
+28.0,Tâm lý học 7310401,15.0,,,TTNV <= 6
+29.0,Tâm lý học (Chất lượng cao) 7310401CLC,15.4,,,TTNV <= 6
+30.0,Văn học 7229030,15.0,,,VA >= 4;TTNV <= 1
+31.0,Văn hoá học 7229040,15.25,,,VA >= 3;TTNV <= 2
+32.0,Vật lý học 7440102,21.5,,,
+33.0,Việt Nam học CLC 7310630CLC,15.05,,,VA >= 5.25;TTNV <= 5
+34.0,Việt Nam học 7310630D,15.0,,,VA >= 3.75;TTNV

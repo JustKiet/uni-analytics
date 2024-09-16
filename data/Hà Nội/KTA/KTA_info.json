@@ -1,0 +1,15 @@
+{
+    "name": "Đại học Kiến trúc Hà Nội",
+    "id": "KTA",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Km10, Đường NguyễnTrãi, Thanh Xuân, Hà Nội.",
+        "phone": [
+            "0243.854 .2391",
+            "093.618.8538"
+        ],
+        "website": "http://tuyensinh.hau.edu.vn/",
+        "email": "null"
+    },
+    "admission_details": null
+}

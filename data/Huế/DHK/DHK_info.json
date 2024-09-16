@@ -1,0 +1,21 @@
+{
+    "name": "Đại học Kinh Tế - Đại học Huế",
+    "id": "DHK",
+    "region": "Huế",
+    "contact_details": {
+        "location": "null",
+        "phone": "null",
+        "website": "null",
+        "email": "null"
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 2480,
+        "methods": [
+            "Xét tuyển theo kết quả thi THPT năm 2024",
+            "Xét tuyển thẳng",
+            "Xét kết quả thi đánh giá năng lực năm 2024 của ĐHGQ TP. HCM",
+            "Xét học sinh giỏi THPT, đạt giải Nhất, Nhì, Ba trong các cuộc thi học sinh giỏi cấp tỉnh, thành phố trực thuộc trung ương hoặc có chứng chỉ ngoại ngữ quốc tế IELTS >= 5.0 hoặc TOEFL iBT >= 60, TOEFL ITP >= 500"
+        ]
+    }
+}

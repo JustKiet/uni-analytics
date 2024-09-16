@@ -1,0 +1,25 @@
+{
+    "name": "Đại học Điều Dưỡng Nam Định",
+    "id": "YDD",
+    "region": "Nam Định",
+    "contact_details": {
+        "location": "257 Hàn Thuyên, TP. Nam Định, Nam Định",
+        "phone": [
+            "(0228) 3643495"
+        ],
+        "website": "https://ndun.edu.vn/",
+        "email": [
+            "dieuduong@ndun.edu.vn"
+        ]
+    },
+    "admission_details": {
+        "year": 2024,
+        "admission_target": 910,
+        "methods": [
+            "Xét điểm thi ĐGNL của ĐHQG Hà Nội",
+            "Điểm thi tốt nghiệp THPT 2024",
+            "Học bạ THPT",
+            "Xét tuyển thẳng, ưu tiên xét tuyển"
+        ]
+    }
+}

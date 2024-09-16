@@ -1,0 +1,14 @@
+{
+    "name": "Học Viện Quân Y - Hệ Dân sự",
+    "id": "DYH",
+    "region": "Hà Nội",
+    "contact_details": {
+        "location": "Phường Phúc La, Hà Đông, Hà Nội",
+        "phone": [
+            "http://www.hocvienquany.vn"
+        ],
+        "website": "http://www.hocvienquany.vn",
+        "email": "null"
+    },
+    "admission_details": null
+}
